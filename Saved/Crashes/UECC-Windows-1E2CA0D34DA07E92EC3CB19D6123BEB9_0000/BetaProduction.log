@@ -1,0 +1,1245 @@
+﻿Log file open, 10/08/22 19:38:13
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogProfilingDebugging: Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64).
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogWindows: Started CrashReportClient (pid=5948)
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: BetaProduction
+LogCore: UnrealTraceServer: Trace store launch successful
+LogCsvProfiler: Display: Metadata set : platform="Windows"
+LogCsvProfiler: Display: Metadata set : config="Development"
+LogCsvProfiler: Display: Metadata set : buildversion="++UE5+Release-5.0-CL-20979098"
+LogCsvProfiler: Display: Metadata set : engineversion="5.0.3-20979098+++UE5+Release-5.0"
+LogCsvProfiler: Display: Metadata set : commandline="" "C:\Users\ASUS\Dropbox\내 PC (LAPTOP-8VBB4RB0)\Desktop\BetaProduction\BetaProduction.uproject" -EpicPortal -epicusername=teto0525 -epicuserid=f46cd4f42ad3414c85066d2dfc324670 -epiclocale=ko -epicsandboxid=ue""
+LogCsvProfiler: Display: Metadata set : os="Windows 10 (21H2) [10.0.19044.1889] "
+LogCsvProfiler: Display: Metadata set : cpu="GenuineIntel|Intel(R) Core(TM) i7-8750H CPU @ 2.20GHz"
+LogCsvProfiler: Display: Metadata set : pgoenabled="0"
+LogCsvProfiler: Display: Metadata set : loginid="c6f1933942a08a847cf2d38496dab3f1"
+LogCsvProfiler: Display: Metadata set : llm="0"
+LogPlatformFile: Not using cached read wrapper
+LogStats: Stats thread started at 0.490353
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +9:00, Platform Override: ''
+LogInit: Session CrashGUID >====================================================
+         Session CrashGUID >   UECC-Windows-1E2CA0D34DA07E92EC3CB19D6123BEB9
+         Session CrashGUID >====================================================
+LogConfig: Display: Loading IOS ini files took 0.11 seconds
+LogConfig: Display: Loading HoloLens ini files took 0.11 seconds
+LogConfig: Display: Loading Android ini files took 0.11 seconds
+LogConfig: Display: Loading Mac ini files took 0.11 seconds
+LogConfig: Display: Loading Unix ini files took 0.14 seconds
+LogConfig: Display: Loading TVOS ini files took 0.15 seconds
+LogConfig: Display: Loading LinuxArm64 ini files took 0.17 seconds
+LogConfig: Display: Loading Linux ini files took 0.18 seconds
+LogConfig: Display: Loading VulkanPC ini files took 0.08 seconds
+LogConfig: Display: Loading Windows ini files took 0.11 seconds
+LogPluginManager: Mounting Engine plugin FastBuildController
+LogPluginManager: Mounting Engine plugin MeshPainting
+LogPluginManager: Mounting Engine plugin XGEController
+LogPluginManager: Mounting Engine plugin AISupport
+LogPluginManager: Mounting Engine plugin EnvironmentQueryEditor
+LogPluginManager: Mounting Engine plugin AnimationModifierLibrary
+LogPluginManager: Mounting Engine plugin Paper2D
+LogPluginManager: Mounting Engine plugin BlendSpaceMotionAnalysis
+LogPluginManager: Mounting Engine plugin ControlRig
+LogPluginManager: Mounting Engine plugin ControlRigSpline
+LogPluginManager: Mounting Engine plugin IKRig
+LogPluginManager: Mounting Engine plugin OodleNetwork
+LogPluginManager: Mounting Engine plugin AssetManagerEditor
+LogPluginManager: Mounting Engine plugin CryptoKeys
+LogPluginManager: Mounting Engine plugin DatasmithContent
+LogPluginManager: Mounting Engine plugin CurveEditorTools
+LogPluginManager: Mounting Engine plugin DataValidation
+LogPluginManager: Mounting Engine plugin EditorDebugTools
+LogPluginManager: Mounting Engine plugin VariantManagerContent
+LogPluginManager: Mounting Engine plugin EditorScriptingUtilities
+LogPluginManager: Mounting Engine plugin AnimationSharing
+LogPluginManager: Mounting Engine plugin FacialAnimation
+LogPluginManager: Mounting Engine plugin GameplayTagsEditor
+LogPluginManager: Mounting Engine plugin GeometryMode
+LogPluginManager: Mounting Engine plugin CLionSourceCodeAccess
+LogPluginManager: Mounting Engine plugin MacGraphicsSwitching
+LogPluginManager: Mounting Engine plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting Engine plugin MaterialAnalyzer
+LogPluginManager: Mounting Engine plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting Engine plugin ModelingToolsEditorMode
+LogPluginManager: Mounting Engine plugin GitSourceControl
+LogPluginManager: Mounting Engine plugin PluginBrowser
+LogPluginManager: Mounting Engine plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting Engine plugin SequencerAnimTools
+LogPluginManager: Mounting Engine plugin NullSourceCodeAccess
+LogPluginManager: Mounting Engine plugin SpeedTreeImporter
+LogPluginManager: Mounting Engine plugin StylusInput
+LogPluginManager: Mounting Engine plugin WorldPartitionHLODUtilities
+LogPluginManager: Mounting Engine plugin PlasticSourceControl
+LogPluginManager: Mounting Engine plugin PerforceSourceControl
+LogPluginManager: Mounting Engine plugin PixWinPlugin
+LogPluginManager: Mounting Engine plugin PropertyAccessNode
+LogPluginManager: Mounting Engine plugin PluginUtils
+LogPluginManager: Mounting Engine plugin TextureFormatOodle
+LogPluginManager: Mounting Engine plugin RiderSourceCodeAccess
+LogPluginManager: Mounting Engine plugin SubversionSourceControl
+LogPluginManager: Mounting Engine plugin TraceDataFilters
+LogPluginManager: Mounting Engine plugin UObjectPlugin
+LogPluginManager: Mounting Engine plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting Engine plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting Engine plugin CameraShakePreviewer
+LogPluginManager: Mounting Engine plugin GameplayCameras
+LogPluginManager: Mounting Engine plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting Engine plugin BackChannel
+LogPluginManager: Mounting Engine plugin AutomationUtils
+LogPluginManager: Mounting Engine plugin ChaosCloth
+LogPluginManager: Mounting Engine plugin ChaosClothEditor
+LogPluginManager: Mounting Engine plugin ChaosEditor
+LogPluginManager: Mounting Engine plugin ChaosSolverPlugin
+LogPluginManager: Mounting Engine plugin ChaosNiagara
+LogPluginManager: Mounting Engine plugin CharacterAI
+LogPluginManager: Mounting Engine plugin FullBodyIK
+LogPluginManager: Mounting Engine plugin AlembicImporter
+LogPluginManager: Mounting Engine plugin Niagara
+LogPluginManager: Mounting Engine plugin GeometryCollectionPlugin
+LogPluginManager: Mounting Engine plugin GeometryFlow
+LogPluginManager: Mounting Engine plugin MeshLODToolset
+LogPluginManager: Mounting Engine plugin MeshModelingToolsetExp
+LogPluginManager: Mounting Engine plugin PlanarCut
+LogPluginManager: Mounting Engine plugin PlatformCrypto
+LogPluginManager: Mounting Engine plugin ProxyLODPlugin
+LogPluginManager: Mounting Engine plugin PythonScriptPlugin
+LogPluginManager: Mounting Engine plugin OpenImageDenoise
+LogPluginManager: Mounting Engine plugin SkeletalReduction
+LogPluginManager: Mounting Engine plugin TcpMessaging
+LogPluginManager: Mounting Engine plugin UdpMessaging
+LogPluginManager: Mounting Engine plugin ActorSequence
+LogPluginManager: Mounting Engine plugin MatineeToLevelSequence
+LogPluginManager: Mounting Engine plugin SequencerScripting
+LogPluginManager: Mounting Engine plugin LevelSequenceEditor
+LogPluginManager: Mounting Engine plugin TemplateSequence
+LogPluginManager: Mounting Engine plugin LauncherChunkInstaller
+LogPluginManager: Mounting Engine plugin OnlineBase
+LogPluginManager: Mounting Engine plugin OnlineSubsystem
+LogPluginManager: Mounting Engine plugin OnlineSubsystemNull
+LogPluginManager: Mounting Engine plugin OnlineSubsystemUtils
+LogPluginManager: Mounting Engine plugin AndroidMedia
+LogPluginManager: Mounting Engine plugin AvfMedia
+LogPluginManager: Mounting Engine plugin MediaCompositing
+LogPluginManager: Mounting Engine plugin ImgMedia
+LogPluginManager: Mounting Engine plugin MediaPlayerEditor
+LogPluginManager: Mounting Engine plugin WebMMedia
+LogPluginManager: Mounting Engine plugin WmfMedia
+LogPluginManager: Mounting Engine plugin ActorLayerUtilities
+LogPluginManager: Mounting Engine plugin AndroidFileServer
+LogPluginManager: Mounting Engine plugin AndroidMoviePlayer
+LogPluginManager: Mounting Engine plugin AndroidPermission
+LogPluginManager: Mounting Engine plugin AppleMoviePlayer
+LogPluginManager: Mounting Engine plugin AppleImageUtils
+LogPluginManager: Mounting Engine plugin AudioCapture
+LogPluginManager: Mounting Engine plugin AssetTags
+LogPluginManager: Mounting Engine plugin ArchVisCharacter
+LogPluginManager: Mounting Engine plugin AudioSynesthesia
+LogPluginManager: Mounting Engine plugin CustomMeshComponent
+LogPluginManager: Mounting Engine plugin CableComponent
+LogPluginManager: Mounting Engine plugin ChunkDownloader
+LogPluginManager: Mounting Engine plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin GeometryProcessing
+LogPluginManager: Mounting Engine plugin GeometryCache
+LogPluginManager: Mounting Engine plugin GoogleCloudMessaging
+LogPluginManager: Mounting Engine plugin GooglePAD
+LogPluginManager: Mounting Engine plugin HairStrands
+LogPluginManager: Mounting Engine plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin MeshModelingToolset
+LogPluginManager: Mounting Engine plugin LocationServicesBPLibrary
+LogPluginManager: Mounting Engine plugin MobilePatchingUtils
+LogPluginManager: Mounting Engine plugin ProceduralMeshComponent
+LogPluginManager: Mounting Engine plugin PropertyAccessEditor
+LogPluginManager: Mounting Engine plugin ResonanceAudio
+LogPluginManager: Mounting Engine plugin RuntimePhysXCooking
+LogPluginManager: Mounting Engine plugin SignificanceManager
+LogPluginManager: Mounting Engine plugin SoundFields
+LogPluginManager: Mounting Engine plugin Synthesis
+LogPluginManager: Mounting Engine plugin WebMMoviePlayer
+LogPluginManager: Mounting Engine plugin WindowsDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin WindowsMoviePlayer
+LogPluginManager: Mounting Engine plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserFileDataSource
+LogPluginManager: Mounting Engine plugin InterchangeEditor
+LogPluginManager: Mounting Engine plugin Interchange
+LogPluginManager: Mounting Engine plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting Engine plugin OnlineSubsystemIOS
+LogPluginManager: Mounting Engine plugin OnlineServices
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/2D/Paper2D/Content/' mounted to '/Paper2D/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRig/Content/' mounted to '/ControlRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRigSpline/Content/' mounted to '/ControlRigSpline/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/IKRig/Content/' mounted to '/IKRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Enterprise/DatasmithContent/Content/' mounted to '/DatasmithContent/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Developer/AnimationSharing/Content/' mounted to '/AnimationSharing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/GeometryMode/Content/' mounted to '/GeometryMode/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/ModelingToolsEditorMode/Content/' mounted to '/ModelingToolsEditorMode/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/SpeedTreeImporter/Content/' mounted to '/SpeedTreeImporter/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosClothEditor/Content/' mounted to '/ChaosClothEditor/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosSolverPlugin/Content/' mounted to '/ChaosSolverPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosNiagara/Content/' mounted to '/ChaosNiagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/FullBodyIK/Content/' mounted to '/FullBodyIK/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/FX/Niagara/Content/' mounted to '/Niagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/GeometryCollectionPlugin/Content/' mounted to '/GeometryCollectionPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/GeometryFlow/Content/' mounted to '/GeometryFlow/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/MeshLODToolset/Content/' mounted to '/MeshLODToolset/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/MeshModelingToolsetExp/Content/' mounted to '/MeshModelingToolsetExp/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/PythonScriptPlugin/Content/' mounted to '/PythonScriptPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/MovieScene/SequencerScripting/Content/' mounted to '/SequencerScripting/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Media/MediaCompositing/Content/' mounted to '/MediaCompositing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/AudioSynesthesia/Content/' mounted to '/AudioSynesthesia/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/GeometryProcessing/Content/' mounted to '/GeometryProcessing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/HairStrands/Content/' mounted to '/HairStrands/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/MeshModelingToolset/Content/' mounted to '/MeshModelingToolset/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/ResonanceAudio/Content/' mounted to '/ResonanceAudio/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/Synthesis/Content/' mounted to '/Synthesis/'
+SourceControl: Source control is disabled
+SourceControl: Source control is disabled
+PixWinPlugin: PIX capture plugin failed to initialize! Check that the process is launched from PIX.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: Created online subsystem instance for: NULL
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE5+Release-5.0-CL-20979098
+LogInit: Engine Version: 5.0.3-20979098+++UE5+Release-5.0
+LogInit: Compatible Engine Version: 5.0.0-19505902+++UE5+Release-5.0
+LogInit: Net CL: 19505902
+LogInit: OS: Windows 10 (21H2) [10.0.19044.1889] (), CPU: Intel(R) Core(TM) i7-8750H CPU @ 2.20GHz, GPU: Intel(R) UHD Graphics 630
+LogInit: Compiled (64-bit): Jul  7 2022 02:16:06
+LogInit: Compiled with Visual C++: 19.29.30138.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE5+Release-5.0
+LogInit: Command Line:  -EpicPortal -epicusername=teto0525 -epicuserid=f46cd4f42ad3414c85066d2dfc324670 -epiclocale=ko -epicsandboxid=ue
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_5.0/Engine/Binaries/Win64/
+LogInit: Allocator: Mimalloc
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 34
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 20
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 45
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 13
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 59
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 3
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 41
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   UE5-Main (697DD581-E64F-41AB-AA4A-51ECBEB7B628): 59
+LogDevObjectVersion:   UE5-Release (D89B5E42-24BD-4D46-8412-ACA8DF641779): 36
+LogDevObjectVersion:   UE5-PrivateFrosty (59DA5D52-1232-4948-B878-597870B8E98B): 8
+LogDevObjectVersion:   UE5-Dev-Cooker (26075A32-730F-4708-88E9-8C32F1599D05): 0
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogDevObjectVersion:   UE5-Dev-LWCRendering (30D58BE3-95EA-4282-A6E3-B159D8EBB06A): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: CVar [[con.DebugLateDefault:1]] deferred - dummy variable created
+LogConfig: CVar [[con.DebugLateCheat:1]] deferred - dummy variable created
+LogConfig: CVar [[r.DetectAndWarnOfBadDrivers:0]] deferred - dummy variable created
+LogConfig: CVar [[LogNamedEventFilters:Frame *]] deferred - dummy variable created
+LogConfig: CVar [[framepro.ScopeMinTimeMicroseconds:10]] deferred - dummy variable created
+LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
+[2022.10.08-10.38.15:118][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [Engine]
+[2022.10.08-10.38.15:118][  0]LogConfig: CVar [[VisualizeCalibrationColorMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationColor.PPM_DefaultCalibrationColor]] deferred - dummy variable created
+[2022.10.08-10.38.15:118][  0]LogConfig: CVar [[VisualizeCalibrationGrayscaleMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationGrayscale.PPM_DefaultCalibrationGrayscale]] deferred - dummy variable created
+[2022.10.08-10.38.15:118][  0]LogConfig: CVar [[MaxSkinBones:(Default=65536,PerPlatform=(("Mobile", 256)))]] deferred - dummy variable created
+[2022.10.08-10.38.15:118][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [Engine]
+[2022.10.08-10.38.15:118][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [Engine]
+[2022.10.08-10.38.15:118][  0]LogConfig: CVar [[s.MaxPackageSummarySize:16384]] deferred - dummy variable created
+[2022.10.08-10.38.15:118][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__SoundBase]] deferred - dummy variable created
+[2022.10.08-10.38.15:118][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__MaterialInterface]] deferred - dummy variable created
+[2022.10.08-10.38.15:118][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__DeviceProfileManager]] deferred - dummy variable created
+[2022.10.08-10.38.15:118][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [Engine]
+[2022.10.08-10.38.15:118][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [Engine]
+[2022.10.08-10.38.15:118][  0]LogConfig: CVar [[NetworkEmulationProfiles:(ProfileName="Average",ToolTip="Simulates average internet conditions")]] deferred - dummy variable created
+[2022.10.08-10.38.15:118][  0]LogConfig: CVar [[NetworkEmulationProfiles:(ProfileName="Bad",ToolTip="Simulates laggy internet conditions")]] deferred - dummy variable created
+[2022.10.08-10.38.15:118][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [Engine]
+[2022.10.08-10.38.15:118][  0]LogConfig: CVar [[DefaultPVRTCQuality:1]] deferred - dummy variable created
+[2022.10.08-10.38.15:118][  0]LogConfig: CVar [[DefaultASTCQualityBySpeed:1]] deferred - dummy variable created
+[2022.10.08-10.38.15:118][  0]LogConfig: CVar [[DefaultASTCQualityBySize:3]] deferred - dummy variable created
+[2022.10.08-10.38.15:119][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:WidgetBlueprint]] deferred - dummy variable created
+[2022.10.08-10.38.15:119][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:GroupActor]] deferred - dummy variable created
+[2022.10.08-10.38.15:119][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MetaData]] deferred - dummy variable created
+[2022.10.08-10.38.15:119][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ObjectRedirector]] deferred - dummy variable created
+[2022.10.08-10.38.15:119][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NavMeshRenderingComponent]] deferred - dummy variable created
+[2022.10.08-10.38.15:119][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ReflectionCaptureComponent]] deferred - dummy variable created
+[2022.10.08-10.38.15:119][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:TextRenderComponent]] deferred - dummy variable created
+[2022.10.08-10.38.15:119][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:Font]] deferred - dummy variable created
+[2022.10.08-10.38.15:119][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:InterpCurveEdSetup]] deferred - dummy variable created
+[2022.10.08-10.38.15:119][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MaterialExpression]] deferred - dummy variable created
+[2022.10.08-10.38.15:119][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MatineeActorCameraAnim]] deferred - dummy variable created
+[2022.10.08-10.38.15:119][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NiagaraEmitter]] deferred - dummy variable created
+[2022.10.08-10.38.15:119][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NiagaraScript]] deferred - dummy variable created
+[2022.10.08-10.38.15:119][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleEmitter]] deferred - dummy variable created
+[2022.10.08-10.38.15:119][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleLODLevel]] deferred - dummy variable created
+[2022.10.08-10.38.15:119][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleModule]] deferred - dummy variable created
+[2022.10.08-10.38.15:119][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:SubUVAnimation]] deferred - dummy variable created
+[2022.10.08-10.38.15:119][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:SoundNode]] deferred - dummy variable created
+[2022.10.08-10.38.15:119][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:GameplayEffectUIData]] deferred - dummy variable created
+[2022.10.08-10.38.15:119][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:WidgetBlueprint]] deferred - dummy variable created
+[2022.10.08-10.38.15:119][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:GroupActor]] deferred - dummy variable created
+[2022.10.08-10.38.15:119][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:MetaData]] deferred - dummy variable created
+[2022.10.08-10.38.15:119][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:ObjectRedirector]] deferred - dummy variable created
+[2022.10.08-10.38.15:119][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:InterpCurveEdSetup]] deferred - dummy variable created
+[2022.10.08-10.38.15:119][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:MatineeActorCameraAnim]] deferred - dummy variable created
+[2022.10.08-10.38.15:119][  0]LogConfig: CVar [[VersionedIntRValues:r.AllowStaticLighting]] deferred - dummy variable created
+[2022.10.08-10.38.15:119][  0]LogConfig: CVar [[VersionedIntRValues:r.GBuffer]] deferred - dummy variable created
+[2022.10.08-10.38.15:119][  0]LogConfig: CVar [[VersionedIntRValues:r.VelocityOutputPass]] deferred - dummy variable created
+[2022.10.08-10.38.15:119][  0]LogConfig: CVar [[VersionedIntRValues:r.SelectiveBasePassOutputs]] deferred - dummy variable created
+[2022.10.08-10.38.15:119][  0]LogConfig: CVar [[VersionedIntRValues:r.DBuffer]] deferred - dummy variable created
+[2022.10.08-10.38.15:119][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.Symbols]] deferred - dummy variable created
+[2022.10.08-10.38.15:119][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.GenerateSymbols]] deferred - dummy variable created
+[2022.10.08-10.38.15:119][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.WriteSymbols]] deferred - dummy variable created
+[2022.10.08-10.38.15:119][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.AllowUniqueSymbols]] deferred - dummy variable created
+[2022.10.08-10.38.15:119][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.ExtraData]] deferred - dummy variable created
+[2022.10.08-10.38.15:119][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.Optimize]] deferred - dummy variable created
+[2022.10.08-10.38.15:119][  0]LogConfig: CVar [[VersionedIntRValues:r.CompileShadersForDevelopment]] deferred - dummy variable created
+[2022.10.08-10.38.15:119][  0]LogConfig: CVar [[VersionedIntRValues:r.MobileHDR]] deferred - dummy variable created
+[2022.10.08-10.38.15:119][  0]LogConfig: CVar [[VersionedIntRValues:r.UsePreExposure]] deferred - dummy variable created
+[2022.10.08-10.38.15:128][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [Scalability]
+[2022.10.08-10.38.15:128][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [Scalability]
+[2022.10.08-10.38.15:128][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [Scalability]
+[2022.10.08-10.38.15:128][  0]LogConfig: Applying CVar settings from Section [GlobalIlluminationQuality@3] File [Scalability]
+[2022.10.08-10.38.15:128][  0]LogConfig: Applying CVar settings from Section [ReflectionQuality@3] File [Scalability]
+[2022.10.08-10.38.15:128][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [Scalability]
+[2022.10.08-10.38.15:128][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [Scalability]
+[2022.10.08-10.38.15:128][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [Scalability]
+[2022.10.08-10.38.15:128][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [Scalability]
+[2022.10.08-10.38.15:128][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [Scalability]
+[2022.10.08-10.38.15:128][  0]LogConfig: CVar [[r.HairStrands.Interpolation.UseSingleGuide:0]] deferred - dummy variable created
+[2022.10.08-10.38.15:212][  0]LogD3D12RHI: Aftermath initialized
+[2022.10.08-10.38.15:212][  0]LogD3D12RHI: Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64).
+[2022.10.08-10.38.15:628][  0]LogD3D12RHI: Found D3D12 adapter 0: NVIDIA GeForce RTX 2070 (Max supported Feature Level 12_1, shader model 6.5)
+[2022.10.08-10.38.15:628][  0]LogD3D12RHI: Adapter has 8031MB of dedicated video memory, 0MB of dedicated system memory, and 8116MB of shared system memory, 1 output[s]
+[2022.10.08-10.38.16:014][  0]LogD3D12RHI: Found D3D12 adapter 1: Intel(R) UHD Graphics 630 (Max supported Feature Level 12_1, shader model 6.4)
+[2022.10.08-10.38.16:014][  0]LogD3D12RHI: Adapter has 128MB of dedicated video memory, 0MB of dedicated system memory, and 8116MB of shared system memory, 0 output[s]
+[2022.10.08-10.38.16:028][  0]LogD3D12RHI: Found D3D12 adapter 2: Microsoft Basic Render Driver (Max supported Feature Level 12_1, shader model 6.2)
+[2022.10.08-10.38.16:029][  0]LogD3D12RHI: Adapter has 0MB of dedicated video memory, 0MB of dedicated system memory, and 8116MB of shared system memory, 0 output[s]
+[2022.10.08-10.38.16:029][  0]LogD3D12RHI: Chosen D3D12 Adapter Id = 0
+[2022.10.08-10.38.16:029][  0]LogInit: Selected Device Profile: [WindowsEditor]
+[2022.10.08-10.38.16:029][  0]LogDeviceProfileManager: Applying CVar settings loaded from the selected device profile: [WindowsEditor]
+[2022.10.08-10.38.16:029][  0]LogHAL: Display: Platform has ~ 16 GB [17022189568 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2022.10.08-10.38.16:029][  0]LogDeviceProfileManager: Going up to parent DeviceProfile [Windows]
+[2022.10.08-10.38.16:029][  0]LogDeviceProfileManager: Going up to parent DeviceProfile []
+[2022.10.08-10.38.16:029][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2022.10.08-10.38.16:031][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [Engine]
+[2022.10.08-10.38.16:031][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/ASUS/Dropbox/내 PC (LAPTOP-8VBB4RB0)/Desktop/BetaProduction/Saved/Config/WindowsEditor/Editor.ini]
+[2022.10.08-10.38.16:031][  0]LogInit: Computer: LAPTOP-8VBB4RB0
+[2022.10.08-10.38.16:031][  0]LogInit: User: ASUS
+[2022.10.08-10.38.16:031][  0]LogInit: CPU Page size=4096, Cores=6
+[2022.10.08-10.38.16:031][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2022.10.08-10.38.16:031][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2022.10.08-10.38.16:031][  0]LogMemory: Platform Memory Stats for WindowsEditor
+[2022.10.08-10.38.16:031][  0]LogMemory: Process Physical Memory: 277.85 MB used, 283.48 MB peak
+[2022.10.08-10.38.16:031][  0]LogMemory: Process Virtual Memory: 230.55 MB used, 230.55 MB peak
+[2022.10.08-10.38.16:031][  0]LogMemory: Physical Memory: 9725.65 MB used,  6507.97 MB free, 16233.62 MB total
+[2022.10.08-10.38.16:031][  0]LogMemory: Virtual Memory: 12997.96 MB used,  6947.66 MB free, 19945.62 MB total
+[2022.10.08-10.38.16:031][  0]LogCsvProfiler: Display: Metadata set : extradevelopmentmemorymb="0"
+[2022.10.08-10.38.16:291][  0]LogWindows: WindowsPlatformFeatures enabled
+[2022.10.08-10.38.16:338][  0]LogInit: Physics initialised using underlying interface: Chaos
+[2022.10.08-10.38.16:341][  0]LogInit: Using OS detected language (ko-KR).
+[2022.10.08-10.38.16:341][  0]LogInit: Using OS detected locale (ko-KR).
+[2022.10.08-10.38.16:353][  0]LogTextLocalizationManager: No specific localization for 'ko-KR' exists, so 'ko' will be used for the language.
+[2022.10.08-10.38.16:611][  0]LogInit: Setting process to per monitor DPI aware
+[2022.10.08-10.38.16:673][  0]LogWindowsTextInputMethodSystem: Available input methods:
+[2022.10.08-10.38.16:673][  0]LogWindowsTextInputMethodSystem:   - 한국어(대한민국) - 한컴 입력기 (TSF IME).
+[2022.10.08-10.38.16:673][  0]LogWindowsTextInputMethodSystem:   - 한국어(대한민국) - Microsoft 입력기 (TSF IME).
+[2022.10.08-10.38.16:673][  0]LogWindowsTextInputMethodSystem:   - 한국어(대한민국) - 터치식 입력 수정 (TSF IME).
+[2022.10.08-10.38.16:674][  0]LogWindowsTextInputMethodSystem: Activated input method: 한국어(대한민국) - Microsoft 입력기 (TSF IME).
+[2022.10.08-10.38.16:701][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2022.10.08-10.38.16:701][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2022.10.08-10.38.16:989][  0]LogD3D12RHI: InitD3DDevice: -D3DDebug = off -D3D12GPUValidation = off
+[2022.10.08-10.38.16:995][  0]LogD3D12RHI: [Aftermath] Aftermath crash dumping enabled
+[2022.10.08-10.38.16:995][  0]LogD3D12RHI: Emitting draw events for PIX profiling.
+[2022.10.08-10.38.17:120][  0]LogD3D12RHI: [Aftermath] Aftermath enabled and primed
+[2022.10.08-10.38.17:120][  0]LogD3D12RHI: [Aftermath] Aftermath resource tracking enabled
+[2022.10.08-10.38.17:120][  0]LogD3D12RHI: ID3D12Device1 is supported.
+[2022.10.08-10.38.17:120][  0]LogD3D12RHI: ID3D12Device2 is supported.
+[2022.10.08-10.38.17:120][  0]LogD3D12RHI: ID3D12Device3 is supported.
+[2022.10.08-10.38.17:120][  0]LogD3D12RHI: ID3D12Device4 is supported.
+[2022.10.08-10.38.17:120][  0]LogD3D12RHI: ID3D12Device5 is supported.
+[2022.10.08-10.38.17:120][  0]LogD3D12RHI: ID3D12Device6 is supported.
+[2022.10.08-10.38.17:120][  0]LogD3D12RHI: ID3D12Device7 is supported.
+[2022.10.08-10.38.17:120][  0]LogD3D12RHI: D3D12 ray tracing tier 1.0 is supported.
+[2022.10.08-10.38.17:120][  0]LogD3D12RHI: D3D12 ray tracing tier 1.1 is supported.
+[2022.10.08-10.38.17:120][  0]LogD3D12RHI: Mesh shader tier 1.0 is supported
+[2022.10.08-10.38.17:120][  0]LogD3D12RHI: Shader Model 6.6 atomic64 is not supported
+[2022.10.08-10.38.17:203][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for 3D Queue 0
+[2022.10.08-10.38.17:211][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for Copy Queue 0
+[2022.10.08-10.38.17:226][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for Compute Queue 0
+[2022.10.08-10.38.17:516][  0]LogD3D12RHI: Display: Not using pipeline state disk cache per r.D3D12.PSO.DiskCache=0
+[2022.10.08-10.38.17:516][  0]LogD3D12RHI: Display: Not using driver-optimized pipeline state disk cache per r.D3D12.PSO.DriverOptimizedDiskCache=0
+[2022.10.08-10.38.17:613][  0]LogD3D12RHI: Warning: Indirect ray tracing dispatch is disabled because of known bugs in the current driver. Please update to NVIDIA driver version 466.11 or newer.
+[2022.10.08-10.38.17:613][  0]LogD3D12RHI:     GPU DeviceId: 0x1f10 (for the marketing name, search the web for "GPU Device Id")
+[2022.10.08-10.38.17:613][  0]LogWindows: Attached monitors:
+[2022.10.08-10.38.17:613][  0]LogWindows:     resolution: 1920x1080, work area: (0, 0) -> (1920, 1030), device: '\\.\DISPLAY1' [PRIMARY]
+[2022.10.08-10.38.17:613][  0]LogWindows: Found 1 attached monitors.
+[2022.10.08-10.38.17:613][  0]LogWindows: EnumDisplayDevices:
+[2022.10.08-10.38.17:613][  0]LogWindows:    0. 'Intel(R) UHD Graphics 630' (P:1 D:1), name: '\\.\DISPLAY1'
+[2022.10.08-10.38.17:614][  0]LogWindows:    1. 'Intel(R) UHD Graphics 630' (P:0 D:0), name: '\\.\DISPLAY2'
+[2022.10.08-10.38.17:614][  0]LogWindows:    2. 'Intel(R) UHD Graphics 630' (P:0 D:0), name: '\\.\DISPLAY3'
+[2022.10.08-10.38.17:615][  0]LogWindows:    3. 'NVIDIA GeForce RTX 2070' (P:0 D:0), name: '\\.\DISPLAY4'
+[2022.10.08-10.38.17:616][  0]LogWindows:    4. 'NVIDIA GeForce RTX 2070' (P:0 D:0), name: '\\.\DISPLAY5'
+[2022.10.08-10.38.17:617][  0]LogWindows:    5. 'NVIDIA GeForce RTX 2070' (P:0 D:0), name: '\\.\DISPLAY6'
+[2022.10.08-10.38.17:617][  0]LogWindows:    6. 'NVIDIA GeForce RTX 2070' (P:0 D:0), name: '\\.\DISPLAY7'
+[2022.10.08-10.38.17:618][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2022.10.08-10.38.17:618][  0]LogD3D12RHI:     Adapter Name: NVIDIA GeForce RTX 2070
+[2022.10.08-10.38.17:618][  0]LogD3D12RHI:   Driver Version: 457.63 (internal:27.21.14.5763, unified:457.63)
+[2022.10.08-10.38.17:618][  0]LogD3D12RHI:      Driver Date: 12-8-2020
+[2022.10.08-10.38.17:618][  0]LogRHI: Texture pool is 4575 MB (70% of 6536 MB)
+[2022.10.08-10.38.17:618][  0]LogD3D12RHI: Async texture creation enabled
+[2022.10.08-10.38.17:618][  0]LogD3D12RHI: RHI has support for 64 bit atomics
+[2022.10.08-10.38.17:640][  0]LogRHI: GeForceNow SDK initialized: 0
+[2022.10.08-10.39.11:869][  0]Message dialog closed, result: Ok, title: 경고: 그래픽 드라이버 관련 알려진 문제점이 있습니다., text: 설치된 NVIDIA 그래픽 드라이버 버전에는 D3D12에 알려진 문제가 있습니다.
+최신 또는 권장 드라이버 버전을 설치하거나 다른 렌더링 API로 교체해 주세요.
+
+https://www.nvidia.com/en-us/geforce/drivers/
+
+NVIDIA GeForce RTX 2070
+설치 버전: 457.63
+권장 버전: 516.25
+[2022.10.08-10.39.11:885][  0]LogTurnkeySupport: Running Turnkey SDK detection: ' -ScriptsForProject="C:/Users/ASUS/Dropbox/내 PC (LAPTOP-8VBB4RB0)/Desktop/BetaProduction/BetaProduction.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="C:/Users/ASUS/Dropbox/내 PC (LAPTOP-8VBB4RB0)/Desktop/BetaProduction/Intermediate/TurnkeyReport_0.log" -log="C:/Users/ASUS/Dropbox/내 PC (LAPTOP-8VBB4RB0)/Desktop/BetaProduction/Intermediate/TurnkeyLog_0.log" -project="C:/Users/ASUS/Dropbox/내 PC (LAPTOP-8VBB4RB0)/Desktop/BetaProduction/BetaProduction.uproject"  -platform=all'
+[2022.10.08-10.39.11:885][  0]LogMonitoredProcess: Running Serialized UAT: [ cmd.exe /c ""C:/Program Files/Epic Games/UE_5.0/Engine/Build/BatchFiles/RunUAT.bat"  -ScriptsForProject="C:/Users/ASUS/Dropbox/내 PC (LAPTOP-8VBB4RB0)/Desktop/BetaProduction/BetaProduction.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="C:/Users/ASUS/Dropbox/내 PC (LAPTOP-8VBB4RB0)/Desktop/BetaProduction/Intermediate/TurnkeyReport_0.log" -log="C:/Users/ASUS/Dropbox/내 PC (LAPTOP-8VBB4RB0)/Desktop/BetaProduction/Intermediate/TurnkeyLog_0.log" -project="C:/Users/ASUS/Dropbox/내 PC (LAPTOP-8VBB4RB0)/Desktop/BetaProduction/BetaProduction.uproject"  -platform=all" ]
+[2022.10.08-10.39.11:962][  0]LogTextureFormatETC2: Display: ETC2 Texture loading DLL: TextureConverter.dll
+[2022.10.08-10.39.11:988][  0]LogTextureFormatOodle: Display: Oodle Texture TFO init; latest sdk version = 2.9.5
+[2022.10.08-10.39.11:988][  0]LogTextureFormatOodle: Display: Oodle Texture loading DLL: oo2tex_win64_2.9.5.dll
+[2022.10.08-10.39.12:008][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2022.10.08-10.39.12:008][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2022.10.08-10.39.12:008][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2022.10.08-10.39.12:008][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2022.10.08-10.39.12:008][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2022.10.08-10.39.12:008][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2022.10.08-10.39.12:008][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2022.10.08-10.39.12:008][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2022.10.08-10.39.12:008][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2022.10.08-10.39.12:008][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2022.10.08-10.39.12:077][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'HoloLens'
+[2022.10.08-10.39.12:077][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'HoloLensClient'
+[2022.10.08-10.39.12:083][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2022.10.08-10.39.12:083][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2022.10.08-10.39.12:089][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2022.10.08-10.39.12:089][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxEditor'
+[2022.10.08-10.39.12:089][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2022.10.08-10.39.12:089][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2022.10.08-10.39.12:094][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64'
+[2022.10.08-10.39.12:094][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64Server'
+[2022.10.08-10.39.12:094][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64Client'
+[2022.10.08-10.39.12:099][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2022.10.08-10.39.12:099][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2022.10.08-10.39.12:110][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2022.10.08-10.39.12:110][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsEditor'
+[2022.10.08-10.39.12:110][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2022.10.08-10.39.12:110][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2022.10.08-10.39.12:110][  0]LogTargetPlatformManager: Display: Building Assets For WindowsEditor
+[2022.10.08-10.39.12:123][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2022.10.08-10.39.12:127][  0]LogTargetPlatformManager: Unable to find audio format BINKA from hinted modules, loading all potential format modules to find it
+[2022.10.08-10.39.12:128][  0]LogTargetPlatformManager: Loaded format module AudioFormatADPCM
+[2022.10.08-10.39.12:128][  0]LogTargetPlatformManager:   ADPCM
+[2022.10.08-10.39.12:128][  0]LogTargetPlatformManager:   PCM
+[2022.10.08-10.39.12:132][  0]LogTargetPlatformManager: Loaded format module AudioFormatBink
+[2022.10.08-10.39.12:132][  0]LogTargetPlatformManager:   BINKA
+[2022.10.08-10.39.12:132][  0]LogTargetPlatformManager: Loaded format module AudioFormatOgg
+[2022.10.08-10.39.12:132][  0]LogTargetPlatformManager:   OGG
+[2022.10.08-10.39.12:132][  0]LogTargetPlatformManager: Loaded format module AudioFormatOpus
+[2022.10.08-10.39.12:132][  0]LogTargetPlatformManager:   OPUS
+[2022.10.08-10.39.12:187][  0]LogTargetPlatformManager: Unable to find shader format SF_METAL from hinted modules, loading all potential format modules to find it
+[2022.10.08-10.39.12:197][  0]LogTargetPlatformManager: Loaded format module MetalShaderFormat
+[2022.10.08-10.39.12:197][  0]LogTargetPlatformManager:   SF_METAL
+[2022.10.08-10.39.12:197][  0]LogTargetPlatformManager:   SF_METAL_MRT
+[2022.10.08-10.39.12:198][  0]LogTargetPlatformManager:   SF_METAL_TVOS
+[2022.10.08-10.39.12:198][  0]LogTargetPlatformManager:   SF_METAL_MRT_TVOS
+[2022.10.08-10.39.12:198][  0]LogTargetPlatformManager:   SF_METAL_SM5
+[2022.10.08-10.39.12:198][  0]LogTargetPlatformManager:   SF_METAL_MACES3_1
+[2022.10.08-10.39.12:198][  0]LogTargetPlatformManager:   SF_METAL_MRT_MAC
+[2022.10.08-10.39.12:198][  0]LogTargetPlatformManager: Loaded format module ShaderFormatD3D
+[2022.10.08-10.39.12:198][  0]LogTargetPlatformManager:   PCD3D_SM6
+[2022.10.08-10.39.12:198][  0]LogTargetPlatformManager:   PCD3D_SM5
+[2022.10.08-10.39.12:198][  0]LogTargetPlatformManager:   PCD3D_ES31
+[2022.10.08-10.39.12:198][  0]LogTargetPlatformManager:   D3D_ES3_1_HOLOLENS
+[2022.10.08-10.39.12:198][  0]LogTargetPlatformManager: Loaded format module ShaderFormatOpenGL
+[2022.10.08-10.39.12:198][  0]LogTargetPlatformManager:   GLSL_150_ES31
+[2022.10.08-10.39.12:198][  0]LogTargetPlatformManager:   GLSL_ES3_1_ANDROID
+[2022.10.08-10.39.12:204][  0]LogTargetPlatformManager: Loaded format module ShaderFormatVectorVM
+[2022.10.08-10.39.12:204][  0]LogTargetPlatformManager:   VVM_1_0
+[2022.10.08-10.39.12:204][  0]LogTargetPlatformManager: Loaded format module VulkanShaderFormat
+[2022.10.08-10.39.12:204][  0]LogTargetPlatformManager:   SF_VULKAN_SM5
+[2022.10.08-10.39.12:204][  0]LogTargetPlatformManager:   SF_VULKAN_ES31_ANDROID
+[2022.10.08-10.39.12:204][  0]LogTargetPlatformManager:   SF_VULKAN_ES31
+[2022.10.08-10.39.12:204][  0]LogTargetPlatformManager:   SF_VULKAN_SM5_ANDROID
+[2022.10.08-10.39.12:204][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2022.10.08-10.39.12:204][  0]LogShaderCompilers: Display: Compiling shader autogen file: ../../../../../../Users/ASUS/Dropbox/내 PC (LAPTOP-8VBB4RB0)/Desktop/BetaProduction/Intermediate/ShaderAutogen/PCD3D_SM5/AutogenShaderHeaders.ush
+[2022.10.08-10.39.12:206][  0]LogShaderCompilers: Display: Failed to delete old shader autogen file: ../../../../../../Users/ASUS/Dropbox/내 PC (LAPTOP-8VBB4RB0)/Desktop/BetaProduction/Intermediate/ShaderAutogen/PCD3D_SM5/AutogenShaderHeaders.ush
+[2022.10.08-10.39.12:206][  0]LogShaderCompilers: Display: Shader autogen file written: ../../../../../../Users/ASUS/Dropbox/내 PC (LAPTOP-8VBB4RB0)/Desktop/BetaProduction/Intermediate/ShaderAutogen/PCD3D_SM5/AutogenShaderHeaders.ush
+[2022.10.08-10.39.12:207][  0]LogShaderCompilers: Display: Compiling shader autogen file: ../../../../../../Users/ASUS/Dropbox/내 PC (LAPTOP-8VBB4RB0)/Desktop/BetaProduction/Intermediate/ShaderAutogen/PCD3D_ES31/AutogenShaderHeaders.ush
+[2022.10.08-10.39.12:208][  0]LogShaderCompilers: Display: Failed to delete old shader autogen file: ../../../../../../Users/ASUS/Dropbox/내 PC (LAPTOP-8VBB4RB0)/Desktop/BetaProduction/Intermediate/ShaderAutogen/PCD3D_ES31/AutogenShaderHeaders.ush
+[2022.10.08-10.39.12:209][  0]LogShaderCompilers: Display: Shader autogen file written: ../../../../../../Users/ASUS/Dropbox/내 PC (LAPTOP-8VBB4RB0)/Desktop/BetaProduction/Intermediate/ShaderAutogen/PCD3D_ES31/AutogenShaderHeaders.ush
+[2022.10.08-10.39.12:212][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/ASUS/Dropbox/내 PC (LAPTOP-8VBB4RB0)/Desktop/BetaProduction/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2022.10.08-10.39.12:212][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchy Hierarchy.
+[2022.10.08-10.39.12:212][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/ASUS/Dropbox/내 PC (LAPTOP-8VBB4RB0)/Desktop/BetaProduction/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.10.08-10.39.12:212][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchy Hierarchy.
+[2022.10.08-10.39.12:233][  0]LogDerivedDataCache: Display: ../../../Engine/DerivedDataCache/Compressed.ddp: Opened pak cache for reading. (1230 MiB)
+[2022.10.08-10.39.12:233][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.10.08-10.39.12:233][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchy Hierarchy.
+[2022.10.08-10.39.12:252][  0]LogDerivedDataCache: Speed tests for C:/Users/ASUS/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.02 seconds
+[2022.10.08-10.39.12:252][  0]LogDerivedDataCache: Display: Performance to C:/Users/ASUS/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.06ms. RandomReadSpeed=184.39MBs, RandomWriteSpeed=73.90MBs. Assigned SpeedClass 'Local'
+[2022.10.08-10.39.12:253][  0]LogDerivedDataCache: Using Local data cache path C:/Users/ASUS/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2022.10.08-10.39.12:253][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2022.10.08-10.39.12:253][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchy Hierarchy.
+[2022.10.08-10.39.12:263][  0]LogVirtualization: VirtualizationSystem name found in ini file: None
+[2022.10.08-10.39.12:263][  0]LogVirtualization: FNullVirtualizationSystem mounted, virtualization will be disabled
+[2022.10.08-10.39.12:263][  0]LogShaderCompilers: Guid format shader working directory is -38 characters bigger than the processId version (../../../../../../Users/ASUS/Dropbox/내 PC (LAPTOP-8VBB4RB0)/Desktop/BetaProduction/Intermediate/Shaders/WorkingDirectory/20520/).
+[2022.10.08-10.39.12:264][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/ASUS/AppData/Local/Temp/UnrealShaderWorkingDir/4705095540397600EE0E729688C611F0/'.
+[2022.10.08-10.39.12:264][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2022.10.08-10.39.12:264][  0]LogShaderCompilers: Display: Using Local Shader Compiler with 9 workers.
+[2022.10.08-10.39.13:882][  0]LogTurnkeySupport: Completed SDK detection: ExitCode = 0
+[2022.10.08-10.39.13:882][  0]LogSlate: Using FreeType 2.10.0
+[2022.10.08-10.39.13:883][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2022.10.08-10.39.13:947][  0]LogAssetRegistry: FAssetRegistry took 0.0204 seconds to start up
+[2022.10.08-10.39.13:955][  0]LogEditorDomain: Display: EditorDomain is Disabled
+[2022.10.08-10.39.14:224][  0]LogSerialization: UsePackageTrailer: 'false'
+[2022.10.08-10.39.14:225][  0]LogTexture: Display: Texture Encode Speed: FinalIfAvailable (editor).
+[2022.10.08-10.39.14:818][  0]LogInit: Selected Device Profile: [WindowsEditor]
+[2022.10.08-10.39.14:819][  0]LogDeviceProfileManager: Active device profile: [000006BEABEE2BC0][000006BE9F212800 50] WindowsEditor
+[2022.10.08-10.39.14:819][  0]LogDeviceProfileManager: Profiles: [000006BEABEE2680][000006BE8827C800 50] Windows, [000006BEABEE2BC0][000006BE9F212800 50] WindowsEditor, [000006BEABEE1F80][000006BE9F1AA000 50] WindowsServer, [000006BEABEE1DC0][000006BEABEC0000 50] WindowsClient, [000006BEABEE1C00][000006BEABEC5000 50] IOS, [000006BEABEE1A40][000006BEABEC7800 50] iPadAir2, [000006BEABEE4EC0][000006BEABECC800 50] IPadPro, [000006BEABEE5240][000006BEABECA000 50] iPadAir3, [000006BEABEE4600][000006BE9C6C2800 50] iPadAir4, [000006BEABEE2300][000006BEABED0000 50] iPadMini4, [000006BEABEE01C0][000006BEABED5000 50] iPadMini5, [000006BEABEE5400][000006BEABED7800 50] iPadMini6, [000006BEABEE7FC0][000006BEABEC2800 50] iPhone6S, [000006BEABEE8340][000006BEABEDC800 50] iPhone7, [000006BEABEE86C0][000006BEABEDA000 50] iPodTouch7, [000006BEABEE3D40][000006BEABF00000 50] iPhone6SPlus, [000006BEABEE78C0][000006BEABF05000 50] iPhone7Plus, [000006BEABEE2140][000006BEABF07800 50] iPhoneSE, [000006BEABEE40C0][000006BEABF0A000 50] iPhone8, [000006BEABEE7700][000006BEABF0C800 50] iPhone8Plus, [000006BEABEE1180][000006BEABED2800 50] iPhoneX, [000006BEABEE3B80][000006BEABF10000 50] iPhoneXS, [000006BEABEE8500][000006BEABF15000 50] iPhoneXSMax, [000006BEABEE8880][000006BEABF17800 50] iPhoneXR, [000006BEABEE7A80][000006BEABF1A000 50] iPhone11, [000006BEABEE5780][000006BEABF1C800 50] iPhone11Pro, [000006BEABEE4D00][000006BEABF02800 50] iPhone11ProMax, [000006BEABEE24C0][000006BEABE90000 50] iPhoneSE2, [000006BEABEE0FC0][000006BEABE95000 50] iPhone12Mini, [000006BEABEE4440][000006BEABE97800 50] iPhone12, [000006BEABEE0380][000006BEABE9A000 50] iPhone12Pro, [000006BEABEE4B40][000006BEABE9C800 50] iPhone12ProMax, [000006BEABEE4980][000006BEABF12800 50] iPhone13Mini, [000006BEABEE2D80][000006BEABF30000 50] iPhone13, [000006BEABEE6900][000006BEABF35000 50] iPhone13Pro, [000006BEABEE16C0][000006BEABF37800 50] iPhone13ProMax, [000006BEABEE0C40][000006BEABF3A000 50] iPadPro105, [000006BEABEE7E00][000006BEABF3C800 50] iPadPro129, [000006BEABEE8A40][000006BEABE92800 50] iPadPro97, [000006BEABEE6AC0][000006BEABF40000 50] iPadPro2_129, [000006BEABEE1880][000006BEABF45000 50] iPad5, [000006BEABEE7380][000006BEABF47800 50] iPad6, [000006BEABEE55C0][000006BEABF4A000 50] iPad7, [000006BEABEE5B00][000006BEABF4C800 50] iPad8, [000006BEABEE8C00][000006BEABF32800 50] iPad9, [000006BEABEE71C0][000006BEABF50000 50] iPadPro11, [000006BEABEE6040][000006BEABF55000 50] iPadPro2_11, [000006BEABEE8180][000006BEABF57800 50] iPadPro3_11, [000006BEABEE3100][000006BEABF5A000 50] iPadPro3_129, [000006BEABEE5940][000006BEABF5C800 50] iPadPro4_129, [000006BEABEE2F40][000006BEABF42800 50] iPadPro5_129, [000006BEABEE2A00][000006BEABF60000 50] AppleTV, [000006BEABEE47C0][000006BEABF65000 50] AppleTV4K, [000006BEABEE39C0][000006BEABF67800 50] TVOS, [000006BEABEEAB80][000006BEABF6C800 50] Mac, [000006BEABEEA9C0][000006BEABF6A000 50] MacEditor, [000006BEABEE6E40][000006BEABF52800 50] MacClient, [000006BEABEEA2C0][000006BEABF70000 50] MacServer, [000006BEABEEB440][000006BEABF77800 50] Linux, [000006BEABEEB7C0][000006BEABF75000 50] LinuxEditor, [000006BEABEE6200][000006BEABF7A000 50] LinuxArm64Editor, [000006BEABEE6740][000006BEABF7C800 50] LinuxArm64, [000006BEABEE7540][000006BEABF62800 50] LinuxClient, [000006BEABEE9680][000006BEABF80000 50] LinuxArm64Client, [000006BEABEE6580][000006BEABF85000 50] LinuxServer, [000006BEABEEB0C0][000006BEABF87800 50] LinuxArm64Server, [000006BEABEE7C40][000006BEABF8A000 50] Android, [000006BEABEE8DC0][000006BEABF8C800 50] Android_Preview_OpenGL, [000006BEABEEA800][000006BEABF72800 50] Android_Preview_Vulkan, [000006BEABEE9300][000006BEABF90000 50] Android_Low, [000006BEABEEBB40][000006BEABF95000 50] Android_Mid, [000006BEABEE9D80][000006BEABF97800 50] Android_High, [000006BEABEE5CC0][000006BEABF9A000 50] Android_Default, [000006BEABEE9140][000006BEABF9C800 50] Android_Adreno4xx, [000006BEABEE0700][000006BEABF82800 50] Android_Adreno5xx_Low, [000006BEABEE4280][000006BEABFA0000 50] Android_Adreno5xx, [000006BEABEEB600][000006BEABFA5000 50] Android_Adreno6xx, [000006BEABEE6C80][000006BEABFA7800 50] Android_Adreno6xx_Vulkan, [000006BEABEEA640][000006BEABFAA000 50] Android_Adreno7xx, [000006BEABEE94C0][000006BEABFAC800 50] Android_Adreno7xx_Vulkan, [000006BEABEE3640][000006BEABF92800 50] Android_Mali_T6xx, [000006BEABEE5080][000006BEABFB0000 50] Android_Mali_T7xx, [000006BEABEE9BC0][000006BEABFB5000 50] Android_Mali_T8xx, [000006BEABEE1500][000006BEABFB7800 50] Android_Mali_G71, [000006BEABEEA100][000006BEABFBA000 50] Android_Mali_G72, [000006BEABEE0000][000006BEABFBC800 50] Android_Mali_G72_Vulkan, [000006BEABEE3480][000006BEABFA2800 50] Android_Mali_G76, [000006BEABEEC080][000006BEABFC0000 50] Android_Mali_G76_Vulkan, [000006BEABEE63C0][000006BEABFC5000 50] Android_Mali_G77, [000006BEABEEAF00][000006BEABFC7800 50] Android_Mali_G77_Vulkan, [000006BEABEE9A00][000006BEABFCA000 50] Android_Mali_G78, [000006BEABEEC240][000006BEABFCC800 50] Android_Mali_G78_Vulkan, [000006BEABEE9F40][000006BEABFB2800 50] Android_Mali_G710, [000006BEABEE8F80][000006BEABFD0000 50] Android_Mali_G710_Vulkan, [000006BEABEEB280][000006BEABFD5000 50] Android_Xclipse_920, [000006BEABEECE80][000006BEABFD7800 50] Android_Xclipse_920_Vulkan, [000006BEABEEA480][000006BEABFDA000 50] Android_Vulkan_SM5, [000006BEABEEC780][000006BEABFDC800 50] Android_PowerVR_G6xxx, [000006BEABEED040][000006BEABFC2800 50] Android_PowerVR_GT7xxx, [000006BEABEE7000][000006BEABFE0000 50] Android_PowerVR_GE8xxx, [000006BEABEEBD00][000006BEABFE5000 50] Android_PowerVR_GM9xxx, [000006BEABEE5E80][000006BEABFE7800 50] Android_PowerVR_GM9xxx_Vulkan, [000006BEABEE1340][000006BEABFEA000 50] Android_TegraK1, [000006BEABEEDE40][000006BEABFEC800 50] Android_Unknown_Vulkan, [000006BEABEEB980][000006BEABFD2800 50] Oculus_Quest, [000006BEABEED740][000006BEABFF0000 50] Oculus_Quest2, [000006BEABEEE000][000006BEABFF5000 50] HoloLens, 
+[2022.10.08-10.39.14:819][  0]LogCsvProfiler: Display: Metadata set : deviceprofile="WindowsEditor"
+[2022.10.08-10.39.14:822][  0]LogTurnkeySupport: Turnkey Platform: Android: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=r21a, MaxAllowed=r23a, Flags="Platform_InvalidHostPrerequisites", Error="Android Studio is not installed correctly.|Android SDK directory is not set correctly.")
+[2022.10.08-10.39.14:822][  0]LogTurnkeySupport: Turnkey Platform: IOS: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=1100.0.0.0, MaxAllowed=1399.0, Flags="Platform_ValidHostPrerequisites")
+[2022.10.08-10.39.14:822][  0]LogTurnkeySupport: Turnkey Platform: Linux: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=v20_clang-13.0.1-centos7, MaxAllowed=v20_clang-13.0.1-centos7, Flags="Platform_ValidHostPrerequisites")
+[2022.10.08-10.39.14:822][  0]LogTurnkeySupport: Turnkey Platform: LinuxArm64: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=v20_clang-13.0.1-centos7, MaxAllowed=v20_clang-13.0.1-centos7, Flags="Platform_ValidHostPrerequisites")
+[2022.10.08-10.39.14:822][  0]LogTurnkeySupport: Turnkey Platform: Win64: (Status=Valid, Installed=10.0.16299.0, AutoSDK=, MinAllowed=10.0.00000.0, MaxAllowed=10.9.99999.0, Flags="InstalledSdk_ValidVersionExists")
+[2022.10.08-10.39.14:853][  0]LogTexture: Display: Oodle Texture Encode Speed settings: Fast: RDO Off Lambda=0, Effort=Normal Final: RDO Off Lambda=0, Effort=Normal
+[2022.10.08-10.39.15:082][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2022.10.08-10.39.15:082][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2022.10.08-10.39.15:082][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2022.10.08-10.39.15:082][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2022.10.08-10.39.15:082][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2022.10.08-10.39.15:106][  0]LogNetVersion: BetaProduction 1.0.0, NetCL: 19505902, EngineNetVer: 23, GameNetVer: 0 (Checksum: 3701091054)
+[2022.10.08-10.39.15:259][  0]LogSlate: Border
+[2022.10.08-10.39.15:259][  0]LogSlate: BreadcrumbButton
+[2022.10.08-10.39.15:259][  0]LogSlate: Default
+[2022.10.08-10.39.15:259][  0]LogSlate: Icons.Save
+[2022.10.08-10.39.15:259][  0]LogSlate: Icons.Toolbar.Settings
+[2022.10.08-10.39.15:259][  0]LogSlate: ListView
+[2022.10.08-10.39.15:259][  0]LogSlate: SoftwareCursor_CardinalCross
+[2022.10.08-10.39.15:259][  0]LogSlate: SoftwareCursor_Grab
+[2022.10.08-10.39.15:259][  0]LogSlate: TableView.DarkRow
+[2022.10.08-10.39.15:259][  0]LogSlate: TableView.Row
+[2022.10.08-10.39.15:259][  0]LogSlate: TreeView
+[2022.10.08-10.39.15:496][  0]SourceControl: 소스 컨트롤이 꺼졌습니다.
+[2022.10.08-10.39.15:527][  0]SourceControl: 소스 컨트롤이 꺼졌습니다.
+[2022.10.08-10.39.15:527][  0]SourceControl: 소스 컨트롤이 꺼졌습니다.
+[2022.10.08-10.39.15:660][  0]LogUObjectArray: 20557 objects as part of root set at end of initial load.
+[2022.10.08-10.39.15:660][  0]LogUObjectAllocator: 5584256 out of 0 bytes used by permanent object pool.
+[2022.10.08-10.39.15:660][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2022.10.08-10.39.16:190][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: 4A4EBEE745B2078FD8C6CAA4F5F07316 | Instance: 5EBA6F7741F2C704CCA5E08CE938F508 (LAPTOP-8VBB4RB0-20520).
+[2022.10.08-10.39.16:239][  0]LogPython: Using Python 3.9.7
+[2022.10.08-10.39.17:236][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2022.10.08-10.39.17:277][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2022.10.08-10.39.17:787][  0]SourceControl: 소스 컨트롤이 꺼졌습니다.
+[2022.10.08-10.39.17:900][  0]SourceControl: 소스 컨트롤이 꺼졌습니다.
+[2022.10.08-10.39.17:914][  0]SourceControl: 소스 컨트롤이 꺼졌습니다.
+[2022.10.08-10.39.17:930][  0]LogUProjectInfo: Found projects:
+[2022.10.08-10.39.18:079][  0]LogOpenImageDenoise: OIDN starting up
+[2022.10.08-10.39.18:162][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2022.10.08-10.39.18:184][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.10.08-10.39.18:184][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.10.08-10.39.18:348][  0]LogCollectionManager: Loaded 0 collections in 0.002311 seconds
+[2022.10.08-10.39.18:547][  0]LogFileCache: Scanning file cache for directory 'C:/Users/ASUS/Dropbox/내 PC (LAPTOP-8VBB4RB0)/Desktop/BetaProduction/Saved/Collections/' took 0.00s
+[2022.10.08-10.39.18:547][  0]LogFileCache: Scanning file cache for directory 'C:/Users/ASUS/Dropbox/내 PC (LAPTOP-8VBB4RB0)/Desktop/BetaProduction/Content/Developers/ASUS/Collections/' took 0.00s
+[2022.10.08-10.39.18:547][  0]LogFileCache: Scanning file cache for directory 'C:/Users/ASUS/Dropbox/내 PC (LAPTOP-8VBB4RB0)/Desktop/BetaProduction/Content/Collections/' took 0.00s
+[2022.10.08-10.39.18:547][  0]LogEngine: Initializing Engine...
+[2022.10.08-10.39.18:564][  0]LogStylusInput: Initializing StylusInput subsystem.
+[2022.10.08-10.39.18:584][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2022.10.08-10.39.18:893][  0]LogInit: Initializing FReadOnlyCVARCache
+[2022.10.08-10.39.18:894][  0]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.10.08-10.39.18:910][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.08-10.39.18:945][  0]LogAIModule: Creating AISystem for world Untitled
+[2022.10.08-10.39.18:945][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2022.10.08-10.39.18:977][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2022.10.08-10.39.18:978][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2022.10.08-10.39.18:978][  0]LogAudio: Display: Registering Engine Module Parameter Interfaces...
+[2022.10.08-10.39.18:979][  0]LogAudio: Display: Audio Device Manager Initialized
+[2022.10.08-10.39.18:979][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2022.10.08-10.39.18:979][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.10.08-10.39.18:979][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.10.08-10.39.18:979][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.10.08-10.39.18:979][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.10.08-10.39.18:979][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.10.08-10.39.18:979][  0]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.10.08-10.39.18:979][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.10.08-10.39.18:979][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.10.08-10.39.18:979][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.10.08-10.39.18:979][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.10.08-10.39.18:979][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.10.08-10.39.18:993][  0]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.10.08-10.39.21:220][  0]LogAudioMixer: Display: Using Audio Hardware Device Speakers(Realtek(R) Audio)
+[2022.10.08-10.39.21:220][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.10.08-10.39.21:223][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.10.08-10.39.21:223][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.10.08-10.39.21:224][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=1
+[2022.10.08-10.39.21:224][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=1
+[2022.10.08-10.39.21:226][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2022.10.08-10.39.21:226][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=1
+[2022.10.08-10.39.21:226][  0]LogInit: FAudioDevice initialized.
+[2022.10.08-10.39.21:226][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2022.10.08-10.39.21:226][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2022.10.08-10.39.21:226][  0]LogInit: Texture streaming: Enabled
+[2022.10.08-10.39.21:279][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 5.0.3-20979098+++UE5+Release-5.0
+[2022.10.08-10.39.21:294][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2022.10.08-10.39.21:325][  0]LogCsvProfiler: Display: Metadata set : largeworldcoordinates="1"
+[2022.10.08-10.39.21:336][  0]LogLiveCoding: Display: Starting LiveCoding
+[2022.10.08-10.39.21:336][  0]LogLiveCoding: Display: LiveCodingConsole Arguments: UnrealEditor Win64 Development
+[2022.10.08-10.39.23:627][  0]LogLiveCoding: Display: First instance in process group "UE_BetaProduction_0xf8befe78", spawning console
+[2022.10.08-10.39.23:627][  0]LogLiveCoding: Display: Waiting for server
+[2022.10.08-10.39.23:627][  0]LogLiveCoding: Display: Successfully initialized, removing startup thread
+[2022.10.08-10.39.23:631][  0]LogInit: Transaction tracking system initialized
+[2022.10.08-10.39.23:729][  0]BlueprintLog: New page: 에디터 로드
+[2022.10.08-10.39.24:022][  0]LocalizationService: 현지화 서비스가 비활성화되었습니다.
+[2022.10.08-10.39.24:088][  0]TimingProfiler: Initialize
+[2022.10.08-10.39.24:088][  0]TimingProfiler: OnSessionChanged
+[2022.10.08-10.39.24:088][  0]LoadingProfiler: Initialize
+[2022.10.08-10.39.24:088][  0]LoadingProfiler: OnSessionChanged
+[2022.10.08-10.39.24:088][  0]NetworkingProfiler: Initialize
+[2022.10.08-10.39.24:088][  0]NetworkingProfiler: OnSessionChanged
+[2022.10.08-10.39.24:088][  0]MemoryProfiler: Initialize
+[2022.10.08-10.39.24:088][  0]MemoryProfiler: OnSessionChanged
+[2022.10.08-10.39.24:903][  0]LogFileCache: Scanning file cache for directory 'C:/Users/ASUS/Dropbox/내 PC (LAPTOP-8VBB4RB0)/Desktop/BetaProduction/Content/' took 0.01s
+[2022.10.08-10.39.24:903][  0]LogLevelSequenceEditor: LevelSequenceEditor subsystem initialized.
+[2022.10.08-10.39.25:192][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2022.10.08-10.39.25:198][  0]SourceControl: 소스 컨트롤이 꺼졌습니다.
+[2022.10.08-10.39.25:198][  0]LogUnrealEdMisc: Loading editor; pre map load, took 73.031
+[2022.10.08-10.39.25:206][  0]LogFactory: FactoryCreateFile: PackFactory with PackFactory (0 0 C:/Program Files/Epic Games/UE_5.0/FeaturePacks/StarterContent.upack)
+[2022.10.08-10.39.25:211][  0]LogPackFactory: Finished extracting 8 files (including 0 errors).
+[2022.10.08-10.39.25:219][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset" to "../../../../../../Users/ASUS/Dropbox/내 PC (LAPTOP-8VBB4RB0)/Desktop/BetaProduction/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset"
+[2022.10.08-10.39.25:224][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset" to "../../../../../../Users/ASUS/Dropbox/내 PC (LAPTOP-8VBB4RB0)/Desktop/BetaProduction/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset"
+[2022.10.08-10.39.25:231][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset" to "../../../../../../Users/ASUS/Dropbox/내 PC (LAPTOP-8VBB4RB0)/Desktop/BetaProduction/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset"
+[2022.10.08-10.39.25:239][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset" to "../../../../../../Users/ASUS/Dropbox/내 PC (LAPTOP-8VBB4RB0)/Desktop/BetaProduction/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset"
+[2022.10.08-10.39.25:246][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset" to "../../../../../../Users/ASUS/Dropbox/내 PC (LAPTOP-8VBB4RB0)/Desktop/BetaProduction/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset"
+[2022.10.08-10.39.25:253][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Floor_400x400.uasset" to "../../../../../../Users/ASUS/Dropbox/내 PC (LAPTOP-8VBB4RB0)/Desktop/BetaProduction/Content/StarterContent/Architecture/Floor_400x400.uasset"
+[2022.10.08-10.39.25:259][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Pillar_50x500.uasset" to "../../../../../../Users/ASUS/Dropbox/내 PC (LAPTOP-8VBB4RB0)/Desktop/BetaProduction/Content/StarterContent/Architecture/Pillar_50x500.uasset"
+[2022.10.08-10.39.25:265][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset" to "../../../../../../Users/ASUS/Dropbox/내 PC (LAPTOP-8VBB4RB0)/Desktop/BetaProduction/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset"
+[2022.10.08-10.39.25:272][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/SM_AssetPlatform.uasset" to "../../../../../../Users/ASUS/Dropbox/내 PC (LAPTOP-8VBB4RB0)/Desktop/BetaProduction/Content/StarterContent/Architecture/SM_AssetPlatform.uasset"
+[2022.10.08-10.39.25:281][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset" to "../../../../../../Users/ASUS/Dropbox/내 PC (LAPTOP-8VBB4RB0)/Desktop/BetaProduction/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset"
+[2022.10.08-10.39.25:287][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x200.uasset" to "../../../../../../Users/ASUS/Dropbox/내 PC (LAPTOP-8VBB4RB0)/Desktop/BetaProduction/Content/StarterContent/Architecture/Wall_400x200.uasset"
+[2022.10.08-10.39.25:295][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x300.uasset" to "../../../../../../Users/ASUS/Dropbox/내 PC (LAPTOP-8VBB4RB0)/Desktop/BetaProduction/Content/StarterContent/Architecture/Wall_400x300.uasset"
+[2022.10.08-10.39.25:302][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/BP_LightStudio.uasset" to "../../../../../../Users/ASUS/Dropbox/내 PC (LAPTOP-8VBB4RB0)/Desktop/BetaProduction/Content/StarterContent/Blueprints/BP_LightStudio.uasset"
+[2022.10.08-10.39.25:307][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x400.uasset" to "../../../../../../Users/ASUS/Dropbox/내 PC (LAPTOP-8VBB4RB0)/Desktop/BetaProduction/Content/StarterContent/Architecture/Wall_400x400.uasset"
+[2022.10.08-10.39.25:312][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_500x500.uasset" to "../../../../../../Users/ASUS/Dropbox/내 PC (LAPTOP-8VBB4RB0)/Desktop/BetaProduction/Content/StarterContent/Architecture/Wall_500x500.uasset"
+[2022.10.08-10.39.25:319][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Door_400x300.uasset" to "../../../../../../Users/ASUS/Dropbox/내 PC (LAPTOP-8VBB4RB0)/Desktop/BetaProduction/Content/StarterContent/Architecture/Wall_Door_400x300.uasset"
+[2022.10.08-10.39.25:327][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Door_400x400.uasset" to "../../../../../../Users/ASUS/Dropbox/내 PC (LAPTOP-8VBB4RB0)/Desktop/BetaProduction/Content/StarterContent/Architecture/Wall_Door_400x400.uasset"
+[2022.10.08-10.39.25:334][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Window_400x300.uasset" to "../../../../../../Users/ASUS/Dropbox/내 PC (LAPTOP-8VBB4RB0)/Desktop/BetaProduction/Content/StarterContent/Architecture/Wall_Window_400x300.uasset"
+[2022.10.08-10.39.25:340][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Window_400x400.uasset" to "../../../../../../Users/ASUS/Dropbox/내 PC (LAPTOP-8VBB4RB0)/Desktop/BetaProduction/Content/StarterContent/Architecture/Wall_Window_400x400.uasset"
+[2022.10.08-10.39.25:347][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse01.uasset" to "../../../../../../Users/ASUS/Dropbox/내 PC (LAPTOP-8VBB4RB0)/Desktop/BetaProduction/Content/StarterContent/Audio/Collapse01.uasset"
+[2022.10.08-10.39.25:353][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Advanced_Lighting.umap" to "../../../../../../Users/ASUS/Dropbox/내 PC (LAPTOP-8VBB4RB0)/Desktop/BetaProduction/Content/StarterContent/Maps/Advanced_Lighting.umap"
+[2022.10.08-10.39.25:360][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse02.uasset" to "../../../../../../Users/ASUS/Dropbox/내 PC (LAPTOP-8VBB4RB0)/Desktop/BetaProduction/Content/StarterContent/Audio/Collapse02.uasset"
+[2022.10.08-10.39.25:368][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset" to "../../../../../../Users/ASUS/Dropbox/내 PC (LAPTOP-8VBB4RB0)/Desktop/BetaProduction/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset"
+[2022.10.08-10.39.25:376][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Minimal_Default.umap" to "../../../../../../Users/ASUS/Dropbox/내 PC (LAPTOP-8VBB4RB0)/Desktop/BetaProduction/Content/StarterContent/Maps/Minimal_Default.umap"
+[2022.10.08-10.39.25:382][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse_Cue.uasset" to "../../../../../../Users/ASUS/Dropbox/내 PC (LAPTOP-8VBB4RB0)/Desktop/BetaProduction/Content/StarterContent/Audio/Collapse_Cue.uasset"
+[2022.10.08-10.39.25:392][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset" to "../../../../../../Users/ASUS/Dropbox/내 PC (LAPTOP-8VBB4RB0)/Desktop/BetaProduction/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset"
+[2022.10.08-10.39.25:399][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion01.uasset" to "../../../../../../Users/ASUS/Dropbox/내 PC (LAPTOP-8VBB4RB0)/Desktop/BetaProduction/Content/StarterContent/Audio/Explosion01.uasset"
+[2022.10.08-10.39.25:406][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/StarterMap.umap" to "../../../../../../Users/ASUS/Dropbox/내 PC (LAPTOP-8VBB4RB0)/Desktop/BetaProduction/Content/StarterContent/Maps/StarterMap.umap"
+[2022.10.08-10.39.25:414][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion02.uasset" to "../../../../../../Users/ASUS/Dropbox/내 PC (LAPTOP-8VBB4RB0)/Desktop/BetaProduction/Content/StarterContent/Audio/Explosion02.uasset"
+[2022.10.08-10.39.25:421][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion_Cue.uasset" to "../../../../../../Users/ASUS/Dropbox/내 PC (LAPTOP-8VBB4RB0)/Desktop/BetaProduction/Content/StarterContent/Audio/Explosion_Cue.uasset"
+[2022.10.08-10.39.25:452][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/StarterMap_BuiltData.uasset" to "../../../../../../Users/ASUS/Dropbox/내 PC (LAPTOP-8VBB4RB0)/Desktop/BetaProduction/Content/StarterContent/Maps/StarterMap_BuiltData.uasset"
+[2022.10.08-10.39.25:459][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire01.uasset" to "../../../../../../Users/ASUS/Dropbox/내 PC (LAPTOP-8VBB4RB0)/Desktop/BetaProduction/Content/StarterContent/Audio/Fire01.uasset"
+[2022.10.08-10.39.25:465][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire01_Cue.uasset" to "../../../../../../Users/ASUS/Dropbox/내 PC (LAPTOP-8VBB4RB0)/Desktop/BetaProduction/Content/StarterContent/Audio/Fire01_Cue.uasset"
+[2022.10.08-10.39.25:473][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire_Sparks01.uasset" to "../../../../../../Users/ASUS/Dropbox/내 PC (LAPTOP-8VBB4RB0)/Desktop/BetaProduction/Content/StarterContent/Audio/Fire_Sparks01.uasset"
+[2022.10.08-10.39.25:479][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset" to "../../../../../../Users/ASUS/Dropbox/내 PC (LAPTOP-8VBB4RB0)/Desktop/BetaProduction/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset"
+[2022.10.08-10.39.25:485][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light01.uasset" to "../../../../../../Users/ASUS/Dropbox/내 PC (LAPTOP-8VBB4RB0)/Desktop/BetaProduction/Content/StarterContent/Audio/Light01.uasset"
+[2022.10.08-10.39.25:490][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light01_Cue.uasset" to "../../../../../../Users/ASUS/Dropbox/내 PC (LAPTOP-8VBB4RB0)/Desktop/BetaProduction/Content/StarterContent/Audio/Light01_Cue.uasset"
+[2022.10.08-10.39.25:499][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light02.uasset" to "../../../../../../Users/ASUS/Dropbox/내 PC (LAPTOP-8VBB4RB0)/Desktop/BetaProduction/Content/StarterContent/Audio/Light02.uasset"
+[2022.10.08-10.39.25:504][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light02_Cue.uasset" to "../../../../../../Users/ASUS/Dropbox/내 PC (LAPTOP-8VBB4RB0)/Desktop/BetaProduction/Content/StarterContent/Audio/Light02_Cue.uasset"
+[2022.10.08-10.39.25:515][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Smoke01.uasset" to "../../../../../../Users/ASUS/Dropbox/내 PC (LAPTOP-8VBB4RB0)/Desktop/BetaProduction/Content/StarterContent/Audio/Smoke01.uasset"
+[2022.10.08-10.39.25:521][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Smoke01_Cue.uasset" to "../../../../../../Users/ASUS/Dropbox/내 PC (LAPTOP-8VBB4RB0)/Desktop/BetaProduction/Content/StarterContent/Audio/Smoke01_Cue.uasset"
+[2022.10.08-10.39.25:526][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Background_Cue.uasset" to "../../../../../../Users/ASUS/Dropbox/내 PC (LAPTOP-8VBB4RB0)/Desktop/BetaProduction/Content/StarterContent/Audio/Starter_Background_Cue.uasset"
+[2022.10.08-10.39.25:537][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Birds01.uasset" to "../../../../../../Users/ASUS/Dropbox/내 PC (LAPTOP-8VBB4RB0)/Desktop/BetaProduction/Content/StarterContent/Audio/Starter_Birds01.uasset"
+[2022.10.08-10.39.25:554][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Music01.uasset" to "../../../../../../Users/ASUS/Dropbox/내 PC (LAPTOP-8VBB4RB0)/Desktop/BetaProduction/Content/StarterContent/Audio/Starter_Music01.uasset"
+[2022.10.08-10.39.25:560][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Music_Cue.uasset" to "../../../../../../Users/ASUS/Dropbox/내 PC (LAPTOP-8VBB4RB0)/Desktop/BetaProduction/Content/StarterContent/Audio/Starter_Music_Cue.uasset"
+[2022.10.08-10.39.25:570][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Wind05.uasset" to "../../../../../../Users/ASUS/Dropbox/내 PC (LAPTOP-8VBB4RB0)/Desktop/BetaProduction/Content/StarterContent/Audio/Starter_Wind05.uasset"
+[2022.10.08-10.39.25:580][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Wind06.uasset" to "../../../../../../Users/ASUS/Dropbox/내 PC (LAPTOP-8VBB4RB0)/Desktop/BetaProduction/Content/StarterContent/Audio/Starter_Wind06.uasset"
+[2022.10.08-10.39.25:588][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Steam01.uasset" to "../../../../../../Users/ASUS/Dropbox/내 PC (LAPTOP-8VBB4RB0)/Desktop/BetaProduction/Content/StarterContent/Audio/Steam01.uasset"
+[2022.10.08-10.39.25:594][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Steam01_Cue.uasset" to "../../../../../../Users/ASUS/Dropbox/내 PC (LAPTOP-8VBB4RB0)/Desktop/BetaProduction/Content/StarterContent/Audio/Steam01_Cue.uasset"
+[2022.10.08-10.39.25:602][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Ambient_Dust.uasset" to "../../../../../../Users/ASUS/Dropbox/내 PC (LAPTOP-8VBB4RB0)/Desktop/BetaProduction/Content/StarterContent/Particles/P_Ambient_Dust.uasset"
+[2022.10.08-10.39.25:612][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Explosion.uasset" to "../../../../../../Users/ASUS/Dropbox/내 PC (LAPTOP-8VBB4RB0)/Desktop/BetaProduction/Content/StarterContent/Particles/P_Explosion.uasset"
+[2022.10.08-10.39.25:620][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Fire.uasset" to "../../../../../../Users/ASUS/Dropbox/내 PC (LAPTOP-8VBB4RB0)/Desktop/BetaProduction/Content/StarterContent/Particles/P_Fire.uasset"
+[2022.10.08-10.39.25:626][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Smoke.uasset" to "../../../../../../Users/ASUS/Dropbox/내 PC (LAPTOP-8VBB4RB0)/Desktop/BetaProduction/Content/StarterContent/Particles/P_Smoke.uasset"
+[2022.10.08-10.39.25:633][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Sparks.uasset" to "../../../../../../Users/ASUS/Dropbox/내 PC (LAPTOP-8VBB4RB0)/Desktop/BetaProduction/Content/StarterContent/Particles/P_Sparks.uasset"
+[2022.10.08-10.39.25:640][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Steam_Lit.uasset" to "../../../../../../Users/ASUS/Dropbox/내 PC (LAPTOP-8VBB4RB0)/Desktop/BetaProduction/Content/StarterContent/Particles/P_Steam_Lit.uasset"
+[2022.10.08-10.39.25:720][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset" to "../../../../../../Users/ASUS/Dropbox/내 PC (LAPTOP-8VBB4RB0)/Desktop/BetaProduction/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset"
+[2022.10.08-10.39.25:728][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/MaterialSphere.uasset" to "../../../../../../Users/ASUS/Dropbox/내 PC (LAPTOP-8VBB4RB0)/Desktop/BetaProduction/Content/StarterContent/Props/MaterialSphere.uasset"
+[2022.10.08-10.39.25:737][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Bush.uasset" to "../../../../../../Users/ASUS/Dropbox/내 PC (LAPTOP-8VBB4RB0)/Desktop/BetaProduction/Content/StarterContent/Props/SM_Bush.uasset"
+[2022.10.08-10.39.25:745][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Chair.uasset" to "../../../../../../Users/ASUS/Dropbox/내 PC (LAPTOP-8VBB4RB0)/Desktop/BetaProduction/Content/StarterContent/Props/SM_Chair.uasset"
+[2022.10.08-10.39.25:751][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_CornerFrame.uasset" to "../../../../../../Users/ASUS/Dropbox/내 PC (LAPTOP-8VBB4RB0)/Desktop/BetaProduction/Content/StarterContent/Props/SM_CornerFrame.uasset"
+[2022.10.08-10.39.25:758][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Couch.uasset" to "../../../../../../Users/ASUS/Dropbox/내 PC (LAPTOP-8VBB4RB0)/Desktop/BetaProduction/Content/StarterContent/Props/SM_Couch.uasset"
+[2022.10.08-10.39.25:765][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Door.uasset" to "../../../../../../Users/ASUS/Dropbox/내 PC (LAPTOP-8VBB4RB0)/Desktop/BetaProduction/Content/StarterContent/Props/SM_Door.uasset"
+[2022.10.08-10.39.25:771][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_DoorFrame.uasset" to "../../../../../../Users/ASUS/Dropbox/내 PC (LAPTOP-8VBB4RB0)/Desktop/BetaProduction/Content/StarterContent/Props/SM_DoorFrame.uasset"
+[2022.10.08-10.39.25:782][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_GlassWindow.uasset" to "../../../../../../Users/ASUS/Dropbox/내 PC (LAPTOP-8VBB4RB0)/Desktop/BetaProduction/Content/StarterContent/Props/SM_GlassWindow.uasset"
+[2022.10.08-10.39.25:791][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset" to "../../../../../../Users/ASUS/Dropbox/내 PC (LAPTOP-8VBB4RB0)/Desktop/BetaProduction/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset"
+[2022.10.08-10.39.25:798][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Lamp_Wall.uasset" to "../../../../../../Users/ASUS/Dropbox/내 PC (LAPTOP-8VBB4RB0)/Desktop/BetaProduction/Content/StarterContent/Props/SM_Lamp_Wall.uasset"
+[2022.10.08-10.39.25:808][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset" to "../../../../../../Users/ASUS/Dropbox/내 PC (LAPTOP-8VBB4RB0)/Desktop/BetaProduction/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset"
+[2022.10.08-10.39.25:815][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_PillarFrame.uasset" to "../../../../../../Users/ASUS/Dropbox/내 PC (LAPTOP-8VBB4RB0)/Desktop/BetaProduction/Content/StarterContent/Props/SM_PillarFrame.uasset"
+[2022.10.08-10.39.25:821][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_PillarFrame300.uasset" to "../../../../../../Users/ASUS/Dropbox/내 PC (LAPTOP-8VBB4RB0)/Desktop/BetaProduction/Content/StarterContent/Props/SM_PillarFrame300.uasset"
+[2022.10.08-10.39.25:828][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Rock.uasset" to "../../../../../../Users/ASUS/Dropbox/내 PC (LAPTOP-8VBB4RB0)/Desktop/BetaProduction/Content/StarterContent/Props/SM_Rock.uasset"
+[2022.10.08-10.39.25:835][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Shelf.uasset" to "../../../../../../Users/ASUS/Dropbox/내 PC (LAPTOP-8VBB4RB0)/Desktop/BetaProduction/Content/StarterContent/Props/SM_Shelf.uasset"
+[2022.10.08-10.39.25:841][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Stairs.uasset" to "../../../../../../Users/ASUS/Dropbox/내 PC (LAPTOP-8VBB4RB0)/Desktop/BetaProduction/Content/StarterContent/Props/SM_Stairs.uasset"
+[2022.10.08-10.39.25:850][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Statue.uasset" to "../../../../../../Users/ASUS/Dropbox/내 PC (LAPTOP-8VBB4RB0)/Desktop/BetaProduction/Content/StarterContent/Props/SM_Statue.uasset"
+[2022.10.08-10.39.25:869][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_TableRound.uasset" to "../../../../../../Users/ASUS/Dropbox/내 PC (LAPTOP-8VBB4RB0)/Desktop/BetaProduction/Content/StarterContent/Props/SM_TableRound.uasset"
+[2022.10.08-10.39.25:876][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_WindowFrame.uasset" to "../../../../../../Users/ASUS/Dropbox/내 PC (LAPTOP-8VBB4RB0)/Desktop/BetaProduction/Content/StarterContent/Props/SM_WindowFrame.uasset"
+[2022.10.08-10.39.25:882][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cone.uasset" to "../../../../../../Users/ASUS/Dropbox/내 PC (LAPTOP-8VBB4RB0)/Desktop/BetaProduction/Content/StarterContent/Shapes/Shape_Cone.uasset"
+[2022.10.08-10.39.25:888][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cube.uasset" to "../../../../../../Users/ASUS/Dropbox/내 PC (LAPTOP-8VBB4RB0)/Desktop/BetaProduction/Content/StarterContent/Shapes/Shape_Cube.uasset"
+[2022.10.08-10.39.25:895][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_AssetPlatform.uasset" to "../../../../../../Users/ASUS/Dropbox/내 PC (LAPTOP-8VBB4RB0)/Desktop/BetaProduction/Content/StarterContent/Materials/M_AssetPlatform.uasset"
+[2022.10.08-10.39.25:901][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Basic_Floor.uasset" to "../../../../../../Users/ASUS/Dropbox/내 PC (LAPTOP-8VBB4RB0)/Desktop/BetaProduction/Content/StarterContent/Materials/M_Basic_Floor.uasset"
+[2022.10.08-10.39.25:908][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Basic_Wall.uasset" to "../../../../../../Users/ASUS/Dropbox/내 PC (LAPTOP-8VBB4RB0)/Desktop/BetaProduction/Content/StarterContent/Materials/M_Basic_Wall.uasset"
+[2022.10.08-10.39.25:914][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset" to "../../../../../../Users/ASUS/Dropbox/내 PC (LAPTOP-8VBB4RB0)/Desktop/BetaProduction/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset"
+[2022.10.08-10.39.25:924][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_New.uasset" to "../../../../../../Users/ASUS/Dropbox/내 PC (LAPTOP-8VBB4RB0)/Desktop/BetaProduction/Content/StarterContent/Materials/M_Brick_Clay_New.uasset"
+[2022.10.08-10.39.25:941][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset" to "../../../../../../Users/ASUS/Dropbox/내 PC (LAPTOP-8VBB4RB0)/Desktop/BetaProduction/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset"
+[2022.10.08-10.39.25:949][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset" to "../../../../../../Users/ASUS/Dropbox/내 PC (LAPTOP-8VBB4RB0)/Desktop/BetaProduction/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset"
+[2022.10.08-10.39.25:961][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cylinder.uasset" to "../../../../../../Users/ASUS/Dropbox/내 PC (LAPTOP-8VBB4RB0)/Desktop/BetaProduction/Content/StarterContent/Shapes/Shape_Cylinder.uasset"
+[2022.10.08-10.39.25:969][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset" to "../../../../../../Users/ASUS/Dropbox/내 PC (LAPTOP-8VBB4RB0)/Desktop/BetaProduction/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset"
+[2022.10.08-10.39.25:975][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset" to "../../../../../../Users/ASUS/Dropbox/내 PC (LAPTOP-8VBB4RB0)/Desktop/BetaProduction/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset"
+[2022.10.08-10.39.25:982][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset" to "../../../../../../Users/ASUS/Dropbox/내 PC (LAPTOP-8VBB4RB0)/Desktop/BetaProduction/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset"
+[2022.10.08-10.39.25:988][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset" to "../../../../../../Users/ASUS/Dropbox/내 PC (LAPTOP-8VBB4RB0)/Desktop/BetaProduction/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset"
+[2022.10.08-10.39.25:996][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset" to "../../../../../../Users/ASUS/Dropbox/내 PC (LAPTOP-8VBB4RB0)/Desktop/BetaProduction/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset"
+[2022.10.08-10.39.26:003][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe.uasset" to "../../../../../../Users/ASUS/Dropbox/내 PC (LAPTOP-8VBB4RB0)/Desktop/BetaProduction/Content/StarterContent/Shapes/Shape_Pipe.uasset"
+[2022.10.08-10.39.26:013][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset" to "../../../../../../Users/ASUS/Dropbox/내 PC (LAPTOP-8VBB4RB0)/Desktop/BetaProduction/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset"
+[2022.10.08-10.39.26:020][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe_180.uasset" to "../../../../../../Users/ASUS/Dropbox/내 PC (LAPTOP-8VBB4RB0)/Desktop/BetaProduction/Content/StarterContent/Shapes/Shape_Pipe_180.uasset"
+[2022.10.08-10.39.26:027][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset" to "../../../../../../Users/ASUS/Dropbox/내 PC (LAPTOP-8VBB4RB0)/Desktop/BetaProduction/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset"
+[2022.10.08-10.39.26:033][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Grime.uasset" to "../../../../../../Users/ASUS/Dropbox/내 PC (LAPTOP-8VBB4RB0)/Desktop/BetaProduction/Content/StarterContent/Materials/M_Concrete_Grime.uasset"
+[2022.10.08-10.39.26:039][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe_90.uasset" to "../../../../../../Users/ASUS/Dropbox/내 PC (LAPTOP-8VBB4RB0)/Desktop/BetaProduction/Content/StarterContent/Shapes/Shape_Pipe_90.uasset"
+[2022.10.08-10.39.26:046][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Panels.uasset" to "../../../../../../Users/ASUS/Dropbox/내 PC (LAPTOP-8VBB4RB0)/Desktop/BetaProduction/Content/StarterContent/Materials/M_Concrete_Panels.uasset"
+[2022.10.08-10.39.26:053][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Poured.uasset" to "../../../../../../Users/ASUS/Dropbox/내 PC (LAPTOP-8VBB4RB0)/Desktop/BetaProduction/Content/StarterContent/Materials/M_Concrete_Poured.uasset"
+[2022.10.08-10.39.26:059][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Plane.uasset" to "../../../../../../Users/ASUS/Dropbox/내 PC (LAPTOP-8VBB4RB0)/Desktop/BetaProduction/Content/StarterContent/Shapes/Shape_Plane.uasset"
+[2022.10.08-10.39.26:066][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Tiles.uasset" to "../../../../../../Users/ASUS/Dropbox/내 PC (LAPTOP-8VBB4RB0)/Desktop/BetaProduction/Content/StarterContent/Materials/M_Concrete_Tiles.uasset"
+[2022.10.08-10.39.26:072][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Glass.uasset" to "../../../../../../Users/ASUS/Dropbox/내 PC (LAPTOP-8VBB4RB0)/Desktop/BetaProduction/Content/StarterContent/Materials/M_Glass.uasset"
+[2022.10.08-10.39.26:079][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Grass.uasset" to "../../../../../../Users/ASUS/Dropbox/내 PC (LAPTOP-8VBB4RB0)/Desktop/BetaProduction/Content/StarterContent/Materials/M_Ground_Grass.uasset"
+[2022.10.08-10.39.26:085][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Gravel.uasset" to "../../../../../../Users/ASUS/Dropbox/내 PC (LAPTOP-8VBB4RB0)/Desktop/BetaProduction/Content/StarterContent/Materials/M_Ground_Gravel.uasset"
+[2022.10.08-10.39.26:091][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Moss.uasset" to "../../../../../../Users/ASUS/Dropbox/내 PC (LAPTOP-8VBB4RB0)/Desktop/BetaProduction/Content/StarterContent/Materials/M_Ground_Moss.uasset"
+[2022.10.08-10.39.26:097][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset" to "../../../../../../Users/ASUS/Dropbox/내 PC (LAPTOP-8VBB4RB0)/Desktop/BetaProduction/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset"
+[2022.10.08-10.39.26:104][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset" to "../../../../../../Users/ASUS/Dropbox/내 PC (LAPTOP-8VBB4RB0)/Desktop/BetaProduction/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset"
+[2022.10.08-10.39.26:111][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset" to "../../../../../../Users/ASUS/Dropbox/내 PC (LAPTOP-8VBB4RB0)/Desktop/BetaProduction/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset"
+[2022.10.08-10.39.26:119][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Sphere.uasset" to "../../../../../../Users/ASUS/Dropbox/내 PC (LAPTOP-8VBB4RB0)/Desktop/BetaProduction/Content/StarterContent/Shapes/Shape_Sphere.uasset"
+[2022.10.08-10.39.26:126][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Chrome.uasset" to "../../../../../../Users/ASUS/Dropbox/내 PC (LAPTOP-8VBB4RB0)/Desktop/BetaProduction/Content/StarterContent/Materials/M_Metal_Chrome.uasset"
+[2022.10.08-10.39.26:134][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Copper.uasset" to "../../../../../../Users/ASUS/Dropbox/내 PC (LAPTOP-8VBB4RB0)/Desktop/BetaProduction/Content/StarterContent/Materials/M_Metal_Copper.uasset"
+[2022.10.08-10.39.26:143][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Torus.uasset" to "../../../../../../Users/ASUS/Dropbox/내 PC (LAPTOP-8VBB4RB0)/Desktop/BetaProduction/Content/StarterContent/Shapes/Shape_Torus.uasset"
+[2022.10.08-10.39.26:151][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Gold.uasset" to "../../../../../../Users/ASUS/Dropbox/내 PC (LAPTOP-8VBB4RB0)/Desktop/BetaProduction/Content/StarterContent/Materials/M_Metal_Gold.uasset"
+[2022.10.08-10.39.26:157][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Rust.uasset" to "../../../../../../Users/ASUS/Dropbox/내 PC (LAPTOP-8VBB4RB0)/Desktop/BetaProduction/Content/StarterContent/Materials/M_Metal_Rust.uasset"
+[2022.10.08-10.39.26:163][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim.uasset" to "../../../../../../Users/ASUS/Dropbox/내 PC (LAPTOP-8VBB4RB0)/Desktop/BetaProduction/Content/StarterContent/Shapes/Shape_Trim.uasset"
+[2022.10.08-10.39.26:168][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset" to "../../../../../../Users/ASUS/Dropbox/내 PC (LAPTOP-8VBB4RB0)/Desktop/BetaProduction/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset"
+[2022.10.08-10.39.26:175][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset" to "../../../../../../Users/ASUS/Dropbox/내 PC (LAPTOP-8VBB4RB0)/Desktop/BetaProduction/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset"
+[2022.10.08-10.39.26:182][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_TriPyramid.uasset" to "../../../../../../Users/ASUS/Dropbox/내 PC (LAPTOP-8VBB4RB0)/Desktop/BetaProduction/Content/StarterContent/Shapes/Shape_TriPyramid.uasset"
+[2022.10.08-10.39.26:189][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Tube.uasset" to "../../../../../../Users/ASUS/Dropbox/내 PC (LAPTOP-8VBB4RB0)/Desktop/BetaProduction/Content/StarterContent/Shapes/Shape_Tube.uasset"
+[2022.10.08-10.39.26:196][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Wedge_A.uasset" to "../../../../../../Users/ASUS/Dropbox/내 PC (LAPTOP-8VBB4RB0)/Desktop/BetaProduction/Content/StarterContent/Shapes/Shape_Wedge_A.uasset"
+[2022.10.08-10.39.26:203][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Wedge_B.uasset" to "../../../../../../Users/ASUS/Dropbox/내 PC (LAPTOP-8VBB4RB0)/Desktop/BetaProduction/Content/StarterContent/Shapes/Shape_Wedge_B.uasset"
+[2022.10.08-10.39.26:210][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_WideCapsule.uasset" to "../../../../../../Users/ASUS/Dropbox/내 PC (LAPTOP-8VBB4RB0)/Desktop/BetaProduction/Content/StarterContent/Shapes/Shape_WideCapsule.uasset"
+[2022.10.08-10.39.26:216][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Steel.uasset" to "../../../../../../Users/ASUS/Dropbox/내 PC (LAPTOP-8VBB4RB0)/Desktop/BetaProduction/Content/StarterContent/Materials/M_Metal_Steel.uasset"
+[2022.10.08-10.39.26:223][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Basalt.uasset" to "../../../../../../Users/ASUS/Dropbox/내 PC (LAPTOP-8VBB4RB0)/Desktop/BetaProduction/Content/StarterContent/Materials/M_Rock_Basalt.uasset"
+[2022.10.08-10.39.26:230][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset" to "../../../../../../Users/ASUS/Dropbox/내 PC (LAPTOP-8VBB4RB0)/Desktop/BetaProduction/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset"
+[2022.10.08-10.39.26:239][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Sandstone.uasset" to "../../../../../../Users/ASUS/Dropbox/내 PC (LAPTOP-8VBB4RB0)/Desktop/BetaProduction/Content/StarterContent/Materials/M_Rock_Sandstone.uasset"
+[2022.10.08-10.39.26:246][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Slate.uasset" to "../../../../../../Users/ASUS/Dropbox/내 PC (LAPTOP-8VBB4RB0)/Desktop/BetaProduction/Content/StarterContent/Materials/M_Rock_Slate.uasset"
+[2022.10.08-10.39.26:253][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset" to "../../../../../../Users/ASUS/Dropbox/내 PC (LAPTOP-8VBB4RB0)/Desktop/BetaProduction/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset"
+[2022.10.08-10.39.26:259][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset" to "../../../../../../Users/ASUS/Dropbox/내 PC (LAPTOP-8VBB4RB0)/Desktop/BetaProduction/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset"
+[2022.10.08-10.39.26:266][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset" to "../../../../../../Users/ASUS/Dropbox/내 PC (LAPTOP-8VBB4RB0)/Desktop/BetaProduction/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset"
+[2022.10.08-10.39.26:274][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Panel.uasset" to "../../../../../../Users/ASUS/Dropbox/내 PC (LAPTOP-8VBB4RB0)/Desktop/BetaProduction/Content/StarterContent/Materials/M_Tech_Panel.uasset"
+[2022.10.08-10.39.26:284][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Water_Lake.uasset" to "../../../../../../Users/ASUS/Dropbox/내 PC (LAPTOP-8VBB4RB0)/Desktop/BetaProduction/Content/StarterContent/Materials/M_Water_Lake.uasset"
+[2022.10.08-10.39.26:292][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Water_Ocean.uasset" to "../../../../../../Users/ASUS/Dropbox/내 PC (LAPTOP-8VBB4RB0)/Desktop/BetaProduction/Content/StarterContent/Materials/M_Water_Ocean.uasset"
+[2022.10.08-10.39.26:299][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset" to "../../../../../../Users/ASUS/Dropbox/내 PC (LAPTOP-8VBB4RB0)/Desktop/BetaProduction/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset"
+[2022.10.08-10.39.26:307][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset" to "../../../../../../Users/ASUS/Dropbox/내 PC (LAPTOP-8VBB4RB0)/Desktop/BetaProduction/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset"
+[2022.10.08-10.39.26:314][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Oak.uasset" to "../../../../../../Users/ASUS/Dropbox/내 PC (LAPTOP-8VBB4RB0)/Desktop/BetaProduction/Content/StarterContent/Materials/M_Wood_Oak.uasset"
+[2022.10.08-10.39.26:323][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Pine.uasset" to "../../../../../../Users/ASUS/Dropbox/내 PC (LAPTOP-8VBB4RB0)/Desktop/BetaProduction/Content/StarterContent/Materials/M_Wood_Pine.uasset"
+[2022.10.08-10.39.26:330][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Walnut.uasset" to "../../../../../../Users/ASUS/Dropbox/내 PC (LAPTOP-8VBB4RB0)/Desktop/BetaProduction/Content/StarterContent/Materials/M_Wood_Walnut.uasset"
+[2022.10.08-10.39.26:346][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset" to "../../../../../../Users/ASUS/Dropbox/내 PC (LAPTOP-8VBB4RB0)/Desktop/BetaProduction/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset"
+[2022.10.08-10.39.26:364][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset" to "../../../../../../Users/ASUS/Dropbox/내 PC (LAPTOP-8VBB4RB0)/Desktop/BetaProduction/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset"
+[2022.10.08-10.39.26:382][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset" to "../../../../../../Users/ASUS/Dropbox/내 PC (LAPTOP-8VBB4RB0)/Desktop/BetaProduction/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset"
+[2022.10.08-10.39.26:395][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset" to "../../../../../../Users/ASUS/Dropbox/내 PC (LAPTOP-8VBB4RB0)/Desktop/BetaProduction/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset"
+[2022.10.08-10.39.26:416][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset" to "../../../../../../Users/ASUS/Dropbox/내 PC (LAPTOP-8VBB4RB0)/Desktop/BetaProduction/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset"
+[2022.10.08-10.39.26:433][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset" to "../../../../../../Users/ASUS/Dropbox/내 PC (LAPTOP-8VBB4RB0)/Desktop/BetaProduction/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset"
+[2022.10.08-10.39.26:453][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset" to "../../../../../../Users/ASUS/Dropbox/내 PC (LAPTOP-8VBB4RB0)/Desktop/BetaProduction/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset"
+[2022.10.08-10.39.26:470][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset" to "../../../../../../Users/ASUS/Dropbox/내 PC (LAPTOP-8VBB4RB0)/Desktop/BetaProduction/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset"
+[2022.10.08-10.39.26:491][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset" to "../../../../../../Users/ASUS/Dropbox/내 PC (LAPTOP-8VBB4RB0)/Desktop/BetaProduction/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset"
+[2022.10.08-10.39.26:507][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset" to "../../../../../../Users/ASUS/Dropbox/내 PC (LAPTOP-8VBB4RB0)/Desktop/BetaProduction/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset"
+[2022.10.08-10.39.26:522][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset" to "../../../../../../Users/ASUS/Dropbox/내 PC (LAPTOP-8VBB4RB0)/Desktop/BetaProduction/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset"
+[2022.10.08-10.39.26:538][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset" to "../../../../../../Users/ASUS/Dropbox/내 PC (LAPTOP-8VBB4RB0)/Desktop/BetaProduction/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset"
+[2022.10.08-10.39.26:559][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset" to "../../../../../../Users/ASUS/Dropbox/내 PC (LAPTOP-8VBB4RB0)/Desktop/BetaProduction/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset"
+[2022.10.08-10.39.26:567][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Burst_M.uasset" to "../../../../../../Users/ASUS/Dropbox/내 PC (LAPTOP-8VBB4RB0)/Desktop/BetaProduction/Content/StarterContent/Textures/T_Burst_M.uasset"
+[2022.10.08-10.39.26:574][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Bush_D.uasset" to "../../../../../../Users/ASUS/Dropbox/내 PC (LAPTOP-8VBB4RB0)/Desktop/BetaProduction/Content/StarterContent/Textures/T_Bush_D.uasset"
+[2022.10.08-10.39.26:583][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Bush_N.uasset" to "../../../../../../Users/ASUS/Dropbox/내 PC (LAPTOP-8VBB4RB0)/Desktop/BetaProduction/Content/StarterContent/Textures/T_Bush_N.uasset"
+[2022.10.08-10.39.26:592][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset" to "../../../../../../Users/ASUS/Dropbox/내 PC (LAPTOP-8VBB4RB0)/Desktop/BetaProduction/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset"
+[2022.10.08-10.39.26:601][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset" to "../../../../../../Users/ASUS/Dropbox/내 PC (LAPTOP-8VBB4RB0)/Desktop/BetaProduction/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset"
+[2022.10.08-10.39.26:609][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Chair_M.uasset" to "../../../../../../Users/ASUS/Dropbox/내 PC (LAPTOP-8VBB4RB0)/Desktop/BetaProduction/Content/StarterContent/Textures/T_Chair_M.uasset"
+[2022.10.08-10.39.26:648][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Chair_N.uasset" to "../../../../../../Users/ASUS/Dropbox/내 PC (LAPTOP-8VBB4RB0)/Desktop/BetaProduction/Content/StarterContent/Textures/T_Chair_N.uasset"
+[2022.10.08-10.39.26:658][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Checker_Noise_M.uasset" to "../../../../../../Users/ASUS/Dropbox/내 PC (LAPTOP-8VBB4RB0)/Desktop/BetaProduction/Content/StarterContent/Textures/T_Checker_Noise_M.uasset"
+[2022.10.08-10.39.26:680][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset" to "../../../../../../Users/ASUS/Dropbox/내 PC (LAPTOP-8VBB4RB0)/Desktop/BetaProduction/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset"
+[2022.10.08-10.39.26:690][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset" to "../../../../../../Users/ASUS/Dropbox/내 PC (LAPTOP-8VBB4RB0)/Desktop/BetaProduction/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset"
+[2022.10.08-10.39.26:709][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset" to "../../../../../../Users/ASUS/Dropbox/내 PC (LAPTOP-8VBB4RB0)/Desktop/BetaProduction/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset"
+[2022.10.08-10.39.26:721][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset" to "../../../../../../Users/ASUS/Dropbox/내 PC (LAPTOP-8VBB4RB0)/Desktop/BetaProduction/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset"
+[2022.10.08-10.39.26:734][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset" to "../../../../../../Users/ASUS/Dropbox/내 PC (LAPTOP-8VBB4RB0)/Desktop/BetaProduction/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset"
+[2022.10.08-10.39.26:816][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset" to "../../../../../../Users/ASUS/Dropbox/내 PC (LAPTOP-8VBB4RB0)/Desktop/BetaProduction/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset"
+[2022.10.08-10.39.26:832][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset" to "../../../../../../Users/ASUS/Dropbox/내 PC (LAPTOP-8VBB4RB0)/Desktop/BetaProduction/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset"
+[2022.10.08-10.39.26:850][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset" to "../../../../../../Users/ASUS/Dropbox/내 PC (LAPTOP-8VBB4RB0)/Desktop/BetaProduction/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset"
+[2022.10.08-10.39.26:871][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset" to "../../../../../../Users/ASUS/Dropbox/내 PC (LAPTOP-8VBB4RB0)/Desktop/BetaProduction/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset"
+[2022.10.08-10.39.26:889][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset" to "../../../../../../Users/ASUS/Dropbox/내 PC (LAPTOP-8VBB4RB0)/Desktop/BetaProduction/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset"
+[2022.10.08-10.39.26:903][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset" to "../../../../../../Users/ASUS/Dropbox/내 PC (LAPTOP-8VBB4RB0)/Desktop/BetaProduction/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset"
+[2022.10.08-10.39.26:924][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset" to "../../../../../../Users/ASUS/Dropbox/내 PC (LAPTOP-8VBB4RB0)/Desktop/BetaProduction/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset"
+[2022.10.08-10.39.26:940][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset" to "../../../../../../Users/ASUS/Dropbox/내 PC (LAPTOP-8VBB4RB0)/Desktop/BetaProduction/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset"
+[2022.10.08-10.39.26:957][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset" to "../../../../../../Users/ASUS/Dropbox/내 PC (LAPTOP-8VBB4RB0)/Desktop/BetaProduction/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset"
+[2022.10.08-10.39.26:972][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset" to "../../../../../../Users/ASUS/Dropbox/내 PC (LAPTOP-8VBB4RB0)/Desktop/BetaProduction/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset"
+[2022.10.08-10.39.26:987][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset" to "../../../../../../Users/ASUS/Dropbox/내 PC (LAPTOP-8VBB4RB0)/Desktop/BetaProduction/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset"
+[2022.10.08-10.39.26:994][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset" to "../../../../../../Users/ASUS/Dropbox/내 PC (LAPTOP-8VBB4RB0)/Desktop/BetaProduction/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset"
+[2022.10.08-10.39.27:007][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset" to "../../../../../../Users/ASUS/Dropbox/내 PC (LAPTOP-8VBB4RB0)/Desktop/BetaProduction/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset"
+[2022.10.08-10.39.27:014][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Door_M.uasset" to "../../../../../../Users/ASUS/Dropbox/내 PC (LAPTOP-8VBB4RB0)/Desktop/BetaProduction/Content/StarterContent/Textures/T_Door_M.uasset"
+[2022.10.08-10.39.27:022][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Door_N.uasset" to "../../../../../../Users/ASUS/Dropbox/내 PC (LAPTOP-8VBB4RB0)/Desktop/BetaProduction/Content/StarterContent/Textures/T_Door_N.uasset"
+[2022.10.08-10.39.27:028][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Dust_Particle_D.uasset" to "../../../../../../Users/ASUS/Dropbox/내 PC (LAPTOP-8VBB4RB0)/Desktop/BetaProduction/Content/StarterContent/Textures/T_Dust_Particle_D.uasset"
+[2022.10.08-10.39.27:039][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Explosion_SubUV.uasset" to "../../../../../../Users/ASUS/Dropbox/내 PC (LAPTOP-8VBB4RB0)/Desktop/BetaProduction/Content/StarterContent/Textures/T_Explosion_SubUV.uasset"
+[2022.10.08-10.39.27:049][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Fire_SubUV.uasset" to "../../../../../../Users/ASUS/Dropbox/내 PC (LAPTOP-8VBB4RB0)/Desktop/BetaProduction/Content/StarterContent/Textures/T_Fire_SubUV.uasset"
+[2022.10.08-10.39.27:056][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset" to "../../../../../../Users/ASUS/Dropbox/내 PC (LAPTOP-8VBB4RB0)/Desktop/BetaProduction/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset"
+[2022.10.08-10.39.27:063][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Frame_M.uasset" to "../../../../../../Users/ASUS/Dropbox/내 PC (LAPTOP-8VBB4RB0)/Desktop/BetaProduction/Content/StarterContent/Textures/T_Frame_M.uasset"
+[2022.10.08-10.39.27:071][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Frame_N.uasset" to "../../../../../../Users/ASUS/Dropbox/내 PC (LAPTOP-8VBB4RB0)/Desktop/BetaProduction/Content/StarterContent/Textures/T_Frame_N.uasset"
+[2022.10.08-10.39.27:077][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Gradinet_01.uasset" to "../../../../../../Users/ASUS/Dropbox/내 PC (LAPTOP-8VBB4RB0)/Desktop/BetaProduction/Content/StarterContent/Textures/T_Gradinet_01.uasset"
+[2022.10.08-10.39.27:098][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Grass_D.uasset" to "../../../../../../Users/ASUS/Dropbox/내 PC (LAPTOP-8VBB4RB0)/Desktop/BetaProduction/Content/StarterContent/Textures/T_Ground_Grass_D.uasset"
+[2022.10.08-10.39.27:118][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Grass_N.uasset" to "../../../../../../Users/ASUS/Dropbox/내 PC (LAPTOP-8VBB4RB0)/Desktop/BetaProduction/Content/StarterContent/Textures/T_Ground_Grass_N.uasset"
+[2022.10.08-10.39.27:139][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset" to "../../../../../../Users/ASUS/Dropbox/내 PC (LAPTOP-8VBB4RB0)/Desktop/BetaProduction/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset"
+[2022.10.08-10.39.27:156][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset" to "../../../../../../Users/ASUS/Dropbox/내 PC (LAPTOP-8VBB4RB0)/Desktop/BetaProduction/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset"
+[2022.10.08-10.39.27:250][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_ground_Moss_D.uasset" to "../../../../../../Users/ASUS/Dropbox/내 PC (LAPTOP-8VBB4RB0)/Desktop/BetaProduction/Content/StarterContent/Textures/T_ground_Moss_D.uasset"
+[2022.10.08-10.39.27:274][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Moss_N.uasset" to "../../../../../../Users/ASUS/Dropbox/내 PC (LAPTOP-8VBB4RB0)/Desktop/BetaProduction/Content/StarterContent/Textures/T_Ground_Moss_N.uasset"
+[2022.10.08-10.39.27:285][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Lamp_M.uasset" to "../../../../../../Users/ASUS/Dropbox/내 PC (LAPTOP-8VBB4RB0)/Desktop/BetaProduction/Content/StarterContent/Textures/T_Lamp_M.uasset"
+[2022.10.08-10.39.27:313][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Lamp_N.uasset" to "../../../../../../Users/ASUS/Dropbox/내 PC (LAPTOP-8VBB4RB0)/Desktop/BetaProduction/Content/StarterContent/Textures/T_Lamp_N.uasset"
+[2022.10.08-10.39.27:389][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_MacroVariation.uasset" to "../../../../../../Users/ASUS/Dropbox/내 PC (LAPTOP-8VBB4RB0)/Desktop/BetaProduction/Content/StarterContent/Textures/T_MacroVariation.uasset"
+[2022.10.08-10.39.27:442][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset" to "../../../../../../Users/ASUS/Dropbox/내 PC (LAPTOP-8VBB4RB0)/Desktop/BetaProduction/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset"
+[2022.10.08-10.39.27:460][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Copper_D.uasset" to "../../../../../../Users/ASUS/Dropbox/내 PC (LAPTOP-8VBB4RB0)/Desktop/BetaProduction/Content/StarterContent/Textures/T_Metal_Copper_D.uasset"
+[2022.10.08-10.39.27:477][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Gold_D.uasset" to "../../../../../../Users/ASUS/Dropbox/내 PC (LAPTOP-8VBB4RB0)/Desktop/BetaProduction/Content/StarterContent/Textures/T_Metal_Gold_D.uasset"
+[2022.10.08-10.39.27:534][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Gold_N.uasset" to "../../../../../../Users/ASUS/Dropbox/내 PC (LAPTOP-8VBB4RB0)/Desktop/BetaProduction/Content/StarterContent/Textures/T_Metal_Gold_N.uasset"
+[2022.10.08-10.39.27:552][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Rust_D.uasset" to "../../../../../../Users/ASUS/Dropbox/내 PC (LAPTOP-8VBB4RB0)/Desktop/BetaProduction/Content/StarterContent/Textures/T_Metal_Rust_D.uasset"
+[2022.10.08-10.39.27:568][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Rust_N.uasset" to "../../../../../../Users/ASUS/Dropbox/내 PC (LAPTOP-8VBB4RB0)/Desktop/BetaProduction/Content/StarterContent/Textures/T_Metal_Rust_N.uasset"
+[2022.10.08-10.39.27:583][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Steel_D.uasset" to "../../../../../../Users/ASUS/Dropbox/내 PC (LAPTOP-8VBB4RB0)/Desktop/BetaProduction/Content/StarterContent/Textures/T_Metal_Steel_D.uasset"
+[2022.10.08-10.39.27:596][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Steel_N.uasset" to "../../../../../../Users/ASUS/Dropbox/내 PC (LAPTOP-8VBB4RB0)/Desktop/BetaProduction/Content/StarterContent/Textures/T_Metal_Steel_N.uasset"
+[2022.10.08-10.39.27:612][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset" to "../../../../../../Users/ASUS/Dropbox/내 PC (LAPTOP-8VBB4RB0)/Desktop/BetaProduction/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset"
+[2022.10.08-10.39.27:631][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_RockMesh_M.uasset" to "../../../../../../Users/ASUS/Dropbox/내 PC (LAPTOP-8VBB4RB0)/Desktop/BetaProduction/Content/StarterContent/Textures/T_RockMesh_M.uasset"
+[2022.10.08-10.39.27:644][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_RockMesh_N.uasset" to "../../../../../../Users/ASUS/Dropbox/내 PC (LAPTOP-8VBB4RB0)/Desktop/BetaProduction/Content/StarterContent/Textures/T_RockMesh_N.uasset"
+[2022.10.08-10.39.27:661][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset" to "../../../../../../Users/ASUS/Dropbox/내 PC (LAPTOP-8VBB4RB0)/Desktop/BetaProduction/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset"
+[2022.10.08-10.39.27:680][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset" to "../../../../../../Users/ASUS/Dropbox/내 PC (LAPTOP-8VBB4RB0)/Desktop/BetaProduction/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset"
+[2022.10.08-10.39.27:692][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset" to "../../../../../../Users/ASUS/Dropbox/내 PC (LAPTOP-8VBB4RB0)/Desktop/BetaProduction/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset"
+[2022.10.08-10.39.27:710][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset" to "../../../../../../Users/ASUS/Dropbox/내 PC (LAPTOP-8VBB4RB0)/Desktop/BetaProduction/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset"
+[2022.10.08-10.39.27:730][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset" to "../../../../../../Users/ASUS/Dropbox/내 PC (LAPTOP-8VBB4RB0)/Desktop/BetaProduction/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset"
+[2022.10.08-10.39.27:751][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Slate_D.uasset" to "../../../../../../Users/ASUS/Dropbox/내 PC (LAPTOP-8VBB4RB0)/Desktop/BetaProduction/Content/StarterContent/Textures/T_Rock_Slate_D.uasset"
+[2022.10.08-10.39.27:771][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Slate_N.uasset" to "../../../../../../Users/ASUS/Dropbox/내 PC (LAPTOP-8VBB4RB0)/Desktop/BetaProduction/Content/StarterContent/Textures/T_Rock_Slate_N.uasset"
+[2022.10.08-10.39.27:787][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset" to "../../../../../../Users/ASUS/Dropbox/내 PC (LAPTOP-8VBB4RB0)/Desktop/BetaProduction/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset"
+[2022.10.08-10.39.27:794][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Shelf_M.uasset" to "../../../../../../Users/ASUS/Dropbox/내 PC (LAPTOP-8VBB4RB0)/Desktop/BetaProduction/Content/StarterContent/Textures/T_Shelf_M.uasset"
+[2022.10.08-10.39.27:804][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Shelf_N.uasset" to "../../../../../../Users/ASUS/Dropbox/내 PC (LAPTOP-8VBB4RB0)/Desktop/BetaProduction/Content/StarterContent/Textures/T_Shelf_N.uasset"
+[2022.10.08-10.39.27:813][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Single_Tile_N.uasset" to "../../../../../../Users/ASUS/Dropbox/내 PC (LAPTOP-8VBB4RB0)/Desktop/BetaProduction/Content/StarterContent/Textures/T_Single_Tile_N.uasset"
+[2022.10.08-10.39.27:826][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Smoke_SubUV.uasset" to "../../../../../../Users/ASUS/Dropbox/내 PC (LAPTOP-8VBB4RB0)/Desktop/BetaProduction/Content/StarterContent/Textures/T_Smoke_SubUV.uasset"
+[2022.10.08-10.39.27:834][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset" to "../../../../../../Users/ASUS/Dropbox/내 PC (LAPTOP-8VBB4RB0)/Desktop/BetaProduction/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset"
+[2022.10.08-10.39.27:845][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Spark_Core.uasset" to "../../../../../../Users/ASUS/Dropbox/내 PC (LAPTOP-8VBB4RB0)/Desktop/BetaProduction/Content/StarterContent/Textures/T_Spark_Core.uasset"
+[2022.10.08-10.39.27:855][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Statue_M.uasset" to "../../../../../../Users/ASUS/Dropbox/내 PC (LAPTOP-8VBB4RB0)/Desktop/BetaProduction/Content/StarterContent/Textures/T_Statue_M.uasset"
+[2022.10.08-10.39.27:863][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Statue_N.uasset" to "../../../../../../Users/ASUS/Dropbox/내 PC (LAPTOP-8VBB4RB0)/Desktop/BetaProduction/Content/StarterContent/Textures/T_Statue_N.uasset"
+[2022.10.08-10.39.27:889][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_TableRound_M.uasset" to "../../../../../../Users/ASUS/Dropbox/내 PC (LAPTOP-8VBB4RB0)/Desktop/BetaProduction/Content/StarterContent/Textures/T_TableRound_M.uasset"
+[2022.10.08-10.39.27:901][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_TableRound_N.uasset" to "../../../../../../Users/ASUS/Dropbox/내 PC (LAPTOP-8VBB4RB0)/Desktop/BetaProduction/Content/StarterContent/Textures/T_TableRound_N.uasset"
+[2022.10.08-10.39.27:910][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Dot_M.uasset" to "../../../../../../Users/ASUS/Dropbox/내 PC (LAPTOP-8VBB4RB0)/Desktop/BetaProduction/Content/StarterContent/Textures/T_Tech_Dot_M.uasset"
+[2022.10.08-10.39.27:918][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Dot_N.uasset" to "../../../../../../Users/ASUS/Dropbox/내 PC (LAPTOP-8VBB4RB0)/Desktop/BetaProduction/Content/StarterContent/Textures/T_Tech_Dot_N.uasset"
+[2022.10.08-10.39.27:925][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset" to "../../../../../../Users/ASUS/Dropbox/내 PC (LAPTOP-8VBB4RB0)/Desktop/BetaProduction/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset"
+[2022.10.08-10.39.27:944][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset" to "../../../../../../Users/ASUS/Dropbox/내 PC (LAPTOP-8VBB4RB0)/Desktop/BetaProduction/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset"
+[2022.10.08-10.39.27:967][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Panel_M.uasset" to "../../../../../../Users/ASUS/Dropbox/내 PC (LAPTOP-8VBB4RB0)/Desktop/BetaProduction/Content/StarterContent/Textures/T_Tech_Panel_M.uasset"
+[2022.10.08-10.39.27:976][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Panel_N.uasset" to "../../../../../../Users/ASUS/Dropbox/내 PC (LAPTOP-8VBB4RB0)/Desktop/BetaProduction/Content/StarterContent/Textures/T_Tech_Panel_N.uasset"
+[2022.10.08-10.39.27:989][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Water_M.uasset" to "../../../../../../Users/ASUS/Dropbox/내 PC (LAPTOP-8VBB4RB0)/Desktop/BetaProduction/Content/StarterContent/Textures/T_Water_M.uasset"
+[2022.10.08-10.39.27:998][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Water_N.uasset" to "../../../../../../Users/ASUS/Dropbox/내 PC (LAPTOP-8VBB4RB0)/Desktop/BetaProduction/Content/StarterContent/Textures/T_Water_N.uasset"
+[2022.10.08-10.39.28:011][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset" to "../../../../../../Users/ASUS/Dropbox/내 PC (LAPTOP-8VBB4RB0)/Desktop/BetaProduction/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset"
+[2022.10.08-10.39.28:077][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset" to "../../../../../../Users/ASUS/Dropbox/내 PC (LAPTOP-8VBB4RB0)/Desktop/BetaProduction/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset"
+[2022.10.08-10.39.28:128][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset" to "../../../../../../Users/ASUS/Dropbox/내 PC (LAPTOP-8VBB4RB0)/Desktop/BetaProduction/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset"
+[2022.10.08-10.39.28:144][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Oak_D.uasset" to "../../../../../../Users/ASUS/Dropbox/내 PC (LAPTOP-8VBB4RB0)/Desktop/BetaProduction/Content/StarterContent/Textures/T_Wood_Oak_D.uasset"
+[2022.10.08-10.39.28:159][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Oak_N.uasset" to "../../../../../../Users/ASUS/Dropbox/내 PC (LAPTOP-8VBB4RB0)/Desktop/BetaProduction/Content/StarterContent/Textures/T_Wood_Oak_N.uasset"
+[2022.10.08-10.39.28:180][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Pine_D.uasset" to "../../../../../../Users/ASUS/Dropbox/내 PC (LAPTOP-8VBB4RB0)/Desktop/BetaProduction/Content/StarterContent/Textures/T_Wood_Pine_D.uasset"
+[2022.10.08-10.39.28:191][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Pine_N.uasset" to "../../../../../../Users/ASUS/Dropbox/내 PC (LAPTOP-8VBB4RB0)/Desktop/BetaProduction/Content/StarterContent/Textures/T_Wood_Pine_N.uasset"
+[2022.10.08-10.39.28:206][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset" to "../../../../../../Users/ASUS/Dropbox/내 PC (LAPTOP-8VBB4RB0)/Desktop/BetaProduction/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset"
+[2022.10.08-10.39.28:220][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset" to "../../../../../../Users/ASUS/Dropbox/내 PC (LAPTOP-8VBB4RB0)/Desktop/BetaProduction/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset"
+[2022.10.08-10.39.28:225][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset" to "../../../../../../Users/ASUS/Dropbox/내 PC (LAPTOP-8VBB4RB0)/Desktop/BetaProduction/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset"
+[2022.10.08-10.39.28:231][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset" to "../../../../../../Users/ASUS/Dropbox/내 PC (LAPTOP-8VBB4RB0)/Desktop/BetaProduction/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset"
+[2022.10.08-10.39.28:238][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset" to "../../../../../../Users/ASUS/Dropbox/내 PC (LAPTOP-8VBB4RB0)/Desktop/BetaProduction/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset"
+[2022.10.08-10.39.28:243][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset" to "../../../../../../Users/ASUS/Dropbox/내 PC (LAPTOP-8VBB4RB0)/Desktop/BetaProduction/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset"
+[2022.10.08-10.39.28:248][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset" to "../../../../../../Users/ASUS/Dropbox/내 PC (LAPTOP-8VBB4RB0)/Desktop/BetaProduction/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset"
+[2022.10.08-10.39.28:257][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/Skybox.uasset" to "../../../../../../Users/ASUS/Dropbox/내 PC (LAPTOP-8VBB4RB0)/Desktop/BetaProduction/Content/StarterContent/Blueprints/Assets/Skybox.uasset"
+[2022.10.08-10.39.28:273][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset" to "../../../../../../Users/ASUS/Dropbox/내 PC (LAPTOP-8VBB4RB0)/Desktop/BetaProduction/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset"
+[2022.10.08-10.39.28:278][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset" to "../../../../../../Users/ASUS/Dropbox/내 PC (LAPTOP-8VBB4RB0)/Desktop/BetaProduction/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset"
+[2022.10.08-10.39.28:285][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Burst.uasset" to "../../../../../../Users/ASUS/Dropbox/내 PC (LAPTOP-8VBB4RB0)/Desktop/BetaProduction/Content/StarterContent/Particles/Materials/M_Burst.uasset"
+[2022.10.08-10.39.28:293][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset" to "../../../../../../Users/ASUS/Dropbox/내 PC (LAPTOP-8VBB4RB0)/Desktop/BetaProduction/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset"
+[2022.10.08-10.39.28:300][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset" to "../../../../../../Users/ASUS/Dropbox/내 PC (LAPTOP-8VBB4RB0)/Desktop/BetaProduction/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset"
+[2022.10.08-10.39.28:308][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset" to "../../../../../../Users/ASUS/Dropbox/내 PC (LAPTOP-8VBB4RB0)/Desktop/BetaProduction/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset"
+[2022.10.08-10.39.28:314][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/m_flare_01.uasset" to "../../../../../../Users/ASUS/Dropbox/내 PC (LAPTOP-8VBB4RB0)/Desktop/BetaProduction/Content/StarterContent/Particles/Materials/m_flare_01.uasset"
+[2022.10.08-10.39.28:320][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset" to "../../../../../../Users/ASUS/Dropbox/내 PC (LAPTOP-8VBB4RB0)/Desktop/BetaProduction/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset"
+[2022.10.08-10.39.28:326][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset" to "../../../../../../Users/ASUS/Dropbox/내 PC (LAPTOP-8VBB4RB0)/Desktop/BetaProduction/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset"
+[2022.10.08-10.39.28:331][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset" to "../../../../../../Users/ASUS/Dropbox/내 PC (LAPTOP-8VBB4RB0)/Desktop/BetaProduction/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset"
+[2022.10.08-10.39.28:340][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset" to "../../../../../../Users/ASUS/Dropbox/내 PC (LAPTOP-8VBB4RB0)/Desktop/BetaProduction/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset"
+[2022.10.08-10.39.28:349][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Spark.uasset" to "../../../../../../Users/ASUS/Dropbox/내 PC (LAPTOP-8VBB4RB0)/Desktop/BetaProduction/Content/StarterContent/Particles/Materials/M_Spark.uasset"
+[2022.10.08-10.39.28:357][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Bush.uasset" to "../../../../../../Users/ASUS/Dropbox/내 PC (LAPTOP-8VBB4RB0)/Desktop/BetaProduction/Content/StarterContent/Props/Materials/M_Bush.uasset"
+[2022.10.08-10.39.28:364][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Chair.uasset" to "../../../../../../Users/ASUS/Dropbox/내 PC (LAPTOP-8VBB4RB0)/Desktop/BetaProduction/Content/StarterContent/Props/Materials/M_Chair.uasset"
+[2022.10.08-10.39.28:371][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Door.uasset" to "../../../../../../Users/ASUS/Dropbox/내 PC (LAPTOP-8VBB4RB0)/Desktop/BetaProduction/Content/StarterContent/Props/Materials/M_Door.uasset"
+[2022.10.08-10.39.28:377][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Frame.uasset" to "../../../../../../Users/ASUS/Dropbox/내 PC (LAPTOP-8VBB4RB0)/Desktop/BetaProduction/Content/StarterContent/Props/Materials/M_Frame.uasset"
+[2022.10.08-10.39.28:384][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Lamp.uasset" to "../../../../../../Users/ASUS/Dropbox/내 PC (LAPTOP-8VBB4RB0)/Desktop/BetaProduction/Content/StarterContent/Props/Materials/M_Lamp.uasset"
+[2022.10.08-10.39.28:391][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset" to "../../../../../../Users/ASUS/Dropbox/내 PC (LAPTOP-8VBB4RB0)/Desktop/BetaProduction/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset"
+[2022.10.08-10.39.28:399][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset" to "../../../../../../Users/ASUS/Dropbox/내 PC (LAPTOP-8VBB4RB0)/Desktop/BetaProduction/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset"
+[2022.10.08-10.39.28:406][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Rock.uasset" to "../../../../../../Users/ASUS/Dropbox/내 PC (LAPTOP-8VBB4RB0)/Desktop/BetaProduction/Content/StarterContent/Props/Materials/M_Rock.uasset"
+[2022.10.08-10.39.28:413][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Shelf.uasset" to "../../../../../../Users/ASUS/Dropbox/내 PC (LAPTOP-8VBB4RB0)/Desktop/BetaProduction/Content/StarterContent/Props/Materials/M_Shelf.uasset"
+[2022.10.08-10.39.28:419][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Statue.uasset" to "../../../../../../Users/ASUS/Dropbox/내 PC (LAPTOP-8VBB4RB0)/Desktop/BetaProduction/Content/StarterContent/Props/Materials/M_Statue.uasset"
+[2022.10.08-10.39.28:425][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_StatueGlass.uasset" to "../../../../../../Users/ASUS/Dropbox/내 PC (LAPTOP-8VBB4RB0)/Desktop/BetaProduction/Content/StarterContent/Props/Materials/M_StatueGlass.uasset"
+[2022.10.08-10.39.28:435][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_TableRound.uasset" to "../../../../../../Users/ASUS/Dropbox/내 PC (LAPTOP-8VBB4RB0)/Desktop/BetaProduction/Content/StarterContent/Props/Materials/M_TableRound.uasset"
+[2022.10.08-10.39.28:518][  0]LogStaticMesh: StaticMesh /Game/StarterContent/Props/SM_Lamp_Ceiling.SM_Lamp_Ceiling should be resaved to improve async compilation performance.
+[2022.10.08-10.39.28:989][  0]LogD3D12RHI: Warning: Waited for PSO creation for 100.000000ms
+[2022.10.08-10.39.29:087][  0]LogD3D12RHI: Warning: Waited for PSO creation for 200.000000ms
+[2022.10.08-10.39.29:410][  0]LogPackageLocalizationCache: Processed 29 localized package path(s) for 1 prioritized culture(s) in 0.082562 seconds
+[2022.10.08-10.39.29:446][  0]LogSavePackage: Moving output files for package: /Game/StarterContent/Blueprints/Blueprint_CeilingLight
+[2022.10.08-10.39.29:447][  0]LogSavePackage: Moving '../../../../../../Users/ASUS/Dropbox/내 PC (LAPTOP-8VBB4RB0)/Desktop/BetaProduction/Saved/Blueprint_CeilingLightF5D425C84376E3893089E4B6957FE57A.tmp' to '../../../../../../Users/ASUS/Dropbox/내 PC (LAPTOP-8VBB4RB0)/Desktop/BetaProduction/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset'
+[2022.10.08-10.39.29:449][  0]LogFeaturePack: Inserted 1 feature packs
+[2022.10.08-10.39.29:451][  0]Cmd: MAP LOAD FILE="../../../../../../Users/ASUS/Dropbox/내 PC (LAPTOP-8VBB4RB0)/Desktop/BetaProduction/Content/ThirdPerson/Maps/ThirdPersonMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.10.08-10.39.29:452][  0]LightingResults: New page: 라이팅 빌드
+[2022.10.08-10.39.29:464][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2022.10.08-10.39.29:465][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.08-10.39.29:465][  0]MapCheck: New page: 맵 체크
+[2022.10.08-10.39.29:465][  0]LightingResults: New page: 라이팅 빌드
+[2022.10.08-10.39.29:476][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.10.08-10.39.29:479][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2022.10.08-10.39.30:110][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'ThirdPersonMap'.
+[2022.10.08-10.39.30:125][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.08-10.39.30:125][  0]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2022.10.08-10.39.30:126][  0]LogWorldPartition: Display: WorldPartition initialize started...
+[2022.10.08-10.39.30:126][  0]LogWorldPartition: UWorldPartition::Initialize(IsEditor=1, IsGame=0, IsCooking=0)
+[2022.10.08-10.39.30:283][  0]LogWorldPartition: Display: WorldPartition initialize took 156 ms
+[2022.10.08-10.39.30:294][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.10.08-10.39.30:311][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2022.10.08-10.39.30:311][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.10.08-10.39.30:312][  0]MapCheck: 맵 체크 완료: 오류 0 회, 경고 0 회, 소요 시간 0.479ms.
+[2022.10.08-10.39.30:312][  0]LogFileHelpers: Loading map 'ThirdPersonMap' took 0.861
+[2022.10.08-10.39.30:345][  0]LogUnrealEdMisc: Total Editor Startup Time, took 78.179
+[2022.10.08-10.39.30:345][  0]LogShaderCompilers: Display: ================================================
+[2022.10.08-10.39.30:346][  0]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.10.08-10.39.30:346][  0]LogShaderCompilers: Display: Total job queries 0, among them cache hits 0 (0.00%)
+[2022.10.08-10.39.30:346][  0]LogShaderCompilers: Display: Tracking 0 distinct input hashes that result in 0 distinct outputs (0.00%)
+[2022.10.08-10.39.30:346][  0]LogShaderCompilers: Display: RAM used: 0.00 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.00%
+[2022.10.08-10.39.30:346][  0]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2022.10.08-10.39.30:346][  0]LogShaderCompilers: Display: Shaders Compiled: 0
+[2022.10.08-10.39.30:346][  0]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0.00%)
+[2022.10.08-10.39.30:346][  0]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2022.10.08-10.39.30:346][  0]LogShaderCompilers: Display: ================================================
+[2022.10.08-10.39.30:525][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.08-10.39.30:533][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.08-10.39.30:539][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.08-10.39.30:544][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.08-10.39.30:756][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/StarterContent.upack', mount point: 'root:/'
+[2022.10.08-10.39.30:756][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.10.08-10.39.30:757][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_FirstPerson.upack', mount point: 'root:/'
+[2022.10.08-10.39.30:757][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.10.08-10.39.30:759][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_FirstPersonBP.upack', mount point: 'root:/'
+[2022.10.08-10.39.30:759][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.10.08-10.39.30:760][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_HandheldARBP.upack', mount point: 'root:/'
+[2022.10.08-10.39.30:760][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.10.08-10.39.30:762][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_ThirdPerson.upack', mount point: 'root:/'
+[2022.10.08-10.39.30:762][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.10.08-10.39.30:763][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_ThirdPersonBP.upack', mount point: 'root:/'
+[2022.10.08-10.39.30:763][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.10.08-10.39.30:764][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_TopDown.upack', mount point: 'root:/'
+[2022.10.08-10.39.30:764][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.10.08-10.39.30:765][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_TopDownBP.upack', mount point: 'root:/'
+[2022.10.08-10.39.30:765][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.10.08-10.39.30:767][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_VehicleAdvBP.upack', mount point: 'root:/'
+[2022.10.08-10.39.30:767][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.10.08-10.39.30:768][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_VirtualRealityBP.upack', mount point: 'root:/'
+[2022.10.08-10.39.30:768][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.10.08-10.39.30:768][  0]LogFeaturePack: Error: Error in Feature pack C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_VirtualRealityBP.upack. Failed to parse manifest: Invalid Json Token. Line: 43 Ch: 4
+[2022.10.08-10.39.31:020][  0]LogSlate: Took 0.000364 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2022.10.08-10.39.31:028][  0]LogSlate: Took 0.004778 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/NanumGothic.ttf' (4243K)
+[2022.10.08-10.39.31:043][  0]LogSlate: Took 0.006162 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2022.10.08-10.39.31:058][  0]LogSlate: Took 0.013245 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2022.10.08-10.39.31:064][  0]LogSlate: Took 0.005998 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/NanumGothicBold.ttf' (4188K)
+[2022.10.08-10.39.31:084][  0]LogSlate: Took 0.019444 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/NanumGothicExtraBold.ttf' (4074K)
+[2022.10.08-10.39.31:123][  0]LogViewport: Scene viewport resized to 1523x858, mode Windowed.
+[2022.10.08-10.39.31:548][  0]LogMeshUtilities: Finished distance field build in 3.0s - 126x126x126 sparse distance field, 1.9Mb total, 0.1Mb always loaded, 52% occupied, 1322 triangles, EditorSkySphere
+[2022.10.08-10.39.34:695][  0]LogStall: Startup...
+[2022.10.08-10.39.34:697][  0]LogStall: Startup complete.
+[2022.10.08-10.39.34:735][  0]LogLoad: (Engine Initialization) Total time: 82.57 seconds
+[2022.10.08-10.39.34:735][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2022.10.08-10.39.34:894][  0]AssetCheck: New page: 에셋 저장:  Blueprint_CeilingLight
+[2022.10.08-10.39.34:894][  0]LogContentValidation: Display: Blueprint /Game/StarterContent/Blueprints/Blueprint_CeilingLight.Blueprint_CeilingLight 유효성 검사 중
+[2022.10.08-10.39.34:978][  0]LogAssetRegistry: Asset discovery search completed in 21.0323 seconds
+[2022.10.08-10.39.34:986][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000003 seconds (updated 0 objects)
+[2022.10.08-10.39.34:986][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2022.10.08-10.39.35:037][  0]LogSlate: Took 0.000259 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2022.10.08-10.39.46:716][548]LogViewport: Scene viewport resized to 758x426, mode Windowed.
+[2022.10.08-10.39.46:789][548]LogSlate: Took 0.035780 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.10.08-10.39.46:839][548]LogViewport: Scene viewport resized to 758x426, mode Windowed.
+[2022.10.08-10.39.46:881][548]LogViewport: Scene viewport resized to 758x426, mode Windowed.
+[2022.10.08-10.39.46:932][548]LogViewport: Scene viewport resized to 1103x620, mode Windowed.
+[2022.10.08-10.39.47:007][549]LogViewport: Scene viewport resized to 758x426, mode Windowed.
+[2022.10.08-10.39.48:571][632]LogViewport: Scene viewport resized to 1178x663, mode Windowed.
+[2022.10.08-10.39.48:615][633]LogViewport: Scene viewport resized to 1440x811, mode Windowed.
+[2022.10.08-10.39.48:657][634]LogViewport: Scene viewport resized to 1517x854, mode Windowed.
+[2022.10.08-10.39.48:703][635]LogViewport: Scene viewport resized to 1523x858, mode Windowed.
+[2022.10.08-10.39.49:557][684]LogViewport: Scene viewport resized to 1171x659, mode Windowed.
+[2022.10.08-10.39.49:600][685]LogViewport: Scene viewport resized to 922x518, mode Windowed.
+[2022.10.08-10.39.49:639][686]LogViewport: Scene viewport resized to 807x453, mode Windowed.
+[2022.10.08-10.39.49:683][687]LogViewport: Scene viewport resized to 763x428, mode Windowed.
+[2022.10.08-10.39.49:723][688]LogViewport: Scene viewport resized to 758x426, mode Windowed.
+[2022.10.08-10.39.50:884][753]LogViewport: Scene viewport resized to 1022x575, mode Windowed.
+[2022.10.08-10.39.50:928][754]LogViewport: Scene viewport resized to 1377x775, mode Windowed.
+[2022.10.08-10.39.51:094][755]LogViewport: Scene viewport resized to 1523x858, mode Windowed.
+[2022.10.08-10.39.58:685][200]LogMaterial: Display: Missing cached shadermap for LandscapeMaterialInstanceConstant_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 5A4D8B0591E527BB7AC0627C7C6A73118E92C06D), compiling. 
+[2022.10.08-10.39.58:776][200]LogMaterial: Display: Missing cached shadermap for LandscapeMaterialInstanceConstant_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 41E89715871E446ED61CDCBE917D4EF1D31F1982), compiling. 
+[2022.10.08-10.39.58:832][200]LogMaterial: Display: Missing cached shadermap for LandscapeMaterialInstanceConstant_2 in PCD3D_SM5, Default, SM5 (DDC key hash: E247823F3D62FB6883F0B31FA64FC8885F8D3CD9), compiling. 
+[2022.10.08-10.39.58:883][200]LogMaterial: Display: Missing cached shadermap for LandscapeMaterialInstanceConstant_3 in PCD3D_SM5, Default, SM5 (DDC key hash: 8D9137D5DC4AC56139AFC4AFFFFD8078A320EDC6), compiling. 
+[2022.10.08-10.39.58:941][200]LogMaterial: Display: Missing cached shadermap for LandscapeMaterialInstanceConstant_4 in PCD3D_SM5, Default, SM5 (DDC key hash: 43B45CADCF8C6C5AA6387FD6D9A517D5E4909CAC), compiling. 
+[2022.10.08-10.39.58:994][200]LogMaterial: Display: Missing cached shadermap for LandscapeMaterialInstanceConstant_5 in PCD3D_SM5, Default, SM5 (DDC key hash: F57F15EC27E162F45728F47418A26CAE955E3105), compiling. 
+[2022.10.08-10.39.59:051][200]LogMaterial: Display: Missing cached shadermap for LandscapeMaterialInstanceConstant_6 in PCD3D_SM5, Default, SM5 (DDC key hash: BDA2DF8D4C901C8793C450F28F1DC24429C8DB46), compiling. 
+[2022.10.08-10.39.59:121][200]LogMaterial: Display: Missing cached shadermap for LandscapeMaterialInstanceConstant_7 in PCD3D_SM5, Default, SM5 (DDC key hash: A043CB9DFC8C8E97841633236986AE89D1D96B1B), compiling. 
+[2022.10.08-10.39.59:160][200]LogMaterial: Display: Missing cached shadermap for LandscapeMaterialInstanceConstant_8 in PCD3D_SM5, Default, SM5 (DDC key hash: 2FA80219A01D784DFD8BF422C2D1E76330839797), compiling. 
+[2022.10.08-10.39.59:207][200]LogMaterial: Display: Missing cached shadermap for LandscapeMaterialInstanceConstant_9 in PCD3D_SM5, Default, SM5 (DDC key hash: 747FE5AC3DF19D96256FE5E40E2520483C7C8160), compiling. 
+[2022.10.08-10.39.59:258][200]LogMaterial: Display: Missing cached shadermap for LandscapeMaterialInstanceConstant_10 in PCD3D_SM5, Default, SM5 (DDC key hash: EB53E833A7B2A0EBA043F1BD7D5DE0FD43C01192), compiling. 
+[2022.10.08-10.39.59:320][200]LogMaterial: Display: Missing cached shadermap for LandscapeMaterialInstanceConstant_11 in PCD3D_SM5, Default, SM5 (DDC key hash: ECC9BBAEA3CF23B4E9333F153A0C86D02A669C8F), compiling. 
+[2022.10.08-10.39.59:371][200]LogMaterial: Display: Missing cached shadermap for LandscapeMaterialInstanceConstant_12 in PCD3D_SM5, Default, SM5 (DDC key hash: C0E3622C758CF4C42B1A416CF820A6C0188F4BA1), compiling. 
+[2022.10.08-10.39.59:429][200]LogMaterial: Display: Missing cached shadermap for LandscapeMaterialInstanceConstant_14 in PCD3D_SM5, Default, SM5 (DDC key hash: DB5E1AA463FA346F22DFC270AEB3207BF38CF868), compiling. 
+[2022.10.08-10.39.59:661][200]LogTexture: Display: 텍스처 빌드 중: /Engine/Transient.Texture2D_6(G8, 128X128 X1X1)(필요 메모리 예상: 0.078125MB), 인코딩 속도: Fast
+[2022.10.08-10.39.59:661][200]LogViewport: Scene viewport resized to 1167x858, mode Windowed.
+[2022.10.08-10.41.12:322][812]LogDerivedDataCache: C:/Users/ASUS/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.047 and deleted 0 file(s) with total size 0 MiB.
+[2022.10.08-10.42.31:079][572]LogShaderCompilers: Display: ================================================
+[2022.10.08-10.42.31:079][572]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.10.08-10.42.31:079][572]LogShaderCompilers: Display: Total job queries 344, among them cache hits 0 (0.00%)
+[2022.10.08-10.42.31:079][572]LogShaderCompilers: Display: Tracking 262 distinct input hashes that result in 114 distinct outputs (43.51%)
+[2022.10.08-10.42.31:079][572]LogShaderCompilers: Display: RAM used: 0.28 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.03%
+[2022.10.08-10.42.31:079][572]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2022.10.08-10.42.31:079][572]LogShaderCompilers: Display: Shaders Compiled: 344
+[2022.10.08-10.42.31:079][572]LogShaderCompilers: Display: Jobs assigned 320, completed 262 (81.88%)
+[2022.10.08-10.42.31:079][572]LogShaderCompilers: Display: Average time worker was idle: 0.00 s
+[2022.10.08-10.42.31:080][572]LogShaderCompilers: Display: Time job spent in pending queue: average 59.30 s, longest 152.18 s
+[2022.10.08-10.42.31:080][572]LogShaderCompilers: Display: Job execution time: average 37.93 s, max 49.35 s
+[2022.10.08-10.42.31:080][572]LogShaderCompilers: Display: Job life time (pending + execution): average 82.39 s, max 152.18
+[2022.10.08-10.42.31:080][572]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 152.29 s
+[2022.10.08-10.42.31:080][572]LogShaderCompilers: Display: Jobs were issued in 39 batches (only local compilation was used), average 8.21 jobs/batch
+[2022.10.08-10.42.31:080][572]LogShaderCompilers: Display: Average processing rate: 1.72 jobs/sec
+[2022.10.08-10.42.31:080][572]LogShaderCompilers: Display: Effective parallelization: 6.75 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2022.10.08-10.42.31:080][572]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2022.10.08-10.42.31:080][572]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled   21 times, average 6.14 sec, max 8.05 sec, min 4.11 sec)
+[2022.10.08-10.42.31:080][572]LogShaderCompilers: Display:                                             FDebugViewModePS (compiled   23 times, average 5.37 sec, max 7.62 sec, min 3.90 sec)
+[2022.10.08-10.42.31:080][572]LogShaderCompilers: Display:                                             FDebugViewModeVS (compiled   22 times, average 5.34 sec, max 7.84 sec, min 3.80 sec)
+[2022.10.08-10.42.31:080][572]LogShaderCompilers: Display: TTranslucencyShadowDepthVS<TranslucencyShadowDepth_PerspectiveCorrect> (compiled   18 times, average 5.06 sec, max 7.84 sec, min 3.68 sec)
+[2022.10.08-10.42.31:080][572]LogShaderCompilers: Display: TTranslucencyShadowDepthVS<TranslucencyShadowDepth_Standard> (compiled   17 times, average 5.01 sec, max 6.52 sec, min 3.79 sec)
+[2022.10.08-10.42.31:080][572]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2022.10.08-10.42.31:080][572]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 12.54% of total time (compiled   21 times, average 6.14 sec, max 8.05 sec, min 4.11 sec)
+[2022.10.08-10.42.31:080][572]LogShaderCompilers: Display:                                             FDebugViewModePS - 12.02% of total time (compiled   23 times, average 5.37 sec, max 7.62 sec, min 3.90 sec)
+[2022.10.08-10.42.31:080][572]LogShaderCompilers: Display:                                             FDebugViewModeVS - 11.42% of total time (compiled   22 times, average 5.34 sec, max 7.84 sec, min 3.80 sec)
+[2022.10.08-10.42.31:081][572]LogShaderCompilers: Display:                                                 FLumenCardVS - 9.17% of total time (compiled   20 times, average 4.71 sec, max 6.50 sec, min 3.45 sec)
+[2022.10.08-10.42.31:081][572]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 8.93% of total time (compiled   21 times, average 4.37 sec, max 5.32 sec, min 2.62 sec)
+[2022.10.08-10.42.31:081][572]LogShaderCompilers: Display: ================================================
+[2022.10.08-10.42.31:237][576]LogDirectoryWatcher: Display: A directory notification failed for 'C:/Users/ASUS/Dropbox/내 PC (LAPTOP-8VBB4RB0)/Desktop/BetaProduction/Content/Collections/' because it could not be accessed. Aborting watch request...
+[2022.10.08-10.42.31:237][576]LogDirectoryWatcher: Display: A directory notification failed for 'C:/Users/ASUS/Dropbox/내 PC (LAPTOP-8VBB4RB0)/Desktop/BetaProduction/Content/Developers/ASUS/Collections/' because it could not be accessed. Aborting watch request...
+[2022.10.08-10.42.31:586][584]LogDirectoryWatcher: Display: A directory notification failed for 'C:/Users/ASUS/Dropbox/내 PC (LAPTOP-8VBB4RB0)/Desktop/BetaProduction/Saved/Collections/' because it could not be accessed. Aborting watch request...
+[2022.10.08-10.43.08:665][615]LogSlate: Took 0.006091 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2022.10.08-10.43.08:682][615]LogSlate: Took 0.000244 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.10.08-10.43.20:703][259]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2022.10.08-10.43.21:334][259]LogTexture: Display: 텍스처 빌드 중: /Game/Realistic_Starter_VFX_Pack_Vol2/Maps/Overview_Map_Day_BuiltData.Overview_Map_Day_BuiltData:HQ_Lightmap0_11(TFO_AutoDXT, 64X64 X1X1)(필요 메모리 예상: 0.10416MB), 인코딩 속도: Fast
+[2022.10.08-10.43.21:334][259]LogTexture: Display: 텍스처 빌드 중: /Game/Realistic_Starter_VFX_Pack_Vol2/Maps/Overview_Map_Day_BuiltData.Overview_Map_Day_BuiltData:HQ_Lightmap0_10(TFO_AutoDXT, 128X128 X1X1)(필요 메모리 예상: 0.41666MB), 인코딩 속도: Fast
+[2022.10.08-10.43.21:334][259]LogTexture: Display: 텍스처 빌드 중: /Game/Realistic_Starter_VFX_Pack_Vol2/Maps/Overview_Map_Day_BuiltData.Overview_Map_Day_BuiltData:HQ_Lightmap0_3(TFO_AutoDXT, 1024X1024 X1X1)(필요 메모리 예상: 26.66666MB), 인코딩 속도: Fast
+[2022.10.08-10.43.21:334][259]LogTexture: Display: 텍스처 빌드 중: /Game/Realistic_Starter_VFX_Pack_Vol2/Maps/Overview_Map_Day_BuiltData.Overview_Map_Day_BuiltData:HQ_Lightmap0_1(TFO_AutoDXT, 1024X1024 X1X1)(필요 메모리 예상: 26.66666MB), 인코딩 속도: Fast
+[2022.10.08-10.43.21:335][259]LogTexture: Display: 텍스처 빌드 중: /Game/Realistic_Starter_VFX_Pack_Vol2/Maps/Overview_Map_Day_BuiltData.Overview_Map_Day_BuiltData:HQ_Lightmap0_2(TFO_AutoDXT, 1024X1024 X1X1)(필요 메모리 예상: 26.66666MB), 인코딩 속도: Fast
+[2022.10.08-10.43.21:335][259]LogTexture: Display: 텍스처 빌드 중: /Game/Realistic_Starter_VFX_Pack_Vol2/Maps/Overview_Map_Day_BuiltData.Overview_Map_Day_BuiltData:HQ_Lightmap0_4(TFO_AutoDXT, 1024X1024 X1X1)(필요 메모리 예상: 26.66666MB), 인코딩 속도: Fast
+[2022.10.08-10.43.21:335][259]LogTexture: Display: 텍스처 빌드 중: /Game/Realistic_Starter_VFX_Pack_Vol2/Maps/Overview_Map_Day_BuiltData.Overview_Map_Day_BuiltData:HQ_Lightmap0_5(TFO_AutoDXT, 1024X1024 X1X1)(필요 메모리 예상: 26.66666MB), 인코딩 속도: Fast
+[2022.10.08-10.43.21:335][259]LogTexture: Display: 텍스처 빌드 중: /Game/Realistic_Starter_VFX_Pack_Vol2/Maps/Overview_Map_Day_BuiltData.Overview_Map_Day_BuiltData:HQ_Lightmap0_7(TFO_AutoDXT, 1024X1024 X1X1)(필요 메모리 예상: 26.66666MB), 인코딩 속도: Fast
+[2022.10.08-10.43.21:335][259]LogTexture: Display: 텍스처 빌드 중: /Game/Realistic_Starter_VFX_Pack_Vol2/Maps/Overview_Map_Day_BuiltData.Overview_Map_Day_BuiltData:HQ_Lightmap0_6(TFO_AutoDXT, 1024X1024 X1X1)(필요 메모리 예상: 26.66666MB), 인코딩 속도: Fast
+[2022.10.08-10.43.21:335][259]LogTexture: Display: 텍스처 빌드 중: /Game/Realistic_Starter_VFX_Pack_Vol2/Maps/Overview_Map_Day_BuiltData.Overview_Map_Day_BuiltData:HQ_Lightmap0_8(TFO_AutoDXT, 1024X1024 X1X1)(필요 메모리 예상: 26.66666MB), 인코딩 속도: Fast
+[2022.10.08-10.43.21:335][259]LogTexture: Display: 텍스처 빌드 중: /Game/Realistic_Starter_VFX_Pack_Vol2/Maps/Overview_Map_Day_BuiltData.Overview_Map_Day_BuiltData:HQ_Lightmap0_9(TFO_AutoDXT, 1024X1024 X1X1)(필요 메모리 예상: 26.66666MB), 인코딩 속도: Fast
+[2022.10.08-10.43.21:335][259]LogTexture: Display: 텍스처 빌드 중: /Game/Realistic_Starter_VFX_Pack_Vol2/Maps/Overview_Map_Day_BuiltData.Overview_Map_Day_BuiltData:LQ_Lightmap_0_1(TFO_DXT1, 1024X1024 X1X1)(필요 메모리 예상: 26.66666MB), 인코딩 속도: Fast
+[2022.10.08-10.43.21:335][259]LogMaterial: Display: Missing cached shadermap for DefaultTextMaterialTranslucentUnlit in PCD3D_SM5, Default, SM5 (DDC key hash: F0311200760B4A20A826FF029869E36A10F20D2D), compiling. 
+[2022.10.08-10.43.21:475][259]LogTexture: Display: 텍스처 빌드 중: /Game/Realistic_Starter_VFX_Pack_Vol2/Maps/Overview_Map_Day_BuiltData.Overview_Map_Day_BuiltData:LQ_Lightmap_0_10(TFO_DXT1, 128X128 X1X1)(필요 메모리 예상: 0.41666MB), 인코딩 속도: Fast
+[2022.10.08-10.43.21:475][259]LogTexture: Display: 텍스처 빌드 중: /Game/Realistic_Starter_VFX_Pack_Vol2/Maps/Overview_Map_Day_BuiltData.Overview_Map_Day_BuiltData:LQ_Lightmap_0_11(TFO_DXT1, 64X64 X1X1)(필요 메모리 예상: 0.10416MB), 인코딩 속도: Fast
+[2022.10.08-10.43.21:475][259]LogTexture: Display: 텍스처 빌드 중: /Game/Realistic_Starter_VFX_Pack_Vol2/Maps/Overview_Map_Day_BuiltData.Overview_Map_Day_BuiltData:LQ_Lightmap_0_2(TFO_DXT1, 1024X1024 X1X1)(필요 메모리 예상: 26.66666MB), 인코딩 속도: Fast
+[2022.10.08-10.43.21:475][259]LogTexture: Display: 텍스처 빌드 중: /Game/Realistic_Starter_VFX_Pack_Vol2/Maps/Overview_Map_Day_BuiltData.Overview_Map_Day_BuiltData:LQ_Lightmap_0_3(TFO_DXT1, 1024X1024 X1X1)(필요 메모리 예상: 26.66666MB), 인코딩 속도: Fast
+[2022.10.08-10.43.21:475][259]LogTexture: Display: 텍스처 빌드 중: /Game/Realistic_Starter_VFX_Pack_Vol2/Maps/Overview_Map_Day_BuiltData.Overview_Map_Day_BuiltData:LQ_Lightmap_0_4(TFO_DXT1, 1024X1024 X1X1)(필요 메모리 예상: 26.66666MB), 인코딩 속도: Fast
+[2022.10.08-10.43.21:475][259]LogTexture: Display: 텍스처 빌드 중: /Game/Realistic_Starter_VFX_Pack_Vol2/Maps/Overview_Map_Day_BuiltData.Overview_Map_Day_BuiltData:LQ_Lightmap_0_6(TFO_DXT1, 1024X1024 X1X1)(필요 메모리 예상: 26.66666MB), 인코딩 속도: Fast
+[2022.10.08-10.43.21:475][259]LogMaterial: Display: Missing cached shadermap for M_DemoWall in PCD3D_SM5, Default, SM5 (DDC key hash: 74FA84FC9BB8DC1A9553C7A58D4C61122F9552A2), compiling. 
+[2022.10.08-10.43.21:820][259]LogTexture: Display: 텍스처 빌드 중: /Game/Realistic_Starter_VFX_Pack_Vol2/Maps/Overview_Map_Day_BuiltData.Overview_Map_Day_BuiltData:LQ_Lightmap_0_5(TFO_DXT1, 1024X1024 X1X1)(필요 메모리 예상: 26.66666MB), 인코딩 속도: Fast
+[2022.10.08-10.43.21:821][259]LogTexture: Display: 텍스처 빌드 중: /Game/Realistic_Starter_VFX_Pack_Vol2/Maps/Overview_Map_Day_BuiltData.Overview_Map_Day_BuiltData:LQ_Lightmap_0_7(TFO_DXT1, 1024X1024 X1X1)(필요 메모리 예상: 26.66666MB), 인코딩 속도: Fast
+[2022.10.08-10.43.21:821][259]LogTexture: Display: 텍스처 빌드 중: /Game/Realistic_Starter_VFX_Pack_Vol2/Maps/Overview_Map_Day_BuiltData.Overview_Map_Day_BuiltData:LQ_Lightmap_0_9(TFO_DXT1, 1024X1024 X1X1)(필요 메모리 예상: 26.66666MB), 인코딩 속도: Fast
+[2022.10.08-10.43.21:821][259]LogTexture: Display: 텍스처 빌드 중: /Game/Realistic_Starter_VFX_Pack_Vol2/Maps/Overview_Map_Day_BuiltData.Overview_Map_Day_BuiltData:LQ_Lightmap_0_8(TFO_DXT1, 1024X1024 X1X1)(필요 메모리 예상: 26.66666MB), 인코딩 속도: Fast
+[2022.10.08-10.43.21:821][259]LogTexture: Display: 텍스처 빌드 중: /Game/Realistic_Starter_VFX_Pack_Vol2/Maps/Overview_Map_Day_BuiltData.Overview_Map_Day_BuiltData:SkyOcclusion0_1(TFO_AutoDXT, 1024X512 X1X1)(필요 메모리 예상: 13.33334MB), 인코딩 속도: Fast
+[2022.10.08-10.43.21:821][259]LogTexture: Display: 텍스처 빌드 중: /Game/Realistic_Starter_VFX_Pack_Vol2/Maps/Overview_Map_Day_BuiltData.Overview_Map_Day_BuiltData:SkyOcclusion0_10(TFO_AutoDXT, 128X64 X1X1)(필요 메모리 예상: 0.20834MB), 인코딩 속도: Fast
+[2022.10.08-10.43.21:821][259]LogTexture: Display: 텍스처 빌드 중: /Game/Realistic_Starter_VFX_Pack_Vol2/Maps/Overview_Map_Day_BuiltData.Overview_Map_Day_BuiltData:SkyOcclusion0_11(TFO_AutoDXT, 64X32 X1X1)(필요 메모리 예상: 0.05209MB), 인코딩 속도: Fast
+[2022.10.08-10.43.21:821][259]LogTexture: Display: 텍스처 빌드 중: /Game/Realistic_Starter_VFX_Pack_Vol2/Maps/Overview_Map_Day_BuiltData.Overview_Map_Day_BuiltData:SkyOcclusion0_2(TFO_AutoDXT, 1024X512 X1X1)(필요 메모리 예상: 13.33334MB), 인코딩 속도: Fast
+[2022.10.08-10.43.21:821][259]LogTexture: Display: 텍스처 빌드 중: /Game/Realistic_Starter_VFX_Pack_Vol2/Maps/Overview_Map_Day_BuiltData.Overview_Map_Day_BuiltData:SkyOcclusion0_3(TFO_AutoDXT, 1024X512 X1X1)(필요 메모리 예상: 13.33334MB), 인코딩 속도: Fast
+[2022.10.08-10.43.21:821][259]LogTexture: Display: 텍스처 빌드 중: /Game/Realistic_Starter_VFX_Pack_Vol2/Maps/Overview_Map_Day_BuiltData.Overview_Map_Day_BuiltData:SkyOcclusion0_5(TFO_AutoDXT, 1024X512 X1X1)(필요 메모리 예상: 13.33334MB), 인코딩 속도: Fast
+[2022.10.08-10.43.21:821][259]LogTexture: Display: 텍스처 빌드 중: /Game/Realistic_Starter_VFX_Pack_Vol2/Maps/Overview_Map_Day_BuiltData.Overview_Map_Day_BuiltData:SkyOcclusion0_4(TFO_AutoDXT, 1024X512 X1X1)(필요 메모리 예상: 13.33334MB), 인코딩 속도: Fast
+[2022.10.08-10.43.21:821][259]LogTexture: Display: 텍스처 빌드 중: /Game/Realistic_Starter_VFX_Pack_Vol2/Maps/Overview_Map_Day_BuiltData.Overview_Map_Day_BuiltData:SkyOcclusion0_6(TFO_AutoDXT, 1024X512 X1X1)(필요 메모리 예상: 13.33334MB), 인코딩 속도: Fast
+[2022.10.08-10.43.21:821][259]LogTexture: Display: 텍스처 빌드 중: /Game/Realistic_Starter_VFX_Pack_Vol2/Maps/Overview_Map_Day_BuiltData.Overview_Map_Day_BuiltData:SkyOcclusion0_7(TFO_AutoDXT, 1024X512 X1X1)(필요 메모리 예상: 13.33334MB), 인코딩 속도: Fast
+[2022.10.08-10.43.21:821][259]LogMaterial: Display: Missing cached shadermap for M_Basic_Shape in PCD3D_SM5, Default, SM5 (DDC key hash: 368E1B4E515FC63DA169A42833C7C4A80463F982), compiling. 
+[2022.10.08-10.43.21:950][259]LogStaticMesh: Display: SM_Base 스태틱 메시 빌드 중...
+[2022.10.08-10.43.21:950][259]LogStaticMesh: Display: SM_Base2 스태틱 메시 빌드 중...
+[2022.10.08-10.43.21:950][259]LogStaticMesh: Display: SM_Base_FlatWall 스태틱 메시 빌드 중...
+[2022.10.08-10.43.21:950][259]LogStaticMesh: Display: SM_BaseRoom 스태틱 메시 빌드 중...
+[2022.10.08-10.43.21:950][259]LogStaticMesh: Display: SM_NamePlate 스태틱 메시 빌드 중...
+[2022.10.08-10.43.21:950][259]LogStaticMesh: Built static mesh [0.02s] /Game/Realistic_Starter_VFX_Pack_Vol2/DemoRoom/Meshes/SM_Base_FlatWall.SM_Base_FlatWall
+[2022.10.08-10.43.21:950][259]LogStaticMesh: Built static mesh [0.01s] /Game/Realistic_Starter_VFX_Pack_Vol2/DemoRoom/Meshes/SM_NamePlate.SM_NamePlate
+[2022.10.08-10.43.21:950][259]LogTexture: Display: 텍스처 빌드 중: /Game/Realistic_Starter_VFX_Pack_Vol2/Maps/Overview_Map_Day_BuiltData.Overview_Map_Day_BuiltData:SkyOcclusion0_9(TFO_AutoDXT, 1024X512 X1X1)(필요 메모리 예상: 13.33334MB), 인코딩 속도: Fast
+[2022.10.08-10.43.21:950][259]LogTexture: Display: 텍스처 빌드 중: /Game/Realistic_Starter_VFX_Pack_Vol2/Maps/Overview_Map_Day_BuiltData.Overview_Map_Day_BuiltData:SkyOcclusion0_8(TFO_AutoDXT, 1024X512 X1X1)(필요 메모리 예상: 13.33334MB), 인코딩 속도: Fast
+[2022.10.08-10.43.21:950][259]LogStaticMesh: Built static mesh [0.09s] /Game/Realistic_Starter_VFX_Pack_Vol2/DemoRoom/Meshes/SM_Base2.SM_Base2
+[2022.10.08-10.43.21:950][259]LogMaterial: Display: Missing cached shadermap for M_Blood_C in PCD3D_SM5, Default, SM5 (DDC key hash: 41C738B7313C0C9D24C10E29F9DCCAC45BC8969C), compiling. 
+[2022.10.08-10.43.22:127][259]LogTexture: Display: 텍스처 빌드 중: /Game/Realistic_Starter_VFX_Pack_Vol2/Maps/Overview_Map_Day_BuiltData.Overview_Map_Day_BuiltData:ShadowMapTexture2D_10(G8, 1024X1024 X1X1)(필요 메모리 예상: 6.666665MB), 인코딩 속도: Fast
+[2022.10.08-10.43.22:127][259]LogTexture: Display: 텍스처 빌드 중: /Game/Realistic_Starter_VFX_Pack_Vol2/Maps/Overview_Map_Day_BuiltData.Overview_Map_Day_BuiltData:ShadowMapTexture2D_12(G8, 64X64 X1X1)(필요 메모리 예상: 0.02604MB), 인코딩 속도: Fast
+[2022.10.08-10.43.22:127][259]LogTexture: Display: 텍스처 빌드 중: /Game/Realistic_Starter_VFX_Pack_Vol2/Maps/Overview_Map_Day_BuiltData.Overview_Map_Day_BuiltData:ShadowMapTexture2D_13(G8, 32X32 X1X1)(필요 메모리 예상: 0.006509MB), 인코딩 속도: Fast
+[2022.10.08-10.43.22:127][259]LogTexture: Display: 텍스처 빌드 중: /Game/Realistic_Starter_VFX_Pack_Vol2/Maps/Overview_Map_Day_BuiltData.Overview_Map_Day_BuiltData:ShadowMapTexture2D_7(G8, 1024X1024 X1X1)(필요 메모리 예상: 6.666665MB), 인코딩 속도: Fast
+[2022.10.08-10.43.22:127][259]LogTexture: Display: 텍스처 빌드 중: /Game/Realistic_Starter_VFX_Pack_Vol2/Maps/Overview_Map_Day_BuiltData.Overview_Map_Day_BuiltData:ShadowMapTexture2D_11(G8, 1024X512 X1X1)(필요 메모리 예상: 3.333335MB), 인코딩 속도: Fast
+[2022.10.08-10.43.22:127][259]LogTexture: Display: 텍스처 빌드 중: /Game/Realistic_Starter_VFX_Pack_Vol2/Maps/Overview_Map_Day_BuiltData.Overview_Map_Day_BuiltData:ShadowMapTexture2D_8(G8, 1024X1024 X1X1)(필요 메모리 예상: 6.666665MB), 인코딩 속도: Fast
+[2022.10.08-10.43.22:127][259]LogTexture: Display: 텍스처 빌드 중: /Game/Realistic_Starter_VFX_Pack_Vol2/Maps/Overview_Map_Day_BuiltData.Overview_Map_Day_BuiltData:ShadowMapTexture2D_9(G8, 1024X1024 X1X1)(필요 메모리 예상: 6.666665MB), 인코딩 속도: Fast
+[2022.10.08-10.43.22:127][259]LogTexture: Display: 텍스처 빌드 중: /Game/Realistic_Starter_VFX_Pack_Vol2/Maps/Overview_Map_Day_BuiltData.Overview_Map_Day_BuiltData:NewReflectionComponentTexture965B28AE4C9038664D8846B97A8A5DE8(BGRA8, 128X128 X1X1)(필요 메모리 예상: 2.499962MB), 인코딩 속도: Fast
+[2022.10.08-10.43.22:127][259]LogTexture: Display: 텍스처 빌드 중: /Game/Realistic_Starter_VFX_Pack_Vol2/Textures/T_Splash_A.T_Splash_A(TFO_AutoDXT, 512X512 X1X1)(필요 메모리 예상: 5.000MB), 인코딩 속도: Fast
+[2022.10.08-10.43.22:127][259]LogTexture: Display: 텍스처 빌드 중: /Game/Realistic_Starter_VFX_Pack_Vol2/Textures/T_Dirt_C.T_Dirt_C(TFO_AutoDXT, 256X256 X1X1)(필요 메모리 예상: 1.250MB), 인코딩 속도: Fast
+[2022.10.08-10.43.22:127][259]LogStaticMesh: Built static mesh [0.21s] /Game/Realistic_Starter_VFX_Pack_Vol2/DemoRoom/Meshes/SM_Base.SM_Base
+[2022.10.08-10.43.22:127][259]LogTexture: Display: 텍스처 빌드 중: /Game/Realistic_Starter_VFX_Pack_Vol2/Textures/T_Smoke_B.T_Smoke_B(TFO_AutoDXT, 128X128 X1X1)(필요 메모리 예상: 0.3125MB), 인코딩 속도: Fast
+[2022.10.08-10.43.22:127][259]LogTexture: Display: 텍스처 빌드 중: /Game/Realistic_Starter_VFX_Pack_Vol2/Textures/T_Rocks.T_Rocks(TFO_AutoDXT, 128X128 X1X1)(필요 메모리 예상: 0.3125MB), 인코딩 속도: Fast
+[2022.10.08-10.43.22:127][259]LogTexture: Display: 텍스처 빌드 중: /Game/Realistic_Starter_VFX_Pack_Vol2/Textures/T_Rocks_NM.T_Rocks_NM(TFO_BC5, 256X256 X1X1)(필요 메모리 예상: 1.250MB), 인코딩 속도: Fast
+[2022.10.08-10.43.22:127][259]LogTexture: Display: 텍스처 빌드 중: /Game/Realistic_Starter_VFX_Pack_Vol2/Textures/T_Paper.T_Paper(TFO_AutoDXT, 128X128 X1X1)(필요 메모리 예상: 0.3125MB), 인코딩 속도: Fast
+[2022.10.08-10.43.22:127][259]LogTexture: Display: 텍스처 빌드 중: /Game/Realistic_Starter_VFX_Pack_Vol2/Textures/T_Dirt_B.T_Dirt_B(TFO_AutoDXT, 128X128 X1X1)(필요 메모리 예상: 0.3125MB), 인코딩 속도: Fast
+[2022.10.08-10.43.22:127][259]LogTexture: Display: 텍스처 빌드 중: /Game/Realistic_Starter_VFX_Pack_Vol2/Textures/T_Spark_B.T_Spark_B(TFO_AutoDXT, 64X64 X1X1)(필요 메모리 예상: 0.078125MB), 인코딩 속도: Fast
+[2022.10.08-10.43.22:127][259]LogTexture: Display: 텍스처 빌드 중: /Game/Realistic_Starter_VFX_Pack_Vol2/Textures/T_Flare_A.T_Flare_A(TFO_AutoDXT, 128X128 X1X1)(필요 메모리 예상: 0.3125MB), 인코딩 속도: Fast
+[2022.10.08-10.43.22:128][259]LogTexture: Display: 텍스처 빌드 중: /Game/Realistic_Starter_VFX_Pack_Vol2/Textures/T_Lightning_A.T_Lightning_A(TFO_AutoDXT, 256X256 X1X1)(필요 메모리 예상: 1.250MB), 인코딩 속도: Fast
+[2022.10.08-10.43.22:128][259]LogTexture: Display: 텍스처 빌드 중: /Game/Realistic_Starter_VFX_Pack_Vol2/Textures/T_Glass.T_Glass(TFO_AutoDXT, 128X128 X1X1)(필요 메모리 예상: 0.3125MB), 인코딩 속도: Fast
+[2022.10.08-10.43.22:128][259]LogMaterial: Display: Missing cached shadermap for M_Dirt_A in PCD3D_SM5, Default, SM5 (DDC key hash: A769037AA95177AD55679C4EE2D1963DA7484B84), compiling. 
+[2022.10.08-10.43.22:324][259]LogTexture: Display: 텍스처 빌드 중: /Game/Realistic_Starter_VFX_Pack_Vol2/Textures/T_Wood.T_Wood(TFO_AutoDXT, 128X128 X1X1)(필요 메모리 예상: 0.3125MB), 인코딩 속도: Fast
+[2022.10.08-10.43.22:325][259]LogTexture: Display: 텍스처 빌드 중: /Game/Realistic_Starter_VFX_Pack_Vol2/Textures/T_Smoke_Wisp.T_Smoke_Wisp(TFO_AutoDXT, 1024X1024 X1X1)(필요 메모리 예상: 20.000MB), 인코딩 속도: Fast
+[2022.10.08-10.43.22:325][259]LogTexture: Display: 텍스처 빌드 중: /Game/Realistic_Starter_VFX_Pack_Vol2/Textures/T_Butterfly.T_Butterfly(TFO_AutoDXT, 128X128 X1X1)(필요 메모리 예상: 0.3125MB), 인코딩 속도: Fast
+[2022.10.08-10.43.22:325][259]LogTexture: Display: 텍스처 빌드 중: /Game/Realistic_Starter_VFX_Pack_Vol2/Textures/T_Dandelion.T_Dandelion(TFO_AutoDXT, 128X128 X1X1)(필요 메모리 예상: 0.3125MB), 인코딩 속도: Fast
+[2022.10.08-10.43.22:325][259]LogTexture: Display: 텍스처 빌드 중: /Game/Realistic_Starter_VFX_Pack_Vol2/Textures/T_Fireflies_Emms.T_Fireflies_Emms(TFO_AutoDXT, 128X128 X1X1)(필요 메모리 예상: 0.3125MB), 인코딩 속도: Fast
+[2022.10.08-10.43.22:325][259]LogTexture: Display: 텍스처 빌드 중: /Game/Realistic_Starter_VFX_Pack_Vol2/Textures/T_Smoke_Puff_color.T_Smoke_Puff_color(RGBA16F, 1024X1024 X1X1)(필요 메모리 예상: 40.000MB), 인코딩 속도: Fast
+[2022.10.08-10.43.22:325][259]LogTexture: Display: 텍스처 빌드 중: /Game/Realistic_Starter_VFX_Pack_Vol2/Textures/T_Flies.T_Flies(TFO_AutoDXT, 128X128 X1X1)(필요 메모리 예상: 0.3125MB), 인코딩 속도: Fast
+[2022.10.08-10.43.22:325][259]LogTexture: Display: 텍스처 빌드 중: /Game/Realistic_Starter_VFX_Pack_Vol2/Textures/T_Bubble.T_Bubble(TFO_AutoDXT, 128X128 X1X1)(필요 메모리 예상: 0.3125MB), 인코딩 속도: Fast
+[2022.10.08-10.43.22:325][259]LogTexture: Display: 텍스처 빌드 중: /Game/Realistic_Starter_VFX_Pack_Vol2/Textures/T_Fish.T_Fish(TFO_AutoDXT, 128X128 X1X1)(필요 메모리 예상: 0.3125MB), 인코딩 속도: Fast
+[2022.10.08-10.43.22:325][259]LogTexture: Display: 텍스처 빌드 중: /Game/Realistic_Starter_VFX_Pack_Vol2/Textures/T_Fish_NM.T_Fish_NM(TFO_BC5, 128X128 X1X1)(필요 메모리 예상: 0.3125MB), 인코딩 속도: Fast
+[2022.10.08-10.43.22:325][259]LogStaticMesh: Built static mesh [0.33s] /Game/Realistic_Starter_VFX_Pack_Vol2/DemoRoom/Meshes/SM_BaseRoom.SM_BaseRoom
+[2022.10.08-10.43.22:325][259]LogTexture: Display: 텍스처 빌드 중: /Game/Realistic_Starter_VFX_Pack_Vol2/Textures/T_Leaves.T_Leaves(TFO_AutoDXT, 512X512 X1X1)(필요 메모리 예상: 5.000MB), 인코딩 속도: Fast
+[2022.10.08-10.43.22:325][259]LogTexture: Display: 텍스처 빌드 중: /Game/Realistic_Starter_VFX_Pack_Vol2/Textures/T_NoiseNormal_A.T_NoiseNormal_A(TFO_BC5, 1024X1024 X1X1)(필요 메모리 예상: 20.000MB), 인코딩 속도: Fast
+[2022.10.08-10.43.22:325][259]LogTexture: Display: 텍스처 빌드 중: /Game/Realistic_Starter_VFX_Pack_Vol2/Textures/T_NoiseNormal_B.T_NoiseNormal_B(TFO_BC5, 512X512 X1X1)(필요 메모리 예상: 10.000MB), 인코딩 속도: Fast
+[2022.10.08-10.43.22:325][259]LogTexture: Display: 텍스처 빌드 중: /Game/Realistic_Starter_VFX_Pack_Vol2/Textures/T_Impact.T_Impact(TFO_AutoDXT, 128X128 X1X1)(필요 메모리 예상: 0.3125MB), 인코딩 속도: Fast
+[2022.10.08-10.43.22:325][259]LogMaterial: Display: Missing cached shadermap for M_Smoke_A in PCD3D_SM5, Default, SM5 (DDC key hash: F99A80DA30EA25C3982BF75C8F5878527D5A96BF), compiling. 
+[2022.10.08-10.43.22:609][259]LogTexture: Display: 텍스처 빌드 중: /Game/Realistic_Starter_VFX_Pack_Vol2/Textures/T_Smoke_Ground.T_Smoke_Ground(TFO_AutoDXT, 2048X2048 X1X1)(필요 메모리 예상: 80.000MB), 인코딩 속도: Fast
+[2022.10.08-10.43.22:609][259]LogTexture: Display: 텍스처 빌드 중: /Game/Realistic_Starter_VFX_Pack_Vol2/Textures/T_Explosion_E.T_Explosion_E(TFO_AutoDXT, 1024X1024 X1X1)(필요 메모리 예상: 20.000MB), 인코딩 속도: Fast
+[2022.10.08-10.43.22:609][259]LogTexture: Display: 텍스처 빌드 중: /Game/Realistic_Starter_VFX_Pack_Vol2/Textures/T_Epxlosion_B_packed.T_Epxlosion_B_packed(RGBA16F, 2048X2048 X1X1)(필요 메모리 예상: 160.000MB), 인코딩 속도: Fast
+[2022.10.08-10.43.22:609][259]LogTexture: Display: 텍스처 빌드 중: /Game/Realistic_Starter_VFX_Pack_Vol2/Textures/T_Epxlosion_F.T_Epxlosion_F(TFO_AutoDXT, 2048X2048 X1X1)(필요 메모리 예상: 80.000MB), 인코딩 속도: Fast
+[2022.10.08-10.43.22:609][259]LogTexture: Display: 텍스처 빌드 중: /Game/Realistic_Starter_VFX_Pack_Vol2/Textures/T_Epxlosion_B_color.T_Epxlosion_B_color(TFO_AutoDXT, 2048X2048 X1X1)(필요 메모리 예상: 160.000MB), 인코딩 속도: Fast
+[2022.10.08-10.43.22:609][259]LogMaterial: Display: Missing cached shadermap for M_Snow in PCD3D_SM5, Default, SM5 (DDC key hash: D5D2D81386CEC3D053BA04AE3CF97D3AB9987B4D), compiling. 
+[2022.10.08-10.43.22:710][259]LogMaterial: Display: Missing cached shadermap for M_Glow_A in PCD3D_SM5, Default, SM5 (DDC key hash: 912F5D2296AF8FC3346E710E908A2B0B9451E68F), compiling. 
+[2022.10.08-10.43.22:804][259]LogMaterial: Display: Missing cached shadermap for M_Rock_B in PCD3D_SM5, Default, SM5 (DDC key hash: 2115921A6B3009D22A8BB6296C9E6FF7C4EA689C), compiling. 
+[2022.10.08-10.43.23:097][259]LogTexture: Display: 텍스처 빌드 중: /Game/Realistic_Starter_VFX_Pack_Vol2/Textures/T_Epxlosion_G.T_Epxlosion_G(TFO_AutoDXT, 2048X2048 X1X1)(필요 메모리 예상: 80.000MB), 인코딩 속도: Fast
+[2022.10.08-10.43.23:097][259]LogTexture: Display: 텍스처 빌드 중: /Game/Realistic_Starter_VFX_Pack_Vol2/Textures/T_Impact_Flare.T_Impact_Flare(TFO_AutoDXT, 128X128 X1X1)(필요 메모리 예상: 0.3125MB), 인코딩 속도: Fast
+[2022.10.08-10.43.23:097][259]LogMaterial: Display: Missing cached shadermap for M_Smoke_Wisp in PCD3D_SM5, Default, SM5 (DDC key hash: 69C5CF7FB7E7DF91AA1D73620779C08573AF830A), compiling. 
+[2022.10.08-10.43.23:289][259]LogTexture: Display: 텍스처 빌드 중: /Game/Realistic_Starter_VFX_Pack_Vol2/Textures/T_Fire_B.T_Fire_B(TFO_AutoDXT, 128X128 X1X1)(필요 메모리 예상: 0.3125MB), 인코딩 속도: Fast
+[2022.10.08-10.43.23:289][259]LogTexture: Display: 텍스처 빌드 중: /Game/Realistic_Starter_VFX_Pack_Vol2/Textures/T_Fire_A.T_Fire_A(TFO_AutoDXT, 128X128 X1X1)(필요 메모리 예상: 0.3125MB), 인코딩 속도: Fast
+[2022.10.08-10.43.23:289][259]LogTexture: Display: 텍스처 빌드 중: /Game/Realistic_Starter_VFX_Pack_Vol2/Textures/T_Flare_D.T_Flare_D(TFO_AutoDXT, 128X128 X1X1)(필요 메모리 예상: 0.3125MB), 인코딩 속도: Fast
+[2022.10.08-10.43.23:289][259]LogMaterial: Display: Missing cached shadermap for M_Paper in PCD3D_SM5, Default, SM5 (DDC key hash: 453F2617205B27843B4EACB56AD57F3FF1D379C5), compiling. 
+[2022.10.08-10.43.23:507][259]LogTexture: Display: 텍스처 빌드 중: /Game/Realistic_Starter_VFX_Pack_Vol2/Textures/T_Fire_F.T_Fire_F(TFO_AutoDXT, 512X512 X1X1)(필요 메모리 예상: 5.000MB), 인코딩 속도: Fast
+[2022.10.08-10.43.23:507][259]LogTexture: Display: 텍스처 빌드 중: /Game/Realistic_Starter_VFX_Pack_Vol2/Textures/T_Fire_D.T_Fire_D(TFO_AutoDXT, 512X512 X1X1)(필요 메모리 예상: 5.000MB), 인코딩 속도: Fast
+[2022.10.08-10.43.23:507][259]LogTexture: Display: 텍스처 빌드 중: /Game/Realistic_Starter_VFX_Pack_Vol2/Textures/T_Explosion_Air.T_Explosion_Air(TFO_AutoDXT, 2048X2048 X1X1)(필요 메모리 예상: 80.000MB), 인코딩 속도: Fast
+[2022.10.08-10.43.23:507][259]LogTexture: Display: 텍스처 빌드 중: /Game/Realistic_Starter_VFX_Pack_Vol2/Textures/T_Dirt_A.T_Dirt_A(TFO_AutoDXT, 1024X1024 X1X1)(필요 메모리 예상: 20.000MB), 인코딩 속도: Fast
+[2022.10.08-10.43.23:507][259]LogTexture: Display: 텍스처 빌드 중: /Game/Realistic_Starter_VFX_Pack_Vol2/Textures/T_Spark_A.T_Spark_A(TFO_AutoDXT, 64X64 X1X1)(필요 메모리 예상: 0.078125MB), 인코딩 속도: Fast
+[2022.10.08-10.43.23:507][259]LogMaterial: Display: Missing cached shadermap for M_Impact_A in PCD3D_SM5, Default, SM5 (DDC key hash: AAED3AC6577B072D4B57A55A2E5A81E1721566C6), compiling. 
+[2022.10.08-10.43.23:624][259]LogTexture: Display: 텍스처 빌드 중: /Game/Realistic_Starter_VFX_Pack_Vol2/Textures/T_Bubblepop.T_Bubblepop(TFO_AutoDXT, 128X128 X1X1)(필요 메모리 예상: 0.3125MB), 인코딩 속도: Fast
+[2022.10.08-10.43.23:624][259]LogMaterial: Display: Missing cached shadermap for M_Derbis in PCD3D_SM5, Default, SM5 (DDC key hash: 1F430EA5E7E11EC2951D7AB7CAAAF87272B31C7B), compiling. 
+[2022.10.08-10.43.23:745][259]LogTexture: Display: 텍스처 빌드 중: /Game/Realistic_Starter_VFX_Pack_Vol2/Textures/T_Water_A.T_Water_A(TFO_AutoDXT, 256X256 X1X1)(필요 메모리 예상: 1.250MB), 인코딩 속도: Fast
+[2022.10.08-10.43.23:745][259]LogTexture: Display: 텍스처 빌드 중: /Game/Realistic_Starter_VFX_Pack_Vol2/Textures/T_Splat.T_Splat(TFO_AutoDXT, 128X128 X1X1)(필요 메모리 예상: 0.3125MB), 인코딩 속도: Fast
+[2022.10.08-10.43.23:745][259]LogTexture: Display: 텍스처 빌드 중: /Game/Realistic_Starter_VFX_Pack_Vol2/Textures/T_Steam_A.T_Steam_A(TFO_AutoDXT, 2048X2048 X1X1)(필요 메모리 예상: 80.000MB), 인코딩 속도: Fast
+[2022.10.08-10.43.23:745][259]LogMaterial: Display: Missing cached shadermap for M_Smoke_Puff_A in PCD3D_SM5, Default, SM5 (DDC key hash: E270B5341FAE3EDC8089EF6EBD8950E7887C8588), compiling. 
+[2022.10.08-10.43.24:015][259]LogTexture: Display: 텍스처 빌드 중: /Game/Realistic_Starter_VFX_Pack_Vol2/Textures/T_Smoke_G.T_Smoke_G(TFO_AutoDXT, 2048X2048 X1X1)(필요 메모리 예상: 80.000MB), 인코딩 속도: Fast
+[2022.10.08-10.43.24:015][259]LogTexture: Display: 텍스처 빌드 중: /Game/Realistic_Starter_VFX_Pack_Vol2/Textures/T_Droplets_A.T_Droplets_A(TFO_AutoDXT, 2048X2048 X1X1)(필요 메모리 예상: 80.000MB), 인코딩 속도: Fast
+[2022.10.08-10.43.24:015][259]LogTexture: Display: 텍스처 빌드 중: /Game/Realistic_Starter_VFX_Pack_Vol2/Textures/T_Smoke_A.T_Smoke_A(TFO_AutoDXT, 4096X4096 X1X1)(필요 메모리 예상: 320.000MB), 인코딩 속도: Fast
+[2022.10.08-10.43.24:015][259]LogStaticMesh: Display: 스태틱 메시가 준비 되기를 기다리는 중 0/1 (/Game/Realistic_Starter_VFX_Pack_Vol2/Mesh/SM_Derbis_B)...
+[2022.10.08-10.43.24:093][259]LogStaticMesh: Display: SM_Derbis_B 스태틱 메시 빌드 중...
+[2022.10.08-10.43.24:093][259]LogStaticMesh: Built static mesh [0.04s] /Game/Realistic_Starter_VFX_Pack_Vol2/Mesh/SM_Derbis_B.SM_Derbis_B
+[2022.10.08-10.43.24:093][259]LogMaterial: Display: Missing cached shadermap for M_Lightning_small in PCD3D_SM5, Default, SM5 (DDC key hash: E9AC2373F8ED2BB23B53385F36C427D14C4996AE), compiling. 
+[2022.10.08-10.43.24:205][259]LogMaterial: Display: Missing cached shadermap for M_Glow_C in PCD3D_SM5, Default, SM5 (DDC key hash: E05448822CB4C2DA9C902755F87B987171870901), compiling. 
+[2022.10.08-10.43.24:361][259]LogTexture: Display: 텍스처 빌드 중: /Game/Realistic_Starter_VFX_Pack_Vol2/Textures/T_Droplets_A_N.T_Droplets_A_N(TFO_BC5, 2048X2048 X1X1)(필요 메모리 예상: 80.000MB), 인코딩 속도: Fast
+[2022.10.08-10.43.24:362][259]LogMaterial: Display: Missing cached shadermap for M_Glass in PCD3D_SM5, Default, SM5 (DDC key hash: 4A85E099F6DDB5E18D8FBD59F77B0AF9A0D4FF9D), compiling. 
+[2022.10.08-10.43.24:626][259]LogMaterial: Display: Missing cached shadermap for M_Wood in PCD3D_SM5, Default, SM5 (DDC key hash: B34D9F88503E4141A7F5A4A512B58C406BEC1348), compiling. 
+[2022.10.08-10.43.25:042][259]LogMaterial: Display: Missing cached shadermap for M_Butterfly in PCD3D_SM5, Default, SM5 (DDC key hash: CC8E9DD8DB53680F37718FE0F41CCC242205306B), compiling. 
+[2022.10.08-10.43.25:161][259]LogMaterial: Display: Missing cached shadermap for M_Dandelion in PCD3D_SM5, Default, SM5 (DDC key hash: 4A74E505A8FB9D52DE91CFD206724628C060DB10), compiling. 
+[2022.10.08-10.43.25:274][259]LogMaterial: Display: Missing cached shadermap for M_Flies in PCD3D_SM5, Default, SM5 (DDC key hash: 525CD20B05E6374C11B0DAAA0447F4AD0BBE53FC), compiling. 
+[2022.10.08-10.43.25:490][259]LogMaterial: Display: Missing cached shadermap for M_Bubble in PCD3D_SM5, Default, SM5 (DDC key hash: 49A8176DB6EE41591643DF241081488D7F7ADA6F), compiling. 
+[2022.10.08-10.43.25:605][259]LogMaterial: Display: Missing cached shadermap for M_Fish_A in PCD3D_SM5, Default, SM5 (DDC key hash: 822B19EBE5C3E163E5DDF52E137B4DD56710C6D4), compiling. 
+[2022.10.08-10.43.26:173][259]LogTexture: Display: 텍스처 빌드 중: /Game/Realistic_Starter_VFX_Pack_Vol2/Textures/T_Water_D.T_Water_D(TFO_AutoDXT, 256X256 X1X1)(필요 메모리 예상: 1.250MB), 인코딩 속도: Fast
+[2022.10.08-10.43.26:173][259]LogTexture: Display: 텍스처 빌드 중: /Game/Realistic_Starter_VFX_Pack_Vol2/Textures/T_Water_C.T_Water_C(TFO_AutoDXT, 256X256 X1X1)(필요 메모리 예상: 1.250MB), 인코딩 속도: Fast
+[2022.10.08-10.43.26:173][259]LogMaterial: Display: Missing cached shadermap for M_Leaves_A in PCD3D_SM5, Default, SM5 (DDC key hash: C14FA9773CF76FCE5D8426AF482E1B5839EF8A08), compiling. 
+[2022.10.08-10.43.26:573][259]LogMaterial: Display: Missing cached shadermap for M_Distortion in PCD3D_SM5, Default, SM5 (DDC key hash: 878BD0704DE62C904F50944B6518288FC9DB991E), compiling. 
+[2022.10.08-10.43.26:850][259]LogMaterial: Display: Missing cached shadermap for M_Explosion_B in PCD3D_SM5, Default, SM5 (DDC key hash: E63442C5294227518CCBE8DF55EB1588454D1A9E), compiling. 
+[2022.10.08-10.43.27:081][259]LogMaterial: Display: Missing cached shadermap for M_Impact_C in PCD3D_SM5, Default, SM5 (DDC key hash: 505CEE7BBD1B01BF7EEEF3BE2012C6F9FF611BC9), compiling. 
+[2022.10.08-10.43.27:191][259]LogMaterial: Display: Missing cached shadermap for M_Explosion_D in PCD3D_SM5, Default, SM5 (DDC key hash: 76EB3C96AC436CA2EAD97C39C171E78019E4BAFB), compiling. 
+[2022.10.08-10.43.27:545][259]LogMaterial: Display: Missing cached shadermap for M_Smoke_Ground in PCD3D_SM5, Default, SM5 (DDC key hash: FAEBDDFA9CAC492A6F482D68D4CCC544E37B7F28), compiling. 
+[2022.10.08-10.43.27:791][259]LogMaterial: Display: Missing cached shadermap for M_Explosion_E in PCD3D_SM5, Default, SM5 (DDC key hash: 1CBB0DCF25A4911E29B204A7E32158A5FB4158C5), compiling. 
+[2022.10.08-10.43.27:907][259]LogMaterial: Display: Missing cached shadermap for M_Explosion_G in PCD3D_SM5, Default, SM5 (DDC key hash: 660DF4FB477A3E52B87374A10E450FDCB3A901A6), compiling. 
+[2022.10.08-10.43.28:206][259]LogMaterial: Display: Missing cached shadermap for M_Impact_B in PCD3D_SM5, Default, SM5 (DDC key hash: C807D63E370E4C59CACFCB1E098D2F2E156890C2), compiling. 
+[2022.10.08-10.43.28:321][259]LogMaterial: Display: Missing cached shadermap for M_Explosion_I in PCD3D_SM5, Default, SM5 (DDC key hash: A67BD00086F8CF282F6F0A2FBA16A6B745F50FD4), compiling. 
+[2022.10.08-10.43.28:666][259]LogMaterial: Display: Missing cached shadermap for M_Glow_B in PCD3D_SM5, Default, SM5 (DDC key hash: 1DE22BC3088FDEA7D85139131A3AD449C52EC2E9), compiling. 
+[2022.10.08-10.43.28:781][259]LogMaterial: Display: Missing cached shadermap for M_Smoke_C in PCD3D_SM5, Default, SM5 (DDC key hash: 12B8E96AFE736F1000C52C65DA3D25A68D760BF4), compiling. 
+[2022.10.08-10.43.29:021][259]LogMaterial: Display: Missing cached shadermap for M_Fire_C in PCD3D_SM5, Default, SM5 (DDC key hash: 0E6864F8DA0BF3645C0FA82915E040230BBD563D), compiling. 
+[2022.10.08-10.43.29:130][259]LogMaterial: Display: Missing cached shadermap for M_Fire_Splat in PCD3D_SM5, Default, SM5 (DDC key hash: 8FA2C49E7A5EEFEA792C66D9D7A87E157D3F6FB2), compiling. 
+[2022.10.08-10.43.29:231][259]LogMaterial: Display: Missing cached shadermap for M_Glow_D in PCD3D_SM5, Default, SM5 (DDC key hash: 4ADD4FF16974DB7BF8E447A8EAC44740391F872D), compiling. 
+[2022.10.08-10.43.29:330][259]LogMaterial: Display: Missing cached shadermap for M_Heat_Distortion in PCD3D_SM5, Default, SM5 (DDC key hash: 80ED22E8B49DBCD73375A9C01C4098341B37867A), compiling. 
+[2022.10.08-10.43.29:471][259]LogMaterial: Display: Missing cached shadermap for M_Spark_A in PCD3D_SM5, Default, SM5 (DDC key hash: 586B3343C207BCBC8FB5B266FF6E623FB1A5DBB8), compiling. 
+[2022.10.08-10.43.29:579][259]LogMaterial: Display: Missing cached shadermap for M_Fire_B in PCD3D_SM5, Default, SM5 (DDC key hash: C05067C429260072C1955B6FE90FDC45A7B4A6EE), compiling. 
+[2022.10.08-10.43.29:725][259]LogMaterial: Display: Missing cached shadermap for M_Dirt_B in PCD3D_SM5, Default, SM5 (DDC key hash: 914F09376D8E5DD3BEF4B105725D3D03C9C52D29), compiling. 
+[2022.10.08-10.43.30:042][259]LogStaticMesh: Display: SM_Derbis_A 스태틱 메시 빌드 중...
+[2022.10.08-10.43.30:042][259]LogStaticMesh: Display: 스태틱 메시가 준비 되기를 기다리는 중 0/1 (/Game/Realistic_Starter_VFX_Pack_Vol2/Mesh/SM_Derbis_A)...
+[2022.10.08-10.43.30:056][259]LogStaticMesh: Built static mesh [0.03s] /Game/Realistic_Starter_VFX_Pack_Vol2/Mesh/SM_Derbis_A.SM_Derbis_A
+[2022.10.08-10.43.30:137][259]LogStaticMesh: Display: 스태틱 메시가 준비 되기를 기다리는 중 0/1 (/Game/Realistic_Starter_VFX_Pack_Vol2/Mesh/SM_Derbis_C)...
+[2022.10.08-10.43.30:198][259]LogStaticMesh: Display: SM_Derbis_C 스태틱 메시 빌드 중...
+[2022.10.08-10.43.30:199][259]LogStaticMesh: Built static mesh [0.02s] /Game/Realistic_Starter_VFX_Pack_Vol2/Mesh/SM_Derbis_C.SM_Derbis_C
+[2022.10.08-10.43.30:199][259]LogMaterial: Display: Missing cached shadermap for M_Spark_C in PCD3D_SM5, Default, SM5 (DDC key hash: BDE1BBC10D7BDB816318D6B4E6330D3C85679D15), compiling. 
+[2022.10.08-10.43.30:357][259]LogMaterial: Display: Missing cached shadermap for M_Smoke_Ground_B in PCD3D_SM5, Default, SM5 (DDC key hash: 93ECDEB997C6D435F6FD121B005B8829943A1164), compiling. 
+[2022.10.08-10.43.30:650][259]LogMaterial: Display: Missing cached shadermap for M_Smoke_Ground_C in PCD3D_SM5, Default, SM5 (DDC key hash: 21A202602B1A3E599CFF1A160E1C4ED106318646), compiling. 
+[2022.10.08-10.43.30:923][259]LogMaterial: Display: Missing cached shadermap for M_Bubble_Pop in PCD3D_SM5, Default, SM5 (DDC key hash: 4704A7CD8BF6DB695BA66E8B40A94D725F7080FA), compiling. 
+[2022.10.08-10.43.31:018][259]LogMaterial: Display: Missing cached shadermap for M_Slash in PCD3D_SM5, Default, SM5 (DDC key hash: 4A48BA3D46799BF7079927626BC77E6EFBCFE45B), compiling. 
+[2022.10.08-10.43.31:118][259]LogMaterial: Display: Missing cached shadermap for M_Splat_A in PCD3D_SM5, Default, SM5 (DDC key hash: 7EB0F5466231C941122EDF3EA2FA349932CAA4E9), compiling. 
+[2022.10.08-10.43.31:223][259]LogMaterial: Display: Missing cached shadermap for M_WaterDrop in PCD3D_SM5, Default, SM5 (DDC key hash: ABDADD9C43642A39AA4CE0621756020AF81F61AE), compiling. 
+[2022.10.08-10.43.31:543][259]LogMaterial: Display: Missing cached shadermap for M_WaterDrop_A in PCD3D_SM5, Default, SM5 (DDC key hash: B77D5F61ED5FB40B1839335EAC474808BD4FDF36), compiling. 
+[2022.10.08-10.43.31:860][259]LogMaterial: Display: Missing cached shadermap for M_Bubble_B in PCD3D_SM5, Default, SM5 (DDC key hash: 95D6D24FB3DDFCCFC6C82091FC585FD788EA0B23), compiling. 
+[2022.10.08-10.43.31:977][259]LogMaterial: Display: Missing cached shadermap for M_Water_Splat in PCD3D_SM5, Default, SM5 (DDC key hash: 119441621D3E28691D8C6B06F49EB159BB6F5D03), compiling. 
+[2022.10.08-10.43.32:110][259]LogMaterial: Display: Missing cached shadermap for M_WaterDrop_B in PCD3D_SM5, Default, SM5 (DDC key hash: AA7E6CA9C1CA575354726193324F81BFDC748722), compiling. 
+[2022.10.08-10.43.32:572][259]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Realistic_Starter_VFX_Pack_Vol2/Maps/Overview_Map_Day.Overview_Map_Day
+[2022.10.08-10.43.32:574][259]LightingResults: New page: 라이팅 빌드
+[2022.10.08-10.43.32:574][259]LoadErrors: New page: 맵 로드중: Overview_Map_Day.umap
+[2022.10.08-10.43.32:588][259]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2022.10.08-10.43.32:623][259]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.08-10.43.32:636][259]MapCheck: New page: 맵 체크
+[2022.10.08-10.43.32:636][259]LightingResults: New page: 라이팅 빌드
+[2022.10.08-10.43.32:652][259]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.10.08-10.43.32:669][259]LogUObjectHash: Compacting FUObjectHashTables data took   2.26ms
