@@ -1931,3 +1931,296 @@ Recommended: 516.25
 [2022.10.18-08.14.32:097][472]LogStall: Stall detector 'UAssetEditorSubsystem::OpenEditorForAsset' report submitted, and took 0.049990s
 [2022.10.18-08.14.32:097][472]LogStall: Stall detector 'UAssetEditorSubsystem::OpenEditorForAsset' complete in 0.001189s (0.065407s overbudget)
 [2022.10.18-08.14.32:186][472]LogViewport: Scene viewport resized to 818x825, mode Windowed.
+[2022.10.18-08.15.45:251][544]LogSubobjectSubsystem: Warning: Cannot remove subobject 'DefaultSceneRoot' because it is the default scene root!
+[2022.10.18-08.16.55:233][480]BlueprintLog: New page: Compile BP_Jet
+[2022.10.18-08.16.55:293][480]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2022.10.18-08.17.21:273][494]LogStaticMesh: StaticMesh /Game/StarterContent/Props/SM_GlassWindow.SM_GlassWindow should be resaved to improve async compilation performance.
+[2022.10.18-08.17.31:200][980]LogEditorTransaction: Undo Edit Static Mesh
+[2022.10.18-08.17.31:313][980]LogMaterial: Display: Missing cached shadermap for Preview:PreviewMaterial_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 20B0019BDAB7B143D539DD9F7672ADE4C2A8D7B2), compiling. 
+[2022.10.18-08.17.31:341][980]LogMaterial: Display: Missing cached shadermap for Preview:Glass in PCD3D_SM5, Default, SM5 (DDC key hash: 39456ECA164090671B9F87B68AE6FE2C5870648F), compiling. 
+[2022.10.18-08.17.31:383][980]MaterialEditorStats: Texture samplers: 0/16
+[2022.10.18-08.17.31:383][980]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(5)
+[2022.10.18-08.17.31:383][980]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.10.18-08.17.31:383][980]MaterialEditorStats: Shader Count: 0
+[2022.10.18-08.17.31:383][980]MaterialEditorStats: Texture samplers: 0/16
+[2022.10.18-08.17.31:383][980]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.10.18-08.17.31:383][980]MaterialEditorStats: Shader Count: 0
+[2022.10.18-08.17.31:497][982]LogShaderCompilers: Display: ================================================
+[2022.10.18-08.17.31:498][982]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.10.18-08.17.31:498][982]LogShaderCompilers: Display: Total job queries 703, among them cache hits 298 (42.39%)
+[2022.10.18-08.17.31:498][982]LogShaderCompilers: Display: Tracking 376 distinct input hashes that result in 264 distinct outputs (70.21%)
+[2022.10.18-08.17.31:498][982]LogShaderCompilers: Display: RAM used: 0.72 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.09%
+[2022.10.18-08.17.31:498][982]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2022.10.18-08.17.31:498][982]LogShaderCompilers: Display: Shaders Compiled: 304
+[2022.10.18-08.17.31:498][982]LogShaderCompilers: Display: Jobs assigned 376, completed 376 (100.00%)
+[2022.10.18-08.17.31:498][982]LogShaderCompilers: Display: Average time worker was idle: 150.54 s
+[2022.10.18-08.17.31:498][982]LogShaderCompilers: Display: Time job spent in pending queue: average 15.48 s, longest 84.53 s
+[2022.10.18-08.17.31:498][982]LogShaderCompilers: Display: Job execution time: average 19.20 s, max 43.93 s
+[2022.10.18-08.17.31:498][982]LogShaderCompilers: Display: Job life time (pending + execution): average 34.68 s, max 87.61
+[2022.10.18-08.17.31:498][982]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 251.22 s
+[2022.10.18-08.17.31:498][982]LogShaderCompilers: Display: Jobs were issued in 186 batches (only local compilation was used), average 2.02 jobs/batch
+[2022.10.18-08.17.31:498][982]LogShaderCompilers: Display: Average processing rate: 1.50 jobs/sec
+[2022.10.18-08.17.31:498][982]LogShaderCompilers: Display: Effective parallelization: 4.64 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2022.10.18-08.17.31:498][982]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2022.10.18-08.17.31:498][982]LogShaderCompilers: Display:     TBasePassPSFSelfShadowedVolumetricLightmapPolicySkylight (compiled    1 times, average 10.33 sec, max 10.33 sec, min 10.33 sec)
+[2022.10.18-08.17.31:499][982]LogShaderCompilers: Display:             TBasePassPSFSelfShadowedVolumetricLightmapPolicy (compiled    1 times, average 10.02 sec, max 10.02 sec, min 10.02 sec)
+[2022.10.18-08.17.31:499][982]LogShaderCompilers: Display:                   TBasePassPSFSelfShadowedTranslucencyPolicy (compiled    1 times, average 9.43 sec, max 9.43 sec, min 9.43 sec)
+[2022.10.18-08.17.31:499][982]LogShaderCompilers: Display: TBasePassPSFSelfShadowedCachedPointIndirectLightingPolicySkylight (compiled    1 times, average 7.36 sec, max 7.36 sec, min 7.36 sec)
+[2022.10.18-08.17.31:499][982]LogShaderCompilers: Display:           TBasePassPSFSelfShadowedTranslucencyPolicySkylight (compiled    1 times, average 6.79 sec, max 6.79 sec, min 6.79 sec)
+[2022.10.18-08.17.31:499][982]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2022.10.18-08.17.31:499][982]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 7.55% of total time (compiled   34 times, average 2.59 sec, max 15.49 sec, min 1.25 sec)
+[2022.10.18-08.17.31:499][982]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 7.26% of total time (compiled   28 times, average 3.02 sec, max 13.93 sec, min 1.05 sec)
+[2022.10.18-08.17.31:499][982]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 5.90% of total time (compiled   15 times, average 4.58 sec, max 8.14 sec, min 1.42 sec)
+[2022.10.18-08.17.31:499][982]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight - 4.18% of total time (compiled    9 times, average 5.40 sec, max 9.75 sec, min 2.33 sec)
+[2022.10.18-08.17.31:499][982]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight - 3.93% of total time (compiled    9 times, average 5.09 sec, max 9.98 sec, min 2.03 sec)
+[2022.10.18-08.17.31:499][982]LogShaderCompilers: Display: ================================================
+[2022.10.18-08.17.31:539][983]MaterialEditorStats: Texture samplers: 6/16
+[2022.10.18-08.17.31:539][983]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(5)
+[2022.10.18-08.17.31:539][983]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.10.18-08.17.31:539][983]MaterialEditorStats: Shader Count: 4
+[2022.10.18-08.18.11:605][ 48]LogSlate: Window 'Message' being destroyed
+[2022.10.18-08.18.11:613][ 48]Message dialog closed, result: Cancel, title: Message, text: Would you like to apply the changes of the modified material to the original material?
+/Game/Assets/F_15C.F_15C
+(Selecting 'No' will cause all changes to be lost!)
+[2022.10.18-08.18.12:514][ 95]LogMaterialEditor: Saving and Compiling material F_15C
+[2022.10.18-08.18.13:022][ 95]LogMaterial: Display: Missing cached shadermap for Preview:PreviewMaterial_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 37AE5599F16689DA737DF300ECA7A8094FA87899), compiling. 
+[2022.10.18-08.18.13:040][ 95]LogMaterial: Display: Missing cached shadermap for F_15C in PCD3D_SM5, Default, SM5 (DDC key hash: 5C33D726117338BEC229984EBE6A54A9F02EA094), compiling. 
+[2022.10.18-08.18.13:114][ 95]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2022.10.18-08.18.13:325][ 95]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2022.10.18-08.18.13:450][ 95]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/F_15C" FILE="../../../../../../BetaProduction/Content/Assets/F_15C.uasset" SILENT=true
+[2022.10.18-08.18.13:453][ 95]LogSavePackage: Moving output files for package: /Game/Assets/F_15C
+[2022.10.18-08.18.13:454][ 95]LogSavePackage: Moving '../../../../../../BetaProduction/Saved/F_15CB3EB98D04613532FC3369EA153ED9D6E.tmp' to '../../../../../../BetaProduction/Content/Assets/F_15C.uasset'
+[2022.10.18-08.18.13:472][ 95]AssetCheck: New page: Asset Save: F_15C
+[2022.10.18-08.18.13:472][ 95]LogContentValidation: Display: Validating Material /Game/Assets/F_15C.F_15C
+[2022.10.18-08.18.13:474][ 95]MaterialEditorStats: Base pass shader: 133 instructions
+[2022.10.18-08.18.13:474][ 95]MaterialEditorStats: Base pass vertex shader: 112 instructions
+[2022.10.18-08.18.13:474][ 95]MaterialEditorStats: Texture samplers: 8/16
+[2022.10.18-08.18.13:474][ 95]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(5)
+[2022.10.18-08.18.13:474][ 95]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.10.18-08.18.13:474][ 95]MaterialEditorStats: Shader Count: 16
+[2022.10.18-08.18.15:223][196]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2022.10.18-08.18.15:223][196]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.18-08.18.16:404][245]MaterialEditorStats: Texture samplers: 4/16
+[2022.10.18-08.18.16:404][245]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.10.18-08.18.16:404][245]MaterialEditorStats: Shader Count: 2
+[2022.10.18-08.18.49:743][ 48]BlueprintLog: New page: Compile BP_Jet
+[2022.10.18-08.18.49:797][ 48]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2022.10.18-08.19.59:024][314]LogEditorTransaction: Undo Attach Component
+[2022.10.18-08.19.59:146][314]LogMaterial: Display: Missing cached shadermap for Preview:Glass in PCD3D_SM5, Default, SM5 (DDC key hash: BB5D104012B02C4F74E10BFC10CBC97EB3439885), compiling. 
+[2022.10.18-08.19.59:187][314]MaterialEditorStats: Texture samplers: 0/16
+[2022.10.18-08.19.59:188][314]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.10.18-08.19.59:188][314]MaterialEditorStats: Shader Count: 0
+[2022.10.18-08.20.35:830][ 85]LogEditorTransaction: Undo Attach Component
+[2022.10.18-08.20.35:949][ 85]LogMaterial: Display: Missing cached shadermap for Preview:Glass in PCD3D_SM5, Default, SM5 (DDC key hash: 22A3606202BBFB24065E9A1AF25451520236DCDC), compiling. 
+[2022.10.18-08.24.02:494][559]BlueprintLog: New page: Compile BP_Jet
+[2022.10.18-08.24.02:556][559]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2022.10.18-08.26.49:568][810]BlueprintLog: New page: Compile BP_Jet
+[2022.10.18-08.26.49:623][810]LogUObjectHash: Compacting FUObjectHashTables data took   1.97ms
+[2022.10.18-08.26.51:572][916]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/BP_Jet" FILE="../../../../../../BetaProduction/Content/Assets/BP_Jet.uasset" SILENT=true
+[2022.10.18-08.26.51:580][916]LogSavePackage: Moving output files for package: /Game/Assets/BP_Jet
+[2022.10.18-08.26.51:580][916]LogSavePackage: Moving '../../../../../../BetaProduction/Saved/BP_JetF3786A6F49E1EA307B978B8370130ADD.tmp' to '../../../../../../BetaProduction/Content/Assets/BP_Jet.uasset'
+[2022.10.18-08.26.51:598][916]AssetCheck: New page: Asset Save: BP_Jet
+[2022.10.18-08.26.51:598][916]LogContentValidation: Display: Validating Blueprint /Game/Assets/BP_Jet.BP_Jet
+[2022.10.18-08.30.27:064][856]LogUObjectGlobals: Warning: Failed to find object 'Class None.Physics'
+[2022.10.18-08.43.13:547][404]LogSlate: Window 'Plugins' being destroyed
+[2022.10.18-08.43.13:555][404]LogSlate: Window 'Plugins' being destroyed
+[2022.10.18-08.43.13:631][404]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/' was aborted.
+[2022.10.18-08.43.15:271][488]LogShaderCompilers: Display: ================================================
+[2022.10.18-08.43.15:271][488]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.10.18-08.43.15:271][488]LogShaderCompilers: Display: Total job queries 727, among them cache hits 322 (44.29%)
+[2022.10.18-08.43.15:271][488]LogShaderCompilers: Display: Tracking 376 distinct input hashes that result in 264 distinct outputs (70.21%)
+[2022.10.18-08.43.15:271][488]LogShaderCompilers: Display: RAM used: 0.72 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.09%
+[2022.10.18-08.43.15:271][488]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2022.10.18-08.43.15:272][488]LogShaderCompilers: Display: Shaders Compiled: 304
+[2022.10.18-08.43.15:272][488]LogShaderCompilers: Display: Jobs assigned 376, completed 376 (100.00%)
+[2022.10.18-08.43.15:272][488]LogShaderCompilers: Display: Average time worker was idle: 150.54 s
+[2022.10.18-08.43.15:272][488]LogShaderCompilers: Display: Time job spent in pending queue: average 15.48 s, longest 84.53 s
+[2022.10.18-08.43.15:272][488]LogShaderCompilers: Display: Job execution time: average 19.20 s, max 43.93 s
+[2022.10.18-08.43.15:272][488]LogShaderCompilers: Display: Job life time (pending + execution): average 34.68 s, max 87.61
+[2022.10.18-08.43.15:272][488]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 251.22 s
+[2022.10.18-08.43.15:272][488]LogShaderCompilers: Display: Jobs were issued in 186 batches (only local compilation was used), average 2.02 jobs/batch
+[2022.10.18-08.43.15:272][488]LogShaderCompilers: Display: Average processing rate: 1.50 jobs/sec
+[2022.10.18-08.43.15:272][488]LogShaderCompilers: Display: Effective parallelization: 4.64 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2022.10.18-08.43.15:272][488]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2022.10.18-08.43.15:272][488]LogShaderCompilers: Display:     TBasePassPSFSelfShadowedVolumetricLightmapPolicySkylight (compiled    1 times, average 10.33 sec, max 10.33 sec, min 10.33 sec)
+[2022.10.18-08.43.15:272][488]LogShaderCompilers: Display:             TBasePassPSFSelfShadowedVolumetricLightmapPolicy (compiled    1 times, average 10.02 sec, max 10.02 sec, min 10.02 sec)
+[2022.10.18-08.43.15:272][488]LogShaderCompilers: Display:                   TBasePassPSFSelfShadowedTranslucencyPolicy (compiled    1 times, average 9.43 sec, max 9.43 sec, min 9.43 sec)
+[2022.10.18-08.43.15:272][488]LogShaderCompilers: Display: TBasePassPSFSelfShadowedCachedPointIndirectLightingPolicySkylight (compiled    1 times, average 7.36 sec, max 7.36 sec, min 7.36 sec)
+[2022.10.18-08.43.15:272][488]LogShaderCompilers: Display:           TBasePassPSFSelfShadowedTranslucencyPolicySkylight (compiled    1 times, average 6.79 sec, max 6.79 sec, min 6.79 sec)
+[2022.10.18-08.43.15:272][488]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2022.10.18-08.43.15:272][488]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 7.55% of total time (compiled   34 times, average 2.59 sec, max 15.49 sec, min 1.25 sec)
+[2022.10.18-08.43.15:272][488]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 7.26% of total time (compiled   28 times, average 3.02 sec, max 13.93 sec, min 1.05 sec)
+[2022.10.18-08.43.15:272][488]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 5.90% of total time (compiled   15 times, average 4.58 sec, max 8.14 sec, min 1.42 sec)
+[2022.10.18-08.43.15:272][488]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight - 4.18% of total time (compiled    9 times, average 5.40 sec, max 9.75 sec, min 2.33 sec)
+[2022.10.18-08.43.15:272][488]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight - 3.93% of total time (compiled    9 times, average 5.09 sec, max 9.98 sec, min 2.03 sec)
+[2022.10.18-08.43.15:272][488]LogShaderCompilers: Display: ================================================
+[2022.10.18-08.43.15:303][490]MaterialEditorStats: Texture samplers: 4/16
+[2022.10.18-08.43.15:303][490]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.10.18-08.43.15:303][490]MaterialEditorStats: Shader Count: 2
+[2022.10.18-08.46.57:096][888]LogUObjectHash: Compacting FUObjectHashTables data took   2.65ms
+[2022.10.18-08.46.57:101][888]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.086
+[2022.10.18-08.46.57:101][888]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Assets/BP_Jet] ([2] browsable assets)...
+[2022.10.18-08.46.57:146][888]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Assets/BP_Jet.BP_Jet]
+[2022.10.18-08.46.57:146][888]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/BP_Jet]
+[2022.10.18-08.46.57:146][888]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/BP_Jet" FILE="../../../../../../BetaProduction/Saved/Autosaves/Game/Assets/BP_Jet_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2022.10.18-08.46.57:152][888]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Assets/BP_Jet_Auto2
+[2022.10.18-08.46.57:152][888]LogSavePackage: Moving '../../../../../../BetaProduction/Saved/BP_Jet_Auto24B428E9E4FEB15F67659858E6A63F55D.tmp' to '../../../../../../BetaProduction/Saved/Autosaves/Game/Assets/BP_Jet_Auto2.uasset'
+[2022.10.18-08.46.57:153][888]LogFileHelpers: Auto-saving content packages took 0.052
+[2022.10.18-08.49.23:759][ 77]BlueprintLog: New page: Compile BP_Jet
+[2022.10.18-08.49.23:849][ 77]LogUObjectHash: Compacting FUObjectHashTables data took   2.74ms
+[2022.10.18-08.56.28:721][860]BlueprintLog: New page: Compile BP_Jet
+[2022.10.18-08.56.28:824][860]LogUObjectHash: Compacting FUObjectHashTables data took   2.54ms
+[2022.10.18-08.56.47:320][320]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/BP_Jet" FILE="../../../../../../BetaProduction/Content/Assets/BP_Jet.uasset" SILENT=true
+[2022.10.18-08.56.47:326][320]LogSavePackage: Moving output files for package: /Game/Assets/BP_Jet
+[2022.10.18-08.56.47:327][320]LogSavePackage: Moving '../../../../../../BetaProduction/Saved/BP_Jet9CBF73ED434541E3F6DC38A756621C5A.tmp' to '../../../../../../BetaProduction/Content/Assets/BP_Jet.uasset'
+[2022.10.18-08.56.47:350][320]AssetCheck: New page: Asset Save: BP_Jet
+[2022.10.18-08.56.47:350][320]LogContentValidation: Display: Validating Blueprint /Game/Assets/BP_Jet.BP_Jet
+[2022.10.18-08.57.25:742][265]LogUObjectGlobals: Warning: Failed to find object 'Class None.Physics'
+[2022.10.18-08.57.41:733][444]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.10.18-08.58.05:042][975]LogSlate: Window 'Project Settings' being destroyed
+[2022.10.18-08.58.11:150][240]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Assets/BP_Jet.BP_Jet_C
+[2022.10.18-08.58.11:150][240]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Assets/BP_Jet.BP_Jet_C
+[2022.10.18-08.58.11:155][240]LogActorFactory: Actor Factory spawned Blueprint /Game/Assets/BP_Jet.BP_Jet as actor: BP_Jet_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Jet_C_0
+[2022.10.18-08.58.11:162][240]LogActorFactory: Actor Factory spawned Blueprint /Game/Assets/BP_Jet.BP_Jet as actor: BP_Jet_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Jet_C_0
+[2022.10.18-08.58.11:491][255]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Assets/BP_Jet.BP_Jet_C
+[2022.10.18-08.58.11:491][255]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Assets/BP_Jet.BP_Jet_C
+[2022.10.18-08.58.11:497][255]LogActorFactory: Actor Factory spawned Blueprint /Game/Assets/BP_Jet.BP_Jet as actor: BP_Jet_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Jet_C_UAID_D45D64674F4E284101_1407430841
+[2022.10.18-08.58.11:504][255]LogActorFactory: Actor Factory spawned Blueprint /Game/Assets/BP_Jet.BP_Jet as actor: BP_Jet_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Jet_C_UAID_D45D64674F4E284101_1407430841
+[2022.10.18-08.58.11:556][256]LogViewport: Scene viewport resized to 499x219, mode Windowed.
+[2022.10.18-08.58.40:042][857]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/4E/QDS9UO91QBWWVZT5PIBQZQ
+[2022.10.18-08.58.40:043][857]LogSavePackage: Moving '../../../../../../BetaProduction/Saved/QDS9UO91QBWWVZT5PIBQZQ910EB0C44D6621FF8AF0D5A5543B33BE.tmp' to '../../../../../../BetaProduction/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/4E/QDS9UO91QBWWVZT5PIBQZQ.uasset'
+[2022.10.18-08.58.40:065][857]AssetCheck: New page: Asset Save: BP_Jet_C_UAID_D45D64674F4E284101_1407430841
+[2022.10.18-08.58.40:065][857]LogContentValidation: Display: Validating BP_Jet_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Jet_C_UAID_D45D64674F4E284101_1407430841
+[2022.10.18-08.58.52:152][969]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.10.18-08.58.52:174][969]LogWorldPartition: Display: GenerateStreaming started...
+[2022.10.18-08.58.52:174][969]LogWorldPartition: Display: GetPartitionedActors started...
+[2022.10.18-08.58.52:175][969]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2022.10.18-08.58.52:175][969]LogWorldPartition: Display: ValidateSingleActorReferer started...
+[2022.10.18-08.58.52:175][969]LogWorldPartition: Display: ValidateSingleActorReferer took 0 us
+[2022.10.18-08.58.52:175][969]LogWorldPartition: Display: GetPartitionedActors took 66 us
+[2022.10.18-08.58.52:175][969]LogWorldPartition: Display: GenerateStreaming took 504 us
+[2022.10.18-08.58.52:180][969]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.10.18-08.58.52:180][969]PIE: New page: PIE session: ThirdPersonMap (2022. 10. 19. 오전 2:58:52)
+[2022.10.18-08.58.52:191][969]LogOnline: OSS: Created online subsystem instance for: NULL
+[2022.10.18-08.58.52:193][969]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2022.10.18-08.58.52:193][969]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2022.10.18-08.58.52:199][969]LogWorldPartition: Initial Data Layer Effective States Activated() Loaded()
+[2022.10.18-08.58.52:199][969]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005999s)
+[2022.10.18-08.58.52:199][969]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.006360s)
+[2022.10.18-08.58.52:199][969]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.18-08.58.52:200][969]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2022.10.18-08.58.52:201][969]LogWorldPartition: Display: WorldPartition initialize started...
+[2022.10.18-08.58.52:201][969]LogWorldPartition: UWorldPartition::Initialize(IsEditor=0, IsGame=0, IsCooking=0)
+[2022.10.18-08.58.52:203][969]LogWorldPartition: Display: WorldPartition initialize took 1 ms
+[2022.10.18-08.58.52:203][969]LogPlayLevel: PIE: World Init took: (0.003842s)
+[2022.10.18-08.58.52:252][969]LogUObjectHash: Compacting FUObjectHashTables data took   3.73ms
+[2022.10.18-08.58.52:258][969]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2022.10.18-08.58.52:258][969]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.10.18-08.58.52:258][969]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.10.18-08.58.52:258][969]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.10.18-08.58.52:258][969]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.10.18-08.58.52:258][969]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.10.18-08.58.52:258][969]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.10.18-08.58.52:258][969]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.10.18-08.58.52:258][969]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.10.18-08.58.52:258][969]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.10.18-08.58.52:258][969]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.10.18-08.58.52:258][969]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.10.18-08.58.52:261][969]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.10.18-08.58.52:396][969]LogAudioMixer: Display: Using Audio Hardware Device Speakers(Realtek(R) Audio)
+[2022.10.18-08.58.52:397][969]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.10.18-08.58.52:397][969]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.10.18-08.58.52:397][969]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.10.18-08.58.52:398][969]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2022.10.18-08.58.52:398][969]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=2
+[2022.10.18-08.58.52:400][969]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2022.10.18-08.58.52:400][969]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2022.10.18-08.58.52:400][969]LogInit: FAudioDevice initialized.
+[2022.10.18-08.58.52:400][969]LogAudio: Display: Audio Device (ID: 2) registered with world 'ThirdPersonMap'.
+[2022.10.18-08.58.52:422][969]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2022.10.18-08.58.52:424][969]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 60) at 2022.10.18-17.58.52
+[2022.10.18-08.58.52:427][969]LogWorld: Bringing up level for play took: 0.003695
+[2022.10.18-08.58.52:429][969]LogOnline: OSS: Created online subsystem instance for: :Context_9
+[2022.10.18-08.58.52:441][969]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2022.10.18-08.58.52:476][969]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=-1180.000 Y=-140.000 Z=1230.000
+[2022.10.18-08.58.52:476][969]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2022.10.18-08.58.52:479][969]PIE: Server logged in
+[2022.10.18-08.58.52:480][969]PIE: Play in editor total start time 0.314 seconds.
+[2022.10.18-08.58.55:721][118]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.18-08.58.55:721][118]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2022.10.18-08.58.55:722][118]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2022.10.18-08.58.55:723][118]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.18-08.58.55:743][118]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.10.18-08.58.55:753][118]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.18-08.58.55:797][118]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.18-08.58.55:802][118]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2022.10.18-08.58.55:804][118]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2022.10.18-08.58.55:877][118]LogUObjectHash: Compacting FUObjectHashTables data took   3.31ms
+[2022.10.18-08.58.55:919][119]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2022.10.18-08.58.55:936][119]LogViewport: Scene viewport resized to 499x219, mode Windowed.
+[2022.10.18-08.59.06:499][259]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.10.18-08.59.06:518][259]LogWorldPartition: Display: GenerateStreaming started...
+[2022.10.18-08.59.06:518][259]LogWorldPartition: Display: GetPartitionedActors started...
+[2022.10.18-08.59.06:518][259]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2022.10.18-08.59.06:518][259]LogWorldPartition: Display: ValidateSingleActorReferer started...
+[2022.10.18-08.59.06:518][259]LogWorldPartition: Display: ValidateSingleActorReferer took 0 us
+[2022.10.18-08.59.06:518][259]LogWorldPartition: Display: GetPartitionedActors took 101 us
+[2022.10.18-08.59.06:519][259]LogWorldPartition: Display: GenerateStreaming took 322 us
+[2022.10.18-08.59.06:519][259]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.10.18-08.59.06:519][259]PIE: New page: PIE session: ThirdPersonMap (2022. 10. 19. 오전 2:59:06)
+[2022.10.18-08.59.06:519][259]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2022.10.18-08.59.06:523][259]LogWorldPartition: Initial Data Layer Effective States Activated() Loaded()
+[2022.10.18-08.59.06:523][259]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003593s)
+[2022.10.18-08.59.06:523][259]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.003653s)
+[2022.10.18-08.59.06:523][259]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.18-08.59.06:523][259]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2022.10.18-08.59.06:524][259]LogWorldPartition: Display: WorldPartition initialize started...
+[2022.10.18-08.59.06:524][259]LogWorldPartition: UWorldPartition::Initialize(IsEditor=0, IsGame=0, IsCooking=0)
+[2022.10.18-08.59.06:525][259]LogWorldPartition: Display: WorldPartition initialize took 1 ms
+[2022.10.18-08.59.06:525][259]LogPlayLevel: PIE: World Init took: (0.002238s)
+[2022.10.18-08.59.06:604][259]LogUObjectHash: Compacting FUObjectHashTables data took   2.38ms
+[2022.10.18-08.59.06:610][259]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2022.10.18-08.59.06:610][259]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.10.18-08.59.06:610][259]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.10.18-08.59.06:610][259]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.10.18-08.59.06:611][259]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.10.18-08.59.06:611][259]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.10.18-08.59.06:611][259]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.10.18-08.59.06:611][259]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.10.18-08.59.06:611][259]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.10.18-08.59.06:611][259]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.10.18-08.59.06:611][259]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.10.18-08.59.06:611][259]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.10.18-08.59.06:613][259]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.10.18-08.59.06:744][259]LogAudioMixer: Display: Using Audio Hardware Device Speakers(Realtek(R) Audio)
+[2022.10.18-08.59.06:744][259]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.10.18-08.59.06:744][259]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.10.18-08.59.06:744][259]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.10.18-08.59.06:745][259]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2022.10.18-08.59.06:745][259]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=3
+[2022.10.18-08.59.06:747][259]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2022.10.18-08.59.06:747][259]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2022.10.18-08.59.06:747][259]LogInit: FAudioDevice initialized.
+[2022.10.18-08.59.06:747][259]LogAudio: Display: Audio Device (ID: 3) registered with world 'ThirdPersonMap'.
+[2022.10.18-08.59.06:763][259]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2022.10.18-08.59.06:764][259]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 60) at 2022.10.18-17.59.06
+[2022.10.18-08.59.06:764][259]LogWorld: Bringing up level for play took: 0.001029
+[2022.10.18-08.59.06:766][259]LogOnline: OSS: Created online subsystem instance for: :Context_10
+[2022.10.18-08.59.06:767][259]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2022.10.18-08.59.06:767][259]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=-1180.000 Y=-140.000 Z=1230.000
+[2022.10.18-08.59.06:767][259]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2022.10.18-08.59.06:768][259]PIE: Server logged in
+[2022.10.18-08.59.06:768][259]PIE: Play in editor total start time 0.252 seconds.
+[2022.10.18-08.59.08:130][332]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.18-08.59.08:130][332]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2022.10.18-08.59.08:130][332]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2022.10.18-08.59.08:130][332]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.18-08.59.08:144][332]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.10.18-08.59.08:150][332]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.18-08.59.08:187][332]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.10.18-08.59.08:187][332]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2022.10.18-08.59.08:189][332]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2022.10.18-08.59.08:204][332]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.18-08.59.08:207][332]LogUObjectHash: Compacting FUObjectHashTables data took   2.16ms
+[2022.10.18-08.59.08:246][333]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2022.10.18-08.59.08:256][333]LogViewport: Scene viewport resized to 499x219, mode Windowed.
