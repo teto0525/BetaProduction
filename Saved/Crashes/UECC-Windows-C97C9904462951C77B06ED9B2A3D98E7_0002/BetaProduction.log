@@ -1927,7 +1927,3 @@ Recommended: 516.25
 [2022.10.18-08.14.13:097][ 79]LogContentBrowser: End creating deferred item NewBlueprint
 [2022.10.18-08.14.28:647][472]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Assets/BP_Jet.BP_Jet
 [2022.10.18-08.14.28:650][472]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
-[2022.10.18-08.14.32:097][472]LogStall: Stall detector 'UAssetEditorSubsystem::OpenEditorForAsset' exceeded budget of 2.000000s, reporting...
-[2022.10.18-08.14.32:097][472]LogStall: Stall detector 'UAssetEditorSubsystem::OpenEditorForAsset' report submitted, and took 0.049990s
-[2022.10.18-08.14.32:097][472]LogStall: Stall detector 'UAssetEditorSubsystem::OpenEditorForAsset' complete in 0.001189s (0.065407s overbudget)
-[2022.10.18-08.14.32:186][472]LogViewport: Scene viewport resized to 818x825, mode Windowed.
